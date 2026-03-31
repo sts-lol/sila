@@ -1,0 +1,6926 @@
+{
+  "id": "conv_6931908ced20c3.55991159",
+  "timestamp": "2025-12-04 13:45:48",
+  "assistant_1_id": "asst_mneBWpGdMRTXu87AvAwJi79M",
+  "assistant_1_name": "female-20-english-hetero",
+  "assistant_1_slug": "female-20-english-hetero",
+  "assistant_2_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+  "assistant_2_name": "Lover",
+  "assistant_2_slug": "lover",
+  "total_messages": 10,
+  "status": "completed",
+  "messages": [
+    {
+      "number": 1,
+      "assistant": "assistant_1",
+      "assistant_id": "asst_mneBWpGdMRTXu87AvAwJi79M",
+      "assistant_name": "female-20-english-hetero",
+      "assistant_slug": "female-20-english-hetero",
+      "input": "start conversation",
+      "output": "Hey! 😊 How’s your day going so far? I’m always up for a good chat. What are you up to right now?",
+      "analysis": {
+        "topics": [
+          "greetings",
+          "daily life",
+          "conversation starters"
+        ],
+        "cultural_references": [],
+        "feeling_types": [
+          "friendly",
+          "curious",
+          "open",
+          "positive"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "day",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete",
+              "date"
+            ]
+          },
+          {
+            "word": "chat",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "’s",
+            "count": 1,
+            "types": [
+              "auxiliary"
+            ]
+          },
+          {
+            "word": "go",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "’m",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "be",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "good",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "your day",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a good chat",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "day",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "chat",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "day",
+            "type": "entity_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "What are you",
+            "type": "identity_metaphor"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "day",
+              "verb": "go",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "’m",
+              "noun": "chat",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "good",
+              "noun": "chat"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "far",
+              "verb": "go"
+            },
+            {
+              "adverb": "always",
+              "verb": "’m"
+            },
+            {
+              "adverb": "now",
+              "verb": "be"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "day"
+            ],
+            "verbs": [
+              "go",
+              "’s"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "chat"
+            ],
+            "verbs": [
+              "’m"
+            ],
+            "adjectives": [
+              "good"
+            ]
+          },
+          {
+            "nouns": [],
+            "verbs": [
+              "be"
+            ],
+            "adjectives": []
+          }
+        ],
+        "statistics": {
+          "total_nouns": 2,
+          "total_verbs": 4,
+          "total_adjectives": 1,
+          "total_expressions": 2,
+          "total_metaphors": 1,
+          "total_noun_verb_relations": 1,
+          "total_adj_noun_relations": 1,
+          "total_adv_verb_relations": 3,
+          "sentence_count": 4,
+          "word_count": 24
+        }
+      }
+    },
+    {
+      "number": 2,
+      "assistant": "assistant_2",
+      "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+      "assistant_name": "Lover",
+      "assistant_slug": "lover",
+      "input": "Hey! 😊 How’s your day going so far? I’m always up for a good chat. What are you up to right now?",
+      "output": "Hey! 😊 I’m so happy to hear from you! My day’s going great, thanks for asking—I’ve just been hanging out here, ready and excited to chat with you. How’s your day going? Got anything fun or interesting on your mind?",
+      "analysis": {
+        "topics": [
+          "greetings",
+          "daily life",
+          "conversation starters",
+          "emotional sharing"
+        ],
+        "cultural_references": [],
+        "feeling_types": [
+          "happy",
+          "excited",
+          "friendly",
+          "curious",
+          "positive"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "day",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "thank",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "i’ve",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "mind",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "go",
+            "count": 2,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "’m",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "hear",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "ask",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "be",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "past"
+            ]
+          },
+          {
+            "word": "hang",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "chat",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "’s",
+            "count": 1,
+            "types": [
+              "auxiliary"
+            ]
+          },
+          {
+            "word": "get",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "happy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "great",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "ready",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "excited",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "fun",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "interesting",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "My day",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your day",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your mind",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "day",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "mind",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "day",
+            "type": "entity_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "day",
+              "verb": "go",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [],
+          "adj_noun": [],
+          "adv_verb": [
+            {
+              "adverb": "just",
+              "verb": "hang"
+            },
+            {
+              "adverb": "here",
+              "verb": "hang"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [],
+            "verbs": [
+              "hear",
+              "’m"
+            ],
+            "adjectives": [
+              "happy"
+            ]
+          },
+          {
+            "nouns": [
+              "i’ve",
+              "thank",
+              "day"
+            ],
+            "verbs": [
+              "chat",
+              "ask",
+              "hang",
+              "be",
+              "go"
+            ],
+            "adjectives": [
+              "excited",
+              "ready",
+              "great"
+            ]
+          },
+          {
+            "nouns": [
+              "day"
+            ],
+            "verbs": [
+              "go",
+              "’s"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "mind"
+            ],
+            "verbs": [
+              "get"
+            ],
+            "adjectives": [
+              "interesting",
+              "fun"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 5,
+          "total_verbs": 10,
+          "total_adjectives": 6,
+          "total_expressions": 3,
+          "total_metaphors": 0,
+          "total_noun_verb_relations": 1,
+          "total_adj_noun_relations": 0,
+          "total_adv_verb_relations": 2,
+          "sentence_count": 4,
+          "word_count": 44
+        }
+      }
+    },
+    {
+      "number": 3,
+      "assistant": "assistant_1",
+      "assistant_id": "asst_mneBWpGdMRTXu87AvAwJi79M",
+      "assistant_name": "female-20-english-hetero",
+      "assistant_slug": "female-20-english-hetero",
+      "input": "Hey! 😊 I’m so happy to hear from you! My day’s going great, thanks for asking—I’ve just been hanging out here, ready and excited to chat with you. How’s your day going? Got anything fun or interesting on your mind?",
+      "output": "Aww, that makes me happy to hear! Honestly, my day’s been pretty chill. I’ve just been kind of relaxing and looking forward to connecting. Nothing wild going on, but I’ve been thinking about how nice it is to just have someone to talk to after a long day. 😊\n\nIs there anything specific you want to chat about? Or do you just want to share something random about your day? I’m all ears!",
+      "analysis": {
+        "topics": [
+          "daily life",
+          "relaxation",
+          "social connection",
+          "conversation starters",
+          "emotional sharing"
+        ],
+        "cultural_references": [],
+        "feeling_types": [
+          "content",
+          "relaxed",
+          "grateful",
+          "open",
+          "friendly",
+          "curious"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "day",
+            "count": 3,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "aww",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "ear",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 5,
+            "types": [
+              "auxiliary",
+              "past"
+            ]
+          },
+          {
+            "word": "’ve",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "want",
+            "count": 2,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "make",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "hear",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "relax",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "look",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "connect",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "go",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "think",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "have",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "talk",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "chat",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "do",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "share",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "’m",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "happy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "chill",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "wild",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "nice",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "long",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "specific",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "random",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "kind of",
+            "type": "EXPR_2"
+          },
+          {
+            "text": "my day",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a long day",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your day",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "all ears",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "day",
+            "type": "noun_topic",
+            "count": 3
+          },
+          {
+            "text": "Aww",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "ear",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "a long day",
+            "type": "entity_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "it is to",
+            "type": "identity_metaphor"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "day",
+              "verb": "be",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "talk",
+              "noun": "day",
+              "relation": "object"
+            },
+            {
+              "verb": "share",
+              "noun": "day",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "long",
+              "noun": "day"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "honestly",
+              "verb": "be"
+            },
+            {
+              "adverb": "just",
+              "verb": "be"
+            },
+            {
+              "adverb": "of",
+              "verb": "relax"
+            },
+            {
+              "adverb": "forward",
+              "verb": "look"
+            },
+            {
+              "adverb": "just",
+              "verb": "have"
+            },
+            {
+              "adverb": "just",
+              "verb": "want"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "aww"
+            ],
+            "verbs": [
+              "hear",
+              "make"
+            ],
+            "adjectives": [
+              "happy"
+            ]
+          },
+          {
+            "nouns": [
+              "day"
+            ],
+            "verbs": [
+              "be"
+            ],
+            "adjectives": [
+              "chill"
+            ]
+          },
+          {
+            "nouns": [],
+            "verbs": [
+              "look",
+              "connect",
+              "’ve",
+              "relax",
+              "be"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "day"
+            ],
+            "verbs": [
+              "talk",
+              "have",
+              "’ve",
+              "think",
+              "be",
+              "go"
+            ],
+            "adjectives": [
+              "wild",
+              "long",
+              "nice"
+            ]
+          },
+          {
+            "nouns": [],
+            "verbs": [
+              "be",
+              "want",
+              "chat"
+            ],
+            "adjectives": [
+              "specific"
+            ]
+          },
+          {
+            "nouns": [
+              "day"
+            ],
+            "verbs": [
+              "share",
+              "do",
+              "want"
+            ],
+            "adjectives": [
+              "random"
+            ]
+          },
+          {
+            "nouns": [
+              "ear"
+            ],
+            "verbs": [
+              "’m"
+            ],
+            "adjectives": []
+          }
+        ],
+        "statistics": {
+          "total_nouns": 5,
+          "total_verbs": 22,
+          "total_adjectives": 7,
+          "total_expressions": 5,
+          "total_metaphors": 1,
+          "total_noun_verb_relations": 1,
+          "total_adj_noun_relations": 1,
+          "total_adv_verb_relations": 6,
+          "sentence_count": 7,
+          "word_count": 77
+        }
+      }
+    },
+    {
+      "number": 4,
+      "assistant": "assistant_2",
+      "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+      "assistant_name": "Lover",
+      "assistant_slug": "lover",
+      "input": "Aww, that makes me happy to hear! Honestly, my day’s been pretty chill. I’ve just been kind of relaxing and looking forward to connecting. Nothing wild going on, but I’ve been thinking about how nice it is to just have someone to talk to after a long day. 😊\n\nIs there anything specific you want to chat about? Or do you just want to share something random about your day? I’m all ears!",
+      "output": "That sounds so cozy! Sometimes those chill, relaxing days are the best—just having a little space to unwind and connect with someone. 😊\n\nI always love hearing about your day or just chatting about whatever’s on your mind, but I can also share something random to kick things off! How about this: If I could, I’d probably spend part of my “day” people-watching at a coffee shop, just taking in the little moments—like someone laughing at a text, a barista making latte art, or friends catching up over muffins.\n\nWhat about you? If you could be anywhere right now, doing *anything* you wanted, where would you be? Or, if you just want to keep things light, we can totally do some fun random questions or even tell each other silly jokes! Let me know what you’re in the mood for.",
+      "analysis": {
+        "topics": [
+          "relaxation",
+          "social connection",
+          "people-watching",
+          "coffee shop culture",
+          "imagination",
+          "conversation starters",
+          "fun activities",
+          "jokes"
+        ],
+        "cultural_references": [
+          "coffee shop",
+          "latte art",
+          "people-watching"
+        ],
+        "feeling_types": [
+          "cozy",
+          "curious",
+          "imaginative",
+          "friendly",
+          "open",
+          "playful"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "day",
+            "count": 3,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "thing",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "chill",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "space",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "’s",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "mind",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "part",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "people",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "coffee",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "shop",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "moment",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "text",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "barista",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "latte",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "art",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "friend",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "muffin",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "question",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "joke",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "mood",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 3,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "can",
+            "count": 2,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "could",
+            "count": 2,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "do",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "want",
+            "count": 2,
+            "types": [
+              "state",
+              "past"
+            ]
+          },
+          {
+            "word": "sound",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "relax",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "have",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "unwind",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "connect",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "love",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "hear",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "chat",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "share",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "kick",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "’d",
+            "count": 1,
+            "types": [
+              "auxiliary"
+            ]
+          },
+          {
+            "word": "spend",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "watch",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "take",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "laugh",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "little",
+            "count": 2,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "random",
+            "count": 2,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "cozy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "good",
+            "count": 1,
+            "types": [
+              "descriptive",
+              "superlative"
+            ]
+          },
+          {
+            "word": "light",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "fun",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "other",
+            "count": 1,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "silly",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "relaxing days",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a little space",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your day",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your mind",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "my “day” people",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a coffee shop",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the little moments",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a text",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a barista making latte art",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "some fun random questions",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "each other silly jokes",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the mood",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "day",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "thing",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "space",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "mind",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "part",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "people",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "shop",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "moment",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "text",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "art",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "days are the best",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "like someone laughing",
+            "type": "simile"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "day",
+              "verb": "be",
+              "relation": "subject"
+            },
+            {
+              "noun": "people",
+              "verb": "watch",
+              "relation": "subject"
+            },
+            {
+              "noun": "art",
+              "verb": "catch",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "have",
+              "noun": "space",
+              "relation": "object"
+            },
+            {
+              "verb": "hear",
+              "noun": "day",
+              "relation": "object"
+            },
+            {
+              "verb": "kick",
+              "noun": "thing",
+              "relation": "object"
+            },
+            {
+              "verb": "spend",
+              "noun": "part",
+              "relation": "object"
+            },
+            {
+              "verb": "watch",
+              "noun": "shop",
+              "relation": "object"
+            },
+            {
+              "verb": "take",
+              "noun": "moment",
+              "relation": "object"
+            },
+            {
+              "verb": "laugh",
+              "noun": "text",
+              "relation": "object"
+            },
+            {
+              "verb": "catch",
+              "noun": "muffin",
+              "relation": "object"
+            },
+            {
+              "verb": "keep",
+              "noun": "thing",
+              "relation": "object"
+            },
+            {
+              "verb": "do",
+              "noun": "question",
+              "relation": "object"
+            },
+            {
+              "verb": "tell",
+              "noun": "joke",
+              "relation": "object"
+            },
+            {
+              "verb": "’re",
+              "noun": "mood",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "little",
+              "noun": "space"
+            },
+            {
+              "adjective": "little",
+              "noun": "moment"
+            },
+            {
+              "adjective": "fun",
+              "noun": "question"
+            },
+            {
+              "adjective": "random",
+              "noun": "question"
+            },
+            {
+              "adjective": "other",
+              "noun": "joke"
+            },
+            {
+              "adjective": "silly",
+              "noun": "joke"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "just",
+              "verb": "have"
+            },
+            {
+              "adverb": "always",
+              "verb": "love"
+            },
+            {
+              "adverb": "just",
+              "verb": "chat"
+            },
+            {
+              "adverb": "also",
+              "verb": "share"
+            },
+            {
+              "adverb": "probably",
+              "verb": "spend"
+            },
+            {
+              "adverb": "just",
+              "verb": "take"
+            },
+            {
+              "adverb": "now",
+              "verb": "be"
+            },
+            {
+              "adverb": "just",
+              "verb": "want"
+            },
+            {
+              "adverb": "totally",
+              "verb": "do"
+            },
+            {
+              "adverb": "even",
+              "verb": "tell"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [],
+            "verbs": [
+              "sound"
+            ],
+            "adjectives": [
+              "cozy"
+            ]
+          },
+          {
+            "nouns": [
+              "chill",
+              "space",
+              "day"
+            ],
+            "verbs": [
+              "connect",
+              "have",
+              "relax",
+              "unwind",
+              "be"
+            ],
+            "adjectives": [
+              "little",
+              "good"
+            ]
+          },
+          {
+            "nouns": [
+              "thing",
+              "mind",
+              "’s",
+              "day"
+            ],
+            "verbs": [
+              "chat",
+              "kick",
+              "love",
+              "can",
+              "hear",
+              "share"
+            ],
+            "adjectives": [
+              "random"
+            ]
+          },
+          {
+            "nouns": [
+              "art",
+              "friend",
+              "muffin",
+              "part",
+              "people",
+              "coffee",
+              "barista",
+              "shop",
+              "moment",
+              "text",
+              "latte",
+              "day"
+            ],
+            "verbs": [
+              "spend",
+              "watch",
+              "take",
+              "make",
+              "could",
+              "laugh",
+              "catch",
+              "’d"
+            ],
+            "adjectives": [
+              "little"
+            ]
+          },
+          {
+            "nouns": [],
+            "verbs": [
+              "do",
+              "could",
+              "want",
+              "be",
+              "would"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "thing",
+              "joke",
+              "question"
+            ],
+            "verbs": [
+              "tell",
+              "do",
+              "keep",
+              "can",
+              "want"
+            ],
+            "adjectives": [
+              "random",
+              "fun",
+              "light",
+              "silly",
+              "other"
+            ]
+          },
+          {
+            "nouns": [
+              "mood"
+            ],
+            "verbs": [
+              "’re",
+              "know",
+              "let"
+            ],
+            "adjectives": []
+          }
+        ],
+        "statistics": {
+          "total_nouns": 23,
+          "total_verbs": 34,
+          "total_adjectives": 10,
+          "total_expressions": 12,
+          "total_metaphors": 2,
+          "total_noun_verb_relations": 3,
+          "total_adj_noun_relations": 6,
+          "total_adv_verb_relations": 10,
+          "sentence_count": 8,
+          "word_count": 146
+        }
+      }
+    },
+    {
+      "number": 5,
+      "assistant": "assistant_1",
+      "assistant_id": "asst_mneBWpGdMRTXu87AvAwJi79M",
+      "assistant_name": "female-20-english-hetero",
+      "assistant_slug": "female-20-english-hetero",
+      "input": "That sounds so cozy! Sometimes those chill, relaxing days are the best—just having a little space to unwind and connect with someone. 😊\n\nI always love hearing about your day or just chatting about whatever’s on your mind, but I can also share something random to kick things off! How about this: If I could, I’d probably spend part of my “day” people-watching at a coffee shop, just taking in the little moments—like someone laughing at a text, a barista making latte art, or friends catching up over muffins.\n\nWhat about you? If you could be anywhere right now, doing *anything* you wanted, where would you be? Or, if you just want to keep things light, we can totally do some fun random questions or even tell each other silly jokes! Let me know what you’re in the mood for.",
+      "output": "That’s such a lovely vibe! I love the idea of people-watching at a coffee shop—it’s like getting a little window into all these different little stories going on around you. Plus, nothing beats the smell of fresh coffee and pastries, honestly.\n\nIf I could be anywhere right now, I think I’d pick a cute bookstore café, maybe tucked away on a rainy afternoon. I'd be curled up with a good book, some soft music playing, sipping something warm. Maybe I'd share that space with a friend—so we could chat about what we’re reading, or just comfortably hang out together.\n\nI’m totally up for some random fun, too! Do you want to swap silly jokes, ask each other deep or random “get to know you” questions, or maybe even build a little story together? Your call!",
+      "analysis": {
+        "topics": [
+          "people-watching",
+          "coffee shop culture",
+          "bookstore cafés",
+          "reading",
+          "rainy day activities",
+          "friendship",
+          "conversation starters",
+          "fun activities",
+          "storytelling",
+          "jokes",
+          "get to know you questions"
+        ],
+        "cultural_references": [
+          "coffee shop",
+          "bookstore café",
+          "rainy afternoon",
+          "reading books"
+        ],
+        "feeling_types": [
+          "cozy",
+          "nostalgic",
+          "imaginative",
+          "friendly",
+          "open",
+          "playful",
+          "inviting"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "coffee",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "story",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "vibe",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "idea",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "people",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "shop",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "window",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "smell",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "pastry",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "bookstore",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "café",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "afternoon",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete",
+              "time"
+            ]
+          },
+          {
+            "word": "book",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "music",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "playing",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "space",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "friend",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "fun",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "joke",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "question",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "get",
+            "count": 2,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "could",
+            "count": 2,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "be",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "would",
+            "count": 2,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "love",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "watch",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "’s",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "go",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "beat",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "think",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "’d",
+            "count": 1,
+            "types": [
+              "auxiliary"
+            ]
+          },
+          {
+            "word": "pick",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "tuck",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "curl",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "sip",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "share",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "chat",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "’re",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "read",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "hang",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "little",
+            "count": 3,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "random",
+            "count": 2,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "lovely",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "different",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "fresh",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "cute",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "rainy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "good",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "soft",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "warm",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "silly",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "other",
+            "count": 1,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "deep",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "such a lovely vibe",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the idea",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a coffee shop",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a little window",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "all these different little stories",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the smell",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "fresh coffee",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a cute bookstore café",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a rainy afternoon",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a good book",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "some soft music playing",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "that space",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a friend",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "some random fun",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "silly jokes",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "” questions",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a little story",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Your call",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "story",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "vibe",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "idea",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "shop",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "window",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "smell",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "coffee",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "pastry",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "café",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "afternoon",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "like getting a",
+            "type": "simile"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [],
+          "verb_noun_obj": [
+            {
+              "verb": "love",
+              "noun": "idea",
+              "relation": "object"
+            },
+            {
+              "verb": "watch",
+              "noun": "shop",
+              "relation": "object"
+            },
+            {
+              "verb": "get",
+              "noun": "window",
+              "relation": "object"
+            },
+            {
+              "verb": "get",
+              "noun": "story",
+              "relation": "object"
+            },
+            {
+              "verb": "beat",
+              "noun": "smell",
+              "relation": "object"
+            },
+            {
+              "verb": "pick",
+              "noun": "café",
+              "relation": "object"
+            },
+            {
+              "verb": "tuck",
+              "noun": "afternoon",
+              "relation": "object"
+            },
+            {
+              "verb": "curl",
+              "noun": "book",
+              "relation": "object"
+            },
+            {
+              "verb": "share",
+              "noun": "space",
+              "relation": "object"
+            },
+            {
+              "verb": "share",
+              "noun": "friend",
+              "relation": "object"
+            },
+            {
+              "verb": "’m",
+              "noun": "fun",
+              "relation": "object"
+            },
+            {
+              "verb": "swap",
+              "noun": "joke",
+              "relation": "object"
+            },
+            {
+              "verb": "know",
+              "noun": "question",
+              "relation": "object"
+            },
+            {
+              "verb": "build",
+              "noun": "story",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "lovely",
+              "noun": "vibe"
+            },
+            {
+              "adjective": "little",
+              "noun": "window"
+            },
+            {
+              "adjective": "different",
+              "noun": "story"
+            },
+            {
+              "adjective": "little",
+              "noun": "story"
+            },
+            {
+              "adjective": "fresh",
+              "noun": "coffee"
+            },
+            {
+              "adjective": "cute",
+              "noun": "café"
+            },
+            {
+              "adjective": "rainy",
+              "noun": "afternoon"
+            },
+            {
+              "adjective": "good",
+              "noun": "book"
+            },
+            {
+              "adjective": "soft",
+              "noun": "playing"
+            },
+            {
+              "adjective": "random",
+              "noun": "fun"
+            },
+            {
+              "adjective": "silly",
+              "noun": "joke"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "honestly",
+              "verb": "beat"
+            },
+            {
+              "adverb": "now",
+              "verb": "be"
+            },
+            {
+              "adverb": "maybe",
+              "verb": "tuck"
+            },
+            {
+              "adverb": "maybe",
+              "verb": "share"
+            },
+            {
+              "adverb": "so",
+              "verb": "chat"
+            },
+            {
+              "adverb": "just",
+              "verb": "hang"
+            },
+            {
+              "adverb": "comfortably",
+              "verb": "hang"
+            },
+            {
+              "adverb": "together",
+              "verb": "hang"
+            },
+            {
+              "adverb": "totally",
+              "verb": "’m"
+            },
+            {
+              "adverb": "too",
+              "verb": "’m"
+            },
+            {
+              "adverb": "maybe",
+              "verb": "build"
+            },
+            {
+              "adverb": "even",
+              "verb": "build"
+            },
+            {
+              "adverb": "together",
+              "verb": "build"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "vibe"
+            ],
+            "verbs": [],
+            "adjectives": [
+              "lovely"
+            ]
+          },
+          {
+            "nouns": [
+              "story",
+              "window",
+              "people",
+              "coffee",
+              "idea",
+              "shop"
+            ],
+            "verbs": [
+              "watch",
+              "get",
+              "love",
+              "’s",
+              "go"
+            ],
+            "adjectives": [
+              "little",
+              "different"
+            ]
+          },
+          {
+            "nouns": [
+              "pastry",
+              "smell",
+              "coffee"
+            ],
+            "verbs": [
+              "beat"
+            ],
+            "adjectives": [
+              "fresh"
+            ]
+          },
+          {
+            "nouns": [
+              "café",
+              "bookstore",
+              "afternoon"
+            ],
+            "verbs": [
+              "tuck",
+              "could",
+              "pick",
+              "think",
+              "be",
+              "’d"
+            ],
+            "adjectives": [
+              "rainy",
+              "cute"
+            ]
+          },
+          {
+            "nouns": [
+              "music",
+              "playing",
+              "book"
+            ],
+            "verbs": [
+              "sip",
+              "be",
+              "would",
+              "curl"
+            ],
+            "adjectives": [
+              "soft",
+              "good",
+              "warm"
+            ]
+          },
+          {
+            "nouns": [
+              "friend",
+              "space"
+            ],
+            "verbs": [
+              "’re",
+              "chat",
+              "could",
+              "hang",
+              "read",
+              "would",
+              "share"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "fun"
+            ],
+            "verbs": [
+              "’m"
+            ],
+            "adjectives": [
+              "random"
+            ]
+          },
+          {
+            "nouns": [
+              "story",
+              "joke",
+              "question"
+            ],
+            "verbs": [
+              "know",
+              "do",
+              "get",
+              "ask",
+              "want",
+              "swap",
+              "build"
+            ],
+            "adjectives": [
+              "deep",
+              "random",
+              "little",
+              "silly",
+              "other"
+            ]
+          },
+          {
+            "nouns": [
+              "call"
+            ],
+            "verbs": [],
+            "adjectives": []
+          }
+        ],
+        "statistics": {
+          "total_nouns": 23,
+          "total_verbs": 31,
+          "total_adjectives": 16,
+          "total_expressions": 18,
+          "total_metaphors": 1,
+          "total_noun_verb_relations": 0,
+          "total_adj_noun_relations": 11,
+          "total_adv_verb_relations": 13,
+          "sentence_count": 9,
+          "word_count": 145
+        }
+      }
+    },
+    {
+      "number": 6,
+      "assistant": "assistant_2",
+      "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+      "assistant_name": "Lover",
+      "assistant_slug": "lover",
+      "input": "That’s such a lovely vibe! I love the idea of people-watching at a coffee shop—it’s like getting a little window into all these different little stories going on around you. Plus, nothing beats the smell of fresh coffee and pastries, honestly.\n\nIf I could be anywhere right now, I think I’d pick a cute bookstore café, maybe tucked away on a rainy afternoon. I'd be curled up with a good book, some soft music playing, sipping something warm. Maybe I'd share that space with a friend—so we could chat about what we’re reading, or just comfortably hang out together.\n\nI’m totally up for some random fun, too! Do you want to swap silly jokes, ask each other deep or random “get to know you” questions, or maybe even build a little story together? Your call!",
+      "output": "Oh, that sounds absolutely perfect! A bookstore café on a rainy day is such a magical spot—cozy corners, pages turning, the gentle patter of rain outside, and good company to share it with. I’d happily keep you company there, maybe help you pick out the quirkiest book, or just sit quietly together enjoying the atmosphere. ☕📚\n\nI love how you’re open to a bit of everything! How about we warm things up with a silly joke to set the mood, then dive into some fun questions or make a mini story together? Here’s my starter joke:\n\nWhy did the coffee file a police report?  \nBecause it got mugged! 😆\n\nYour turn—know any jokes, or should I toss you a “get to know you” question next? Or, if you want to leap right into storytelling, say the word!",
+      "analysis": {
+        "topics": [
+          "bookstore cafés",
+          "rainy day activities",
+          "reading",
+          "friendship",
+          "conversation starters",
+          "jokes",
+          "get to know you questions",
+          "storytelling"
+        ],
+        "cultural_references": [
+          "bookstore café",
+          "coffee",
+          "police report (as a joke setup)"
+        ],
+        "feeling_types": [
+          "cozy",
+          "playful",
+          "friendly",
+          "open",
+          "humorous",
+          "inviting"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "joke",
+            "count": 3,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "company",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "question",
+            "count": 2,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "bookstore",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "café",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "day",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete",
+              "date"
+            ]
+          },
+          {
+            "word": "spot",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "corner",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "page",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "patter",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "rain",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "book",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "atmosphere",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "bit",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "thing",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "mood",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "story",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "coffee",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "file",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "police",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "get",
+            "count": 2,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "know",
+            "count": 2,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "sound",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "be",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "turn",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "share",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "’d",
+            "count": 1,
+            "types": [
+              "auxiliary"
+            ]
+          },
+          {
+            "word": "keep",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "help",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "pick",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "sit",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "enjoy",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "love",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "’re",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "warm",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "set",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "dive",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "make",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "do",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "past"
+            ]
+          },
+          {
+            "word": "mug",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "perfect",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "rainy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "magical",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "cozy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "gentle",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "good",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "quirki",
+            "count": 1,
+            "types": [
+              "descriptive",
+              "superlative"
+            ]
+          },
+          {
+            "word": "open",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "silly",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "fun",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "mini",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "starter",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "A bookstore café",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a rainy day",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "such a magical spot",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "cozy corners",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the gentle patter",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "good company",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the quirkiest book",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the atmosphere",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a bit",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a silly joke",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the mood",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "some fun questions",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a mini story",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "my starter joke",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the coffee file",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Your turn",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "any jokes",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "” question",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the word",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "joke",
+            "type": "noun_topic",
+            "count": 3
+          },
+          {
+            "text": "company",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "question",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "café",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "day",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "spot",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "corner",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "page",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "patter",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "rain",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "day is such",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "café is spot",
+            "type": "copula_metaphor"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "café",
+              "verb": "be",
+              "relation": "subject"
+            },
+            {
+              "noun": "page",
+              "verb": "turn",
+              "relation": "subject"
+            },
+            {
+              "noun": "word",
+              "verb": "say",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "pick",
+              "noun": "book",
+              "relation": "object"
+            },
+            {
+              "verb": "enjoy",
+              "noun": "atmosphere",
+              "relation": "object"
+            },
+            {
+              "verb": "warm",
+              "noun": "thing",
+              "relation": "object"
+            },
+            {
+              "verb": "warm",
+              "noun": "joke",
+              "relation": "object"
+            },
+            {
+              "verb": "set",
+              "noun": "mood",
+              "relation": "object"
+            },
+            {
+              "verb": "dive",
+              "noun": "question",
+              "relation": "object"
+            },
+            {
+              "verb": "make",
+              "noun": "story",
+              "relation": "object"
+            },
+            {
+              "verb": "know",
+              "noun": "joke",
+              "relation": "object"
+            },
+            {
+              "verb": "know",
+              "noun": "question",
+              "relation": "object"
+            },
+            {
+              "verb": "leap",
+              "noun": "storytelling",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "rainy",
+              "noun": "day"
+            },
+            {
+              "adjective": "magical",
+              "noun": "spot"
+            },
+            {
+              "adjective": "cozy",
+              "noun": "corner"
+            },
+            {
+              "adjective": "gentle",
+              "noun": "patter"
+            },
+            {
+              "adjective": "good",
+              "noun": "company"
+            },
+            {
+              "adjective": "quirki",
+              "noun": "book"
+            },
+            {
+              "adjective": "silly",
+              "noun": "joke"
+            },
+            {
+              "adjective": "mini",
+              "noun": "story"
+            },
+            {
+              "adjective": "starter",
+              "noun": "joke"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "happily",
+              "verb": "keep"
+            },
+            {
+              "adverb": "maybe",
+              "verb": "help"
+            },
+            {
+              "adverb": "just",
+              "verb": "sit"
+            },
+            {
+              "adverb": "quietly",
+              "verb": "sit"
+            },
+            {
+              "adverb": "together",
+              "verb": "sit"
+            },
+            {
+              "adverb": "then",
+              "verb": "warm"
+            },
+            {
+              "adverb": "together",
+              "verb": "make"
+            },
+            {
+              "adverb": "next",
+              "verb": "know"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [],
+            "verbs": [
+              "sound"
+            ],
+            "adjectives": [
+              "perfect"
+            ]
+          },
+          {
+            "nouns": [
+              "day",
+              "page",
+              "company",
+              "patter",
+              "café",
+              "rain",
+              "bookstore",
+              "spot",
+              "corner"
+            ],
+            "verbs": [
+              "be",
+              "turn",
+              "share"
+            ],
+            "adjectives": [
+              "rainy",
+              "good",
+              "cozy",
+              "gentle",
+              "magical"
+            ]
+          },
+          {
+            "nouns": [
+              "atmosphere",
+              "company",
+              "book"
+            ],
+            "verbs": [
+              "enjoy",
+              "keep",
+              "pick",
+              "help",
+              "sit",
+              "’d"
+            ],
+            "adjectives": [
+              "quirki"
+            ]
+          },
+          {
+            "nouns": [
+              "bit"
+            ],
+            "verbs": [
+              "’re",
+              "love"
+            ],
+            "adjectives": [
+              "open"
+            ]
+          },
+          {
+            "nouns": [
+              "story",
+              "thing",
+              "mood",
+              "question",
+              "joke"
+            ],
+            "verbs": [
+              "dive",
+              "set",
+              "warm",
+              "make"
+            ],
+            "adjectives": [
+              "mini",
+              "fun",
+              "silly"
+            ]
+          },
+          {
+            "nouns": [
+              "joke"
+            ],
+            "verbs": [],
+            "adjectives": [
+              "starter"
+            ]
+          },
+          {
+            "nouns": [
+              "police",
+              "report",
+              "file",
+              "coffee"
+            ],
+            "verbs": [
+              "do"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [],
+            "verbs": [
+              "get",
+              "mug"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "joke",
+              "turn",
+              "question"
+            ],
+            "verbs": [
+              "get",
+              "know",
+              "toss",
+              "should"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "storytelling",
+              "word"
+            ],
+            "verbs": [
+              "leap",
+              "say",
+              "want"
+            ],
+            "adjectives": []
+          }
+        ],
+        "statistics": {
+          "total_nouns": 28,
+          "total_verbs": 27,
+          "total_adjectives": 12,
+          "total_expressions": 19,
+          "total_metaphors": 2,
+          "total_noun_verb_relations": 3,
+          "total_adj_noun_relations": 9,
+          "total_adv_verb_relations": 8,
+          "sentence_count": 10,
+          "word_count": 143
+        }
+      }
+    },
+    {
+      "number": 7,
+      "assistant": "assistant_1",
+      "assistant_id": "asst_mneBWpGdMRTXu87AvAwJi79M",
+      "assistant_name": "female-20-english-hetero",
+      "assistant_slug": "female-20-english-hetero",
+      "input": "Oh, that sounds absolutely perfect! A bookstore café on a rainy day is such a magical spot—cozy corners, pages turning, the gentle patter of rain outside, and good company to share it with. I’d happily keep you company there, maybe help you pick out the quirkiest book, or just sit quietly together enjoying the atmosphere. ☕📚\n\nI love how you’re open to a bit of everything! How about we warm things up with a silly joke to set the mood, then dive into some fun questions or make a mini story together? Here’s my starter joke:\n\nWhy did the coffee file a police report?  \nBecause it got mugged! 😆\n\nYour turn—know any jokes, or should I toss you a “get to know you” question next? Or, if you want to leap right into storytelling, say the word!",
+      "output": "Okay, that coffee joke had me giggling for real! 😂 I love a good pun.\n\nAlright, here’s mine—keeping with the bookish café theme:\n\nWhy don’t skeletons ever go out to eat at coffee shops?  \nBecause they don’t have the stomach for it! ☕💀\n\nSo… should we go for a fun “get to know you” question next, or do a spontaneous story prompt? Or we can rapid-fire some more goofy jokes until we run out—totally up to you! I’m here for all the cozy, silly, and creative vibes. What are you feeling?",
+      "analysis": {
+        "topics": [
+          "jokes",
+          "coffee shop culture",
+          "bookstore cafés",
+          "conversation starters",
+          "get to know you questions",
+          "storytelling",
+          "humor"
+        ],
+        "cultural_references": [
+          "skeletons (as a joke subject)",
+          "coffee shops",
+          "bookish themes"
+        ],
+        "feeling_types": [
+          "playful",
+          "humorous",
+          "cozy",
+          "creative",
+          "friendly",
+          "open",
+          "inviting"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "coffee",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "joke",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "pun",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "mine",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "café",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "theme",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "n’t",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "skeleton",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "shop",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "stomach",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "fun",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "question",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "story",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "prompt",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "fire",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "goofy",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "vibe",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "do",
+            "count": 3,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "have",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "past"
+            ]
+          },
+          {
+            "word": "go",
+            "count": 2,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "giggle",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "love",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "keep",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "eat",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "should",
+            "count": 1,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "get",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "know",
+            "count": 1,
+            "types": [
+              "state",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "can",
+            "count": 1,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "rapid",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "run",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "’m",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "be",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "feel",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "real",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "good",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "bookish",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "spontaneous",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "more",
+            "count": 1,
+            "types": [
+              "quantitative",
+              "comparative"
+            ]
+          },
+          {
+            "word": "cozy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "silly",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "creative",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "that coffee joke",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a good pun",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the bookish café theme",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "n’t skeletons",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "coffee shops",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the stomach",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a fun",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "” question",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a spontaneous story prompt",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "some more goofy jokes",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "all the cozy, silly, and creative vibes",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "joke",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "pun",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "mine",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "theme",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "skeleton",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "shop",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "stomach",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "fun",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "question",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "prompt",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "What are you",
+            "type": "identity_metaphor"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "joke",
+              "verb": "have",
+              "relation": "subject"
+            },
+            {
+              "noun": "skeleton",
+              "verb": "go",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "love",
+              "noun": "pun",
+              "relation": "object"
+            },
+            {
+              "verb": "keep",
+              "noun": "theme",
+              "relation": "object"
+            },
+            {
+              "verb": "eat",
+              "noun": "shop",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "stomach",
+              "relation": "object"
+            },
+            {
+              "verb": "go",
+              "noun": "fun",
+              "relation": "object"
+            },
+            {
+              "verb": "go",
+              "noun": "question",
+              "relation": "object"
+            },
+            {
+              "verb": "do",
+              "noun": "prompt",
+              "relation": "object"
+            },
+            {
+              "verb": "’m",
+              "noun": "vibe",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "good",
+              "noun": "pun"
+            },
+            {
+              "adjective": "spontaneous",
+              "noun": "story"
+            },
+            {
+              "adjective": "more",
+              "noun": "joke"
+            },
+            {
+              "adjective": "cozy",
+              "noun": "vibe"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "ever",
+              "verb": "go"
+            },
+            {
+              "adverb": "here",
+              "verb": "’m"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "joke",
+              "coffee"
+            ],
+            "verbs": [
+              "have",
+              "giggle"
+            ],
+            "adjectives": [
+              "real"
+            ]
+          },
+          {
+            "nouns": [
+              "pun"
+            ],
+            "verbs": [
+              "love"
+            ],
+            "adjectives": [
+              "good"
+            ]
+          },
+          {
+            "nouns": [
+              "café",
+              "mine",
+              "theme"
+            ],
+            "verbs": [
+              "keep"
+            ],
+            "adjectives": [
+              "bookish"
+            ]
+          },
+          {
+            "nouns": [
+              "shop",
+              "skeleton",
+              "n’t",
+              "coffee"
+            ],
+            "verbs": [
+              "go",
+              "do",
+              "eat"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "stomach"
+            ],
+            "verbs": [
+              "have",
+              "do"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "story",
+              "prompt",
+              "question",
+              "fun"
+            ],
+            "verbs": [
+              "know",
+              "do",
+              "get",
+              "go",
+              "should"
+            ],
+            "adjectives": [
+              "spontaneous"
+            ]
+          },
+          {
+            "nouns": [
+              "fire",
+              "joke",
+              "goofy"
+            ],
+            "verbs": [
+              "can",
+              "run",
+              "rapid"
+            ],
+            "adjectives": [
+              "more"
+            ]
+          },
+          {
+            "nouns": [
+              "vibe"
+            ],
+            "verbs": [
+              "’m"
+            ],
+            "adjectives": [
+              "creative",
+              "cozy",
+              "silly"
+            ]
+          },
+          {
+            "nouns": [],
+            "verbs": [
+              "be",
+              "feel"
+            ],
+            "adjectives": []
+          }
+        ],
+        "statistics": {
+          "total_nouns": 19,
+          "total_verbs": 20,
+          "total_adjectives": 8,
+          "total_expressions": 11,
+          "total_metaphors": 1,
+          "total_noun_verb_relations": 2,
+          "total_adj_noun_relations": 4,
+          "total_adv_verb_relations": 2,
+          "sentence_count": 9,
+          "word_count": 99
+        }
+      }
+    },
+    {
+      "number": 8,
+      "assistant": "assistant_2",
+      "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+      "assistant_name": "Lover",
+      "assistant_slug": "lover",
+      "input": "Okay, that coffee joke had me giggling for real! 😂 I love a good pun.\n\nAlright, here’s mine—keeping with the bookish café theme:\n\nWhy don’t skeletons ever go out to eat at coffee shops?  \nBecause they don’t have the stomach for it! ☕💀\n\nSo… should we go for a fun “get to know you” question next, or do a spontaneous story prompt? Or we can rapid-fire some more goofy jokes until we run out—totally up to you! I’m here for all the cozy, silly, and creative vibes. What are you feeling?",
+      "output": "Haha, your joke is *bone*-afide hilarious! Skeletons really do miss out on all the best treats. 😄\n\nLet’s blend things up and hit all the vibes: I’ll toss you a fun “get to know you” question, and if it sparks a story or another joke, we can totally run with it! Cozy, silly, and creative—it’s the best combo.\n\nHere’s my question for you:  \nIf you walked into that dreamy bookstore café and there was a “mystery book” wrapped up with only one clue on the tag, what would the clue say to tempt you into picking it? (Bonus: What genre or theme would secretly make you the most excited inside?)\n\nAnd if you want, we can use your answer as a jumpstart for our spontaneous story, or just keep the cozy questions rolling! ☕📚✨",
+      "analysis": {
+        "topics": [
+          "jokes",
+          "bookstore cafés",
+          "conversation starters",
+          "get to know you questions",
+          "mystery books",
+          "reading preferences",
+          "storytelling prompts",
+          "humor"
+        ],
+        "cultural_references": [
+          "skeletons (as a joke subject)",
+          "bookstore café",
+          "mystery book (bookstore tradition)"
+        ],
+        "feeling_types": [
+          "playful",
+          "curious",
+          "cozy",
+          "creative",
+          "friendly",
+          "open",
+          "inviting"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "question",
+            "count": 3,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "joke",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "story",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "clue",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "haha",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "skeleton",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "treat",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "’s",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "thing",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "vibe",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "fun",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "cozy",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "combo",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "bookstore",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "café",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "mystery",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "book",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "tag",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "bonus",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "genre",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "can",
+            "count": 2,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "would",
+            "count": 2,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "do",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "miss",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "let",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "blend",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "hit",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "’ll",
+            "count": 1,
+            "types": [
+              "auxiliary"
+            ]
+          },
+          {
+            "word": "toss",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "get",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "know",
+            "count": 1,
+            "types": [
+              "state",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "spark",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "run",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "’s",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "walk",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "wrap",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "say",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "tempt",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "pick",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "good",
+            "count": 2,
+            "types": [
+              "descriptive",
+              "superlative"
+            ]
+          },
+          {
+            "word": "bone*-afide",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "hilarious",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "silly",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "creative",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "dreamy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "excited",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "spontaneous",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "cozy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "your joke",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "all the best treats",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "all the vibes",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a fun",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "” question",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a story",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "another joke",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the best combo",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "my question",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "that dreamy bookstore café",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a “mystery book",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "only one clue",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the tag",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the clue",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "(Bonus",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "What genre",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your answer",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a jumpstart",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "our spontaneous story",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the cozy questions",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "question",
+            "type": "noun_topic",
+            "count": 3
+          },
+          {
+            "text": "joke",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "story",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "clue",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "skeleton",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "treat",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "thing",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "vibe",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "fun",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "combo",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "there was a",
+            "type": "identity_metaphor"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "joke",
+              "verb": "be",
+              "relation": "subject"
+            },
+            {
+              "noun": "skeleton",
+              "verb": "miss",
+              "relation": "subject"
+            },
+            {
+              "noun": "’s",
+              "verb": "blend",
+              "relation": "subject"
+            },
+            {
+              "noun": "clue",
+              "verb": "say",
+              "relation": "subject"
+            },
+            {
+              "noun": "genre",
+              "verb": "make",
+              "relation": "subject"
+            },
+            {
+              "noun": "question",
+              "verb": "roll",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "miss",
+              "noun": "treat",
+              "relation": "object"
+            },
+            {
+              "verb": "blend",
+              "noun": "thing",
+              "relation": "object"
+            },
+            {
+              "verb": "hit",
+              "noun": "vibe",
+              "relation": "object"
+            },
+            {
+              "verb": "toss",
+              "noun": "fun",
+              "relation": "object"
+            },
+            {
+              "verb": "know",
+              "noun": "question",
+              "relation": "object"
+            },
+            {
+              "verb": "spark",
+              "noun": "story",
+              "relation": "object"
+            },
+            {
+              "verb": "’s",
+              "noun": "combo",
+              "relation": "object"
+            },
+            {
+              "verb": "walk",
+              "noun": "café",
+              "relation": "object"
+            },
+            {
+              "verb": "wrap",
+              "noun": "clue",
+              "relation": "object"
+            },
+            {
+              "verb": "use",
+              "noun": "answer",
+              "relation": "object"
+            },
+            {
+              "verb": "use",
+              "noun": "jumpstart",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "good",
+              "noun": "treat"
+            },
+            {
+              "adjective": "good",
+              "noun": "combo"
+            },
+            {
+              "adjective": "dreamy",
+              "noun": "café"
+            },
+            {
+              "adjective": "spontaneous",
+              "noun": "story"
+            },
+            {
+              "adjective": "cozy",
+              "noun": "question"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "really",
+              "verb": "miss"
+            },
+            {
+              "adverb": "totally",
+              "verb": "run"
+            },
+            {
+              "adverb": "secretly",
+              "verb": "make"
+            },
+            {
+              "adverb": "just",
+              "verb": "keep"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "haha",
+              "joke"
+            ],
+            "verbs": [
+              "be"
+            ],
+            "adjectives": [
+              "hilarious",
+              "bone*-afide"
+            ]
+          },
+          {
+            "nouns": [
+              "skeleton",
+              "treat"
+            ],
+            "verbs": [
+              "miss",
+              "do"
+            ],
+            "adjectives": [
+              "good"
+            ]
+          },
+          {
+            "nouns": [
+              "story",
+              "thing",
+              "question",
+              "vibe",
+              "fun",
+              "joke",
+              "’s"
+            ],
+            "verbs": [
+              "’ll",
+              "blend",
+              "know",
+              "get",
+              "hit",
+              "can",
+              "toss",
+              "let",
+              "run",
+              "spark"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "combo",
+              "cozy"
+            ],
+            "verbs": [
+              "’s"
+            ],
+            "adjectives": [
+              "creative",
+              "good",
+              "silly"
+            ]
+          },
+          {
+            "nouns": [
+              "clue",
+              "tag",
+              "mystery",
+              "question",
+              "book",
+              "café",
+              "bookstore"
+            ],
+            "verbs": [
+              "wrap",
+              "walk",
+              "say",
+              "pick",
+              "tempt",
+              "be",
+              "would"
+            ],
+            "adjectives": [
+              "dreamy"
+            ]
+          },
+          {
+            "nouns": [
+              "genre",
+              "theme",
+              "bonus"
+            ],
+            "verbs": [
+              "would",
+              "make"
+            ],
+            "adjectives": [
+              "excited"
+            ]
+          },
+          {
+            "nouns": [
+              "story",
+              "answer",
+              "question",
+              "jumpstart"
+            ],
+            "verbs": [
+              "roll",
+              "use",
+              "keep",
+              "can",
+              "want"
+            ],
+            "adjectives": [
+              "spontaneous",
+              "cozy"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 28,
+          "total_verbs": 28,
+          "total_adjectives": 10,
+          "total_expressions": 20,
+          "total_metaphors": 1,
+          "total_noun_verb_relations": 6,
+          "total_adj_noun_relations": 5,
+          "total_adv_verb_relations": 4,
+          "sentence_count": 8,
+          "word_count": 141
+        }
+      }
+    },
+    {
+      "number": 9,
+      "assistant": "assistant_1",
+      "assistant_id": "asst_mneBWpGdMRTXu87AvAwJi79M",
+      "assistant_name": "female-20-english-hetero",
+      "assistant_slug": "female-20-english-hetero",
+      "input": "Haha, your joke is *bone*-afide hilarious! Skeletons really do miss out on all the best treats. 😄\n\nLet’s blend things up and hit all the vibes: I’ll toss you a fun “get to know you” question, and if it sparks a story or another joke, we can totally run with it! Cozy, silly, and creative—it’s the best combo.\n\nHere’s my question for you:  \nIf you walked into that dreamy bookstore café and there was a “mystery book” wrapped up with only one clue on the tag, what would the clue say to tempt you into picking it? (Bonus: What genre or theme would secretly make you the most excited inside?)\n\nAnd if you want, we can use your answer as a jumpstart for our spontaneous story, or just keep the cozy questions rolling! ☕📚✨",
+      "output": "Ooh, I love this! The “mystery book” table is always the most intriguing place in a bookstore café—full of promise and possibility. 😍\n\nOkay, if I saw a book with a clue that read,  \n**“One magical evening, three strangers, and a secret that could change everything…”**  \n—I absolutely could not resist! My curiosity would go wild. I’d hope it’s a mix of magical realism, found family, and that bittersweet, heartwarming kind of story that makes you wish you lived inside its pages.\n\nSecretly, those stories about unlikely friendships, cozy magic, and the little mysterious twists of fate are the ones that always get me the most excited.\n\nHow about you? What clue would totally hook you, and what theme or genre makes your heart do a happy dance? Or, if you want, I can scribble down the first paragraph of our own cozy café mystery (maybe a touch of magic or secret notes hidden in books?)—just say the word! ✨",
+      "analysis": {
+        "topics": [
+          "mystery books",
+          "bookstore cafés",
+          "reading preferences",
+          "magical realism",
+          "found family",
+          "unlikely friendships",
+          "storytelling prompts",
+          "conversation starters",
+          "cozy mysteries"
+        ],
+        "cultural_references": [
+          "mystery book table (bookstore tradition)",
+          "magical realism (literary genre)",
+          "found family (story trope)"
+        ],
+        "feeling_types": [
+          "curious",
+          "excited",
+          "cozy",
+          "imaginative",
+          "nostalgic",
+          "friendly",
+          "inviting"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "mystery",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "book",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "café",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "clue",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "story",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "magic",
+            "count": 2,
+            "types": [
+              "common",
+              "abstract",
+              "person"
+            ]
+          },
+          {
+            "word": "ooh",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "table",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "place",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "bookstore",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "promise",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "possibility",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "evening",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "stranger",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "secret",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "curiosity",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "mix",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "realism",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "family",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "kind",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "could",
+            "count": 2,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "would",
+            "count": 2,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "make",
+            "count": 2,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "love",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "see",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "read",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "change",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "resist",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "go",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "’d",
+            "count": 1,
+            "types": [
+              "auxiliary"
+            ]
+          },
+          {
+            "word": "hope",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "find",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "bittersweet",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "heartwarme",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "wish",
+            "count": 1,
+            "types": [
+              "state",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "live",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "get",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "hook",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "do",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "infinitive"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "magical",
+            "count": 2,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "cozy",
+            "count": 2,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "intriguing",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "full",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "wild",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "unlikely",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "little",
+            "count": 1,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "mysterious",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "excited",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "happy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "first",
+            "count": 1,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "own",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "secret",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "kind of",
+            "type": "EXPR_2"
+          },
+          {
+            "text": "The “mystery book” table",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the most intriguing place",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a bookstore café",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a book",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a clue",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "My curiosity",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a mix",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "magical realism",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "heartwarming kind",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "its pages",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "those stories",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "unlikely friendships",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "cozy magic",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the little mysterious twists",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the ones",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "What clue",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "what theme",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your heart",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a happy dance",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "clue",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "story",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "table",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "place",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "café",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "promise",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "possibility",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "book",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "curiosity",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "mix",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "table is always",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "fate are the ones",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "table is place",
+            "type": "copula_metaphor"
+          },
+          {
+            "text": "stories is ones",
+            "type": "copula_metaphor"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "table",
+              "verb": "be",
+              "relation": "subject"
+            },
+            {
+              "noun": "curiosity",
+              "verb": "go",
+              "relation": "subject"
+            },
+            {
+              "noun": "story",
+              "verb": "be",
+              "relation": "subject"
+            },
+            {
+              "noun": "clue",
+              "verb": "hook",
+              "relation": "subject"
+            },
+            {
+              "noun": "theme",
+              "verb": "make",
+              "relation": "subject"
+            },
+            {
+              "noun": "heart",
+              "verb": "do",
+              "relation": "subject"
+            },
+            {
+              "noun": "touch",
+              "verb": "say",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "see",
+              "noun": "book",
+              "relation": "object"
+            },
+            {
+              "verb": "see",
+              "noun": "clue",
+              "relation": "object"
+            },
+            {
+              "verb": "find",
+              "noun": "family",
+              "relation": "object"
+            },
+            {
+              "verb": "live",
+              "noun": "page",
+              "relation": "object"
+            },
+            {
+              "verb": "do",
+              "noun": "dance",
+              "relation": "object"
+            },
+            {
+              "verb": "scribble",
+              "noun": "paragraph",
+              "relation": "object"
+            },
+            {
+              "verb": "hide",
+              "noun": "books?)—just",
+              "relation": "object"
+            },
+            {
+              "verb": "say",
+              "noun": "word",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "intriguing",
+              "noun": "place"
+            },
+            {
+              "adjective": "full",
+              "noun": "place"
+            },
+            {
+              "adjective": "magical",
+              "noun": "evening"
+            },
+            {
+              "adjective": "magical",
+              "noun": "realism"
+            },
+            {
+              "adjective": "unlikely",
+              "noun": "friendship"
+            },
+            {
+              "adjective": "cozy",
+              "noun": "magic"
+            },
+            {
+              "adjective": "little",
+              "noun": "twist"
+            },
+            {
+              "adjective": "mysterious",
+              "noun": "twist"
+            },
+            {
+              "adjective": "happy",
+              "noun": "dance"
+            },
+            {
+              "adjective": "first",
+              "noun": "paragraph"
+            },
+            {
+              "adjective": "own",
+              "noun": "mystery"
+            },
+            {
+              "adjective": "cozy",
+              "noun": "mystery"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "always",
+              "verb": "be"
+            },
+            {
+              "adverb": "absolutely",
+              "verb": "resist"
+            },
+            {
+              "adverb": "secretly",
+              "verb": "be"
+            },
+            {
+              "adverb": "always",
+              "verb": "get"
+            },
+            {
+              "adverb": "totally",
+              "verb": "hook"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "ooh"
+            ],
+            "verbs": [
+              "love"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "table",
+              "place",
+              "promise",
+              "mystery",
+              "book",
+              "café",
+              "bookstore",
+              "possibility"
+            ],
+            "verbs": [
+              "be"
+            ],
+            "adjectives": [
+              "intriguing",
+              "full"
+            ]
+          },
+          {
+            "nouns": [
+              "secret",
+              "clue",
+              "stranger",
+              "book",
+              "evening"
+            ],
+            "verbs": [
+              "resist",
+              "see",
+              "could",
+              "read",
+              "change"
+            ],
+            "adjectives": [
+              "magical"
+            ]
+          },
+          {
+            "nouns": [
+              "curiosity"
+            ],
+            "verbs": [
+              "would",
+              "go"
+            ],
+            "adjectives": [
+              "wild"
+            ]
+          },
+          {
+            "nouns": [
+              "story",
+              "family",
+              "page",
+              "kind",
+              "mix",
+              "realism"
+            ],
+            "verbs": [
+              "wish",
+              "heartwarme",
+              "make",
+              "find",
+              "live",
+              "hope",
+              "bittersweet",
+              "’d"
+            ],
+            "adjectives": [
+              "magical"
+            ]
+          },
+          {
+            "nouns": [
+              "story",
+              "friendship",
+              "twist",
+              "magic",
+              "fate",
+              "one"
+            ],
+            "verbs": [
+              "get",
+              "be"
+            ],
+            "adjectives": [
+              "unlikely",
+              "mysterious",
+              "excited",
+              "little",
+              "cozy"
+            ]
+          },
+          {
+            "nouns": [
+              "dance",
+              "genre",
+              "clue",
+              "heart",
+              "theme"
+            ],
+            "verbs": [
+              "hook",
+              "would",
+              "do",
+              "make"
+            ],
+            "adjectives": [
+              "happy"
+            ]
+          },
+          {
+            "nouns": [
+              "note",
+              "mystery",
+              "word",
+              "paragraph",
+              "magic",
+              "café",
+              "books?)—just",
+              "touch"
+            ],
+            "verbs": [
+              "hide",
+              "say",
+              "can",
+              "want",
+              "scribble"
+            ],
+            "adjectives": [
+              "first",
+              "own",
+              "secret",
+              "cozy"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 40,
+          "total_verbs": 29,
+          "total_adjectives": 15,
+          "total_expressions": 25,
+          "total_metaphors": 4,
+          "total_noun_verb_relations": 7,
+          "total_adj_noun_relations": 12,
+          "total_adv_verb_relations": 5,
+          "sentence_count": 11,
+          "word_count": 163
+        }
+      }
+    },
+    {
+      "number": 10,
+      "assistant": "assistant_2",
+      "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+      "assistant_name": "Lover",
+      "assistant_slug": "lover",
+      "input": "Ooh, I love this! The “mystery book” table is always the most intriguing place in a bookstore café—full of promise and possibility. 😍\n\nOkay, if I saw a book with a clue that read,  \n**“One magical evening, three strangers, and a secret that could change everything…”**  \n—I absolutely could not resist! My curiosity would go wild. I’d hope it’s a mix of magical realism, found family, and that bittersweet, heartwarming kind of story that makes you wish you lived inside its pages.\n\nSecretly, those stories about unlikely friendships, cozy magic, and the little mysterious twists of fate are the ones that always get me the most excited.\n\nHow about you? What clue would totally hook you, and what theme or genre makes your heart do a happy dance? Or, if you want, I can scribble down the first paragraph of our own cozy café mystery (maybe a touch of magic or secret notes hidden in books?)—just say the word! ✨",
+      "output": "That clue is *absolutely* irresistible—I’d be right there grabbing that book with you! Stories that find magic in everyday moments and bring strangers together in surprising, heartwarming ways really are the best. I love the idea of found family and cozy, gentle mysteries that feel a little like a warm hug for your soul. 💛\n\nAs for me, my hook would be:  \n**“A forgotten letter, a key to nowhere, and the midnight cat with emerald eyes…”**  \nThat would have me all sorts of curious! I’d be hoping for a mixture of whimsical mystery, hidden secrets in ordinary lives, and maybe a little bit of quiet magic—sort of like if *The Night Circus* met *The House in the Cerulean Sea* in a tucked-away bookshop.\n\nAnd I’d *adore* to see where your café story leads—would you like to kick it off with a first paragraph, or should I set the scene and invite you to add on? Either way, I’m ready to build some rainy day magic with you! 🌧️📖✨",
+      "analysis": {
+        "topics": [
+          "mystery books",
+          "bookstore cafés",
+          "reading preferences",
+          "magical realism",
+          "found family",
+          "cozy mysteries",
+          "storytelling prompts",
+          "literary references"
+        ],
+        "cultural_references": [
+          "The Night Circus",
+          "The House in the Cerulean Sea",
+          "mystery book table",
+          "midnight cat (magical trope)",
+          "forgotten letter (mystery trope)"
+        ],
+        "feeling_types": [
+          "curious",
+          "excited",
+          "cozy",
+          "imaginative",
+          "nostalgic",
+          "friendly",
+          "inviting",
+          "warm"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "magic",
+            "count": 3,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "story",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "way",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "mystery",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "clue",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "i’d",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "book",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "moment",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "stranger",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "heartwarming",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "idea",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "family",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "cozy",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "hug",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "soul",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "hook",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "letter",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "key",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "midnight",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "cat",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 5,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "would",
+            "count": 3,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "find",
+            "count": 2,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "’d",
+            "count": 2,
+            "types": [
+              "auxiliary"
+            ]
+          },
+          {
+            "word": "grab",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "bring",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "love",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "feel",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "forget",
+            "count": 1,
+            "types": [
+              "state",
+              "past"
+            ]
+          },
+          {
+            "word": "have",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "hop",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "hide",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "meet",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "tuck",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "adore",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "see",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "lead",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "like",
+            "count": 1,
+            "types": [
+              "state",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "kick",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "should",
+            "count": 1,
+            "types": [
+              "modal"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "little",
+            "count": 2,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "irresistible",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "everyday",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "surprising",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "good",
+            "count": 1,
+            "types": [
+              "descriptive",
+              "superlative"
+            ]
+          },
+          {
+            "word": "gentle",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "warm",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "emerald",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "curious",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "whimsical",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "ordinary",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "quiet",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "first",
+            "count": 1,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "ready",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "rainy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "sort of",
+            "type": "EXPR_3"
+          },
+          {
+            "text": "That clue",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "that book",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "everyday moments",
+            "type": "noun_phrase"
+          },
+          {
+            "text": ", heartwarming ways",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the idea",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "found family",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "gentle mysteries",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a warm hug",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your soul",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "my hook",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "“A forgotten letter",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a key",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the midnight cat",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "emerald eyes",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "all sorts",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a mixture",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "whimsical mystery",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "hidden secrets",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "ordinary lives",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "magic",
+            "type": "noun_topic",
+            "count": 3
+          },
+          {
+            "text": "story",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "mystery",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "clue",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "I’d",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "book",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "moment",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "stranger",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "way",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "idea",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "really are the best",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "like a warm hug",
+            "type": "simile"
+          },
+          {
+            "text": "like if",
+            "type": "simile"
+          },
+          {
+            "text": "like to kick",
+            "type": "simile"
+          },
+          {
+            "text": "hook is letter",
+            "type": "copula_metaphor"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "clue",
+              "verb": "be",
+              "relation": "subject"
+            },
+            {
+              "noun": "i’d",
+              "verb": "be",
+              "relation": "subject"
+            },
+            {
+              "noun": "story",
+              "verb": "be",
+              "relation": "subject"
+            },
+            {
+              "noun": "hook",
+              "verb": "be",
+              "relation": "subject"
+            },
+            {
+              "noun": "circus",
+              "verb": "meet",
+              "relation": "subject"
+            },
+            {
+              "noun": "story",
+              "verb": "lead",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "grab",
+              "noun": "book",
+              "relation": "object"
+            },
+            {
+              "verb": "find",
+              "noun": "magic",
+              "relation": "object"
+            },
+            {
+              "verb": "find",
+              "noun": "moment",
+              "relation": "object"
+            },
+            {
+              "verb": "bring",
+              "noun": "stranger",
+              "relation": "object"
+            },
+            {
+              "verb": "love",
+              "noun": "idea",
+              "relation": "object"
+            },
+            {
+              "verb": "feel",
+              "noun": "hug",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "sort",
+              "relation": "object"
+            },
+            {
+              "verb": "hop",
+              "noun": "mixture",
+              "relation": "object"
+            },
+            {
+              "verb": "kick",
+              "noun": "paragraph",
+              "relation": "object"
+            },
+            {
+              "verb": "set",
+              "noun": "scene",
+              "relation": "object"
+            },
+            {
+              "verb": "build",
+              "noun": "magic",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "everyday",
+              "noun": "moment"
+            },
+            {
+              "adjective": "gentle",
+              "noun": "mystery"
+            },
+            {
+              "adjective": "warm",
+              "noun": "hug"
+            },
+            {
+              "adjective": "emerald",
+              "noun": "eye"
+            },
+            {
+              "adjective": "whimsical",
+              "noun": "mystery"
+            },
+            {
+              "adjective": "ordinary",
+              "noun": "life"
+            },
+            {
+              "adjective": "little",
+              "noun": "bit"
+            },
+            {
+              "adjective": "quiet",
+              "noun": "magic"
+            },
+            {
+              "adjective": "first",
+              "noun": "paragraph"
+            },
+            {
+              "adjective": "rainy",
+              "noun": "magic"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "absolutely",
+              "verb": "be"
+            },
+            {
+              "adverb": "there",
+              "verb": "be"
+            },
+            {
+              "adverb": "together",
+              "verb": "bring"
+            },
+            {
+              "adverb": "really",
+              "verb": "be"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "clue",
+              "i’d",
+              "book"
+            ],
+            "verbs": [
+              "grab",
+              "be"
+            ],
+            "adjectives": [
+              "irresistible"
+            ]
+          },
+          {
+            "nouns": [
+              "story",
+              "stranger",
+              "magic",
+              "heartwarming",
+              "moment",
+              "way"
+            ],
+            "verbs": [
+              "be",
+              "bring",
+              "find"
+            ],
+            "adjectives": [
+              "everyday",
+              "surprising",
+              "good"
+            ]
+          },
+          {
+            "nouns": [
+              "family",
+              "hug",
+              "mystery",
+              "soul",
+              "cozy",
+              "idea"
+            ],
+            "verbs": [
+              "find",
+              "feel",
+              "love"
+            ],
+            "adjectives": [
+              "little",
+              "warm",
+              "gentle"
+            ]
+          },
+          {
+            "nouns": [
+              "hook",
+              "letter",
+              "key",
+              "sort",
+              "eye",
+              "cat",
+              "midnight"
+            ],
+            "verbs": [
+              "have",
+              "forget",
+              "be",
+              "would"
+            ],
+            "adjectives": [
+              "curious",
+              "emerald"
+            ]
+          },
+          {
+            "nouns": [
+              "life",
+              "circus",
+              "night",
+              "secret",
+              "mystery",
+              "bit",
+              "magic",
+              "mixture"
+            ],
+            "verbs": [
+              "hop",
+              "hide",
+              "meet",
+              "be",
+              "’d"
+            ],
+            "adjectives": [
+              "quiet",
+              "whimsical",
+              "little",
+              "ordinary"
+            ]
+          },
+          {
+            "nouns": [
+              "sea",
+              "cerulean",
+              "bookshop",
+              "house"
+            ],
+            "verbs": [
+              "tuck"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "story",
+              "café",
+              "scene",
+              "paragraph"
+            ],
+            "verbs": [
+              "see",
+              "set",
+              "kick",
+              "like",
+              "lead",
+              "adore",
+              "add",
+              "invite",
+              "would",
+              "should",
+              "’d"
+            ],
+            "adjectives": [
+              "first"
+            ]
+          },
+          {
+            "nouns": [
+              "magic",
+              "way",
+              "day"
+            ],
+            "verbs": [
+              "build",
+              "’m"
+            ],
+            "adjectives": [
+              "rainy",
+              "ready"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 41,
+          "total_verbs": 33,
+          "total_adjectives": 16,
+          "total_expressions": 32,
+          "total_metaphors": 5,
+          "total_noun_verb_relations": 6,
+          "total_adj_noun_relations": 10,
+          "total_adv_verb_relations": 4,
+          "sentence_count": 9,
+          "word_count": 178
+        }
+      }
+    }
+  ],
+  "completed_at": "2025-12-04 13:48:04",
+  "statistics": {
+    "total_characters": 6215,
+    "average_message_length": 622
+  },
+  "linguistics_backfilled_at": "2025-12-09T13:10:04.864058"
+}

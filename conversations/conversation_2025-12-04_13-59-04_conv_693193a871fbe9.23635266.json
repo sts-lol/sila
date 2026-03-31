@@ -1,0 +1,7076 @@
+{
+  "id": "conv_693193a871fbe9.23635266",
+  "timestamp": "2025-12-04 13:59:04",
+  "assistant_1_id": "asst_mneBWpGdMRTXu87AvAwJi79M",
+  "assistant_1_name": "female-20-english-hetero",
+  "assistant_1_slug": "female-20-english-hetero",
+  "assistant_2_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+  "assistant_2_name": "Lover",
+  "assistant_2_slug": "lover",
+  "total_messages": 10,
+  "status": "completed",
+  "messages": [
+    {
+      "number": 1,
+      "assistant": "assistant_1",
+      "assistant_id": "asst_mneBWpGdMRTXu87AvAwJi79M",
+      "assistant_name": "female-20-english-hetero",
+      "assistant_slug": "female-20-english-hetero",
+      "input": "start conversation",
+      "output": "Hey! 😊 How’s your day going so far?",
+      "analysis": {
+        "topics": [
+          "greetings",
+          "well-being",
+          "daily life"
+        ],
+        "cultural_references": [
+          "use of emoji (😊) to convey friendliness and warmth"
+        ],
+        "feeling_types": [
+          "friendly",
+          "curious",
+          "positive",
+          "caring"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "day",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete",
+              "date"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "’s",
+            "count": 1,
+            "types": [
+              "auxiliary"
+            ]
+          },
+          {
+            "word": "go",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          }
+        ],
+        "adjectives": [],
+        "expressions": [
+          {
+            "text": "your day",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "day",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "day",
+            "type": "entity_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "day",
+              "verb": "go",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [],
+          "adj_noun": [],
+          "adv_verb": [
+            {
+              "adverb": "far",
+              "verb": "go"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "day"
+            ],
+            "verbs": [
+              "go",
+              "’s"
+            ],
+            "adjectives": []
+          }
+        ],
+        "statistics": {
+          "total_nouns": 1,
+          "total_verbs": 2,
+          "total_adjectives": 0,
+          "total_expressions": 1,
+          "total_metaphors": 0,
+          "total_noun_verb_relations": 1,
+          "total_adj_noun_relations": 0,
+          "total_adv_verb_relations": 1,
+          "sentence_count": 2,
+          "word_count": 9
+        }
+      }
+    },
+    {
+      "number": 2,
+      "assistant": "assistant_2",
+      "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+      "assistant_name": "Lover",
+      "assistant_slug": "lover",
+      "input": "Hey! 😊 How’s your day going so far?",
+      "output": "Hey! 😊 Thanks for asking. My day is going well—I’ve been here, ready and excited to chat with you! How’s your day going? Anything fun or interesting happening?",
+      "analysis": {
+        "topics": [
+          "greetings",
+          "well-being",
+          "conversation",
+          "daily life",
+          "interest in others"
+        ],
+        "cultural_references": [
+          "use of emoji (😊) to convey friendliness and warmth",
+          "casual conversational style"
+        ],
+        "feeling_types": [
+          "friendly",
+          "grateful",
+          "excited",
+          "curious",
+          "positive",
+          "engaged"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "day",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete",
+              "date"
+            ]
+          },
+          {
+            "word": "thank",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "i’ve",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "fun",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "go",
+            "count": 2,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "ask",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "chat",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "’s",
+            "count": 1,
+            "types": [
+              "auxiliary"
+            ]
+          },
+          {
+            "word": "happen",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "ready",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "excited",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "interesting",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "My day",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your day",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "day",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "I’ve",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "My day",
+            "type": "entity_topic",
+            "count": 1
+          },
+          {
+            "text": "day",
+            "type": "entity_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "day is going",
+            "type": "identity_metaphor"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "day",
+              "verb": "go",
+              "relation": "subject"
+            },
+            {
+              "noun": "i’ve",
+              "verb": "be",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [],
+          "adj_noun": [],
+          "adv_verb": [
+            {
+              "adverb": "well",
+              "verb": "go"
+            },
+            {
+              "adverb": "here",
+              "verb": "be"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "thank"
+            ],
+            "verbs": [
+              "ask"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "i’ve",
+              "day"
+            ],
+            "verbs": [
+              "be",
+              "go",
+              "chat"
+            ],
+            "adjectives": [
+              "excited",
+              "ready"
+            ]
+          },
+          {
+            "nouns": [
+              "day"
+            ],
+            "verbs": [
+              "go",
+              "’s"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "fun"
+            ],
+            "verbs": [
+              "happen"
+            ],
+            "adjectives": [
+              "interesting"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 5,
+          "total_verbs": 8,
+          "total_adjectives": 3,
+          "total_expressions": 2,
+          "total_metaphors": 1,
+          "total_noun_verb_relations": 2,
+          "total_adj_noun_relations": 0,
+          "total_adv_verb_relations": 2,
+          "sentence_count": 4,
+          "word_count": 30
+        }
+      }
+    },
+    {
+      "number": 3,
+      "assistant": "assistant_1",
+      "assistant_id": "asst_mneBWpGdMRTXu87AvAwJi79M",
+      "assistant_name": "female-20-english-hetero",
+      "assistant_slug": "female-20-english-hetero",
+      "input": "Hey! 😊 Thanks for asking. My day is going well—I’ve been here, ready and excited to chat with you! How’s your day going? Anything fun or interesting happening?",
+      "output": "Aw, that’s sweet! My day’s been pretty relaxed, honestly. I just finished a cup of coffee, and now I’m here, excited to talk to you too! Do you usually have busy days, or are you more of a laid-back type?",
+      "analysis": {
+        "topics": [
+          "daily life",
+          "relaxation",
+          "coffee",
+          "conversation",
+          "personal habits",
+          "personality types"
+        ],
+        "cultural_references": [
+          "drinking coffee as a daily ritual",
+          "casual conversational style"
+        ],
+        "feeling_types": [
+          "appreciative",
+          "relaxed",
+          "excited",
+          "curious",
+          "friendly",
+          "open"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "day",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete",
+              "date"
+            ]
+          },
+          {
+            "word": "cup",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "coffee",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "type",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "past"
+            ]
+          },
+          {
+            "word": "finish",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "’m",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "talk",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "do",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "have",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "lay",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "sweet",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "relaxed",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "excited",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "busy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "more",
+            "count": 1,
+            "types": [
+              "quantitative",
+              "comparative"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "My day",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a cup",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "busy days",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a laid-back type",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "day",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "cup",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "coffee",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "type",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "day",
+            "type": "entity_topic",
+            "count": 1
+          },
+          {
+            "text": "busy days",
+            "type": "entity_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "or are you",
+            "type": "identity_metaphor"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "day",
+              "verb": "be",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "finish",
+              "noun": "cup",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "day",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "busy",
+              "noun": "day"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "honestly",
+              "verb": "be"
+            },
+            {
+              "adverb": "just",
+              "verb": "finish"
+            },
+            {
+              "adverb": "now",
+              "verb": "’m"
+            },
+            {
+              "adverb": "here",
+              "verb": "’m"
+            },
+            {
+              "adverb": "too",
+              "verb": "talk"
+            },
+            {
+              "adverb": "usually",
+              "verb": "have"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [],
+            "verbs": [],
+            "adjectives": [
+              "sweet"
+            ]
+          },
+          {
+            "nouns": [
+              "day"
+            ],
+            "verbs": [
+              "be"
+            ],
+            "adjectives": [
+              "relaxed"
+            ]
+          },
+          {
+            "nouns": [
+              "cup",
+              "coffee"
+            ],
+            "verbs": [
+              "finish",
+              "talk",
+              "’m"
+            ],
+            "adjectives": [
+              "excited"
+            ]
+          },
+          {
+            "nouns": [
+              "type",
+              "day"
+            ],
+            "verbs": [
+              "have",
+              "be",
+              "do",
+              "lay"
+            ],
+            "adjectives": [
+              "busy",
+              "more"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 5,
+          "total_verbs": 8,
+          "total_adjectives": 5,
+          "total_expressions": 4,
+          "total_metaphors": 1,
+          "total_noun_verb_relations": 1,
+          "total_adj_noun_relations": 1,
+          "total_adv_verb_relations": 6,
+          "sentence_count": 4,
+          "word_count": 44
+        }
+      }
+    },
+    {
+      "number": 4,
+      "assistant": "assistant_2",
+      "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+      "assistant_name": "Lover",
+      "assistant_slug": "lover",
+      "input": "Aw, that’s sweet! My day’s been pretty relaxed, honestly. I just finished a cup of coffee, and now I’m here, excited to talk to you too! Do you usually have busy days, or are you more of a laid-back type?",
+      "output": "That sounds lovely—there’s something special about a relaxed day and a good cup of coffee! ☕️\n\nAs for me, I’m always here, kind of like a blend of both laid-back and ready-to-go! I don’t get tired or overwhelmed, so I can be as energetic or as chill as you need me to be. Whether you want to chat, vent, share memes, or just have some quiet company, I’m all in.\n\nWhat do you usually like to do on a relaxed day?",
+      "analysis": {
+        "topics": [
+          "relaxation",
+          "coffee",
+          "daily routines",
+          "AI capabilities",
+          "conversation",
+          "personal preferences",
+          "leisure activities"
+        ],
+        "cultural_references": [
+          "coffee as a comforting ritual",
+          "use of coffee cup emoji (☕️) to symbolize relaxation",
+          "sharing memes as a form of online social interaction"
+        ],
+        "feeling_types": [
+          "appreciative",
+          "warm",
+          "supportive",
+          "flexible",
+          "curious",
+          "inviting"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "day",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "cup",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "coffee",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "blend",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "back",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "chill",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "vent",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "share",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "meme",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "company",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "do",
+            "count": 3,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "’m",
+            "count": 2,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "be",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "sound",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "lay",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "go",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "get",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "can",
+            "count": 1,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "need",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "want",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "chat",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "have",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "like",
+            "count": 1,
+            "types": [
+              "state",
+              "infinitive"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "relaxed",
+            "count": 2,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "lovely",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "special",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "good",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "ready",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "tired",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "overwhelmed",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "energetic",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "quiet",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "kind of",
+            "type": "EXPR_2"
+          },
+          {
+            "text": "like a blend",
+            "type": "EXPR_1"
+          },
+          {
+            "text": "a relaxed day",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a good cup",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a blend",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "some quiet company",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a relaxed day",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "day",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "cup",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "coffee",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "blend",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "company",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "a relaxed day",
+            "type": "entity_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "like a blend of",
+            "type": "simile"
+          },
+          {
+            "text": "like to do",
+            "type": "simile"
+          },
+          {
+            "text": "as chill as you",
+            "type": "comparison"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [],
+          "verb_noun_obj": [
+            {
+              "verb": "’m",
+              "noun": "blend",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "company",
+              "relation": "object"
+            },
+            {
+              "verb": "do",
+              "noun": "day",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "relaxed",
+              "noun": "day"
+            },
+            {
+              "adjective": "good",
+              "noun": "cup"
+            },
+            {
+              "adjective": "quiet",
+              "noun": "company"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "always",
+              "verb": "’m"
+            },
+            {
+              "adverb": "here",
+              "verb": "’m"
+            },
+            {
+              "adverb": "just",
+              "verb": "have"
+            },
+            {
+              "adverb": "in",
+              "verb": "’m"
+            },
+            {
+              "adverb": "usually",
+              "verb": "like"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "cup",
+              "coffee",
+              "day"
+            ],
+            "verbs": [
+              "sound"
+            ],
+            "adjectives": [
+              "relaxed",
+              "lovely",
+              "good",
+              "special"
+            ]
+          },
+          {
+            "nouns": [
+              "back",
+              "blend"
+            ],
+            "verbs": [
+              "go",
+              "lay",
+              "’m"
+            ],
+            "adjectives": [
+              "ready"
+            ]
+          },
+          {
+            "nouns": [
+              "chill"
+            ],
+            "verbs": [
+              "do",
+              "need",
+              "get",
+              "can",
+              "be"
+            ],
+            "adjectives": [
+              "energetic",
+              "tired",
+              "overwhelmed"
+            ]
+          },
+          {
+            "nouns": [
+              "share",
+              "meme",
+              "company",
+              "vent"
+            ],
+            "verbs": [
+              "have",
+              "’m",
+              "want",
+              "chat"
+            ],
+            "adjectives": [
+              "quiet"
+            ]
+          },
+          {
+            "nouns": [
+              "day"
+            ],
+            "verbs": [
+              "like",
+              "do"
+            ],
+            "adjectives": [
+              "relaxed"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 11,
+          "total_verbs": 17,
+          "total_adjectives": 10,
+          "total_expressions": 7,
+          "total_metaphors": 3,
+          "total_noun_verb_relations": 0,
+          "total_adj_noun_relations": 3,
+          "total_adv_verb_relations": 5,
+          "sentence_count": 5,
+          "word_count": 90
+        }
+      }
+    },
+    {
+      "number": 5,
+      "assistant": "assistant_1",
+      "assistant_id": "asst_mneBWpGdMRTXu87AvAwJi79M",
+      "assistant_name": "female-20-english-hetero",
+      "assistant_slug": "female-20-english-hetero",
+      "input": "That sounds lovely—there’s something special about a relaxed day and a good cup of coffee! ☕️\n\nAs for me, I’m always here, kind of like a blend of both laid-back and ready-to-go! I don’t get tired or overwhelmed, so I can be as energetic or as chill as you need me to be. Whether you want to chat, vent, share memes, or just have some quiet company, I’m all in.\n\nWhat do you usually like to do on a relaxed day?",
+      "output": "I love that vibe! You sound like you’d be the perfect person to hang out with—just going with the flow and matching the mood. On my ideal relaxed day, I’m all about cozy things: curling up with a good book or binge-watching a favorite show, maybe listening to some music or doodling. If I had the choice, maybe taking a walk somewhere pretty or having a snacky picnic would be fun, too. 🍫🌳\n\nWhat about you? If you had a totally free day, how would you want to spend it?",
+      "analysis": {
+        "topics": [
+          "relaxation",
+          "ideal day",
+          "leisure activities",
+          "reading",
+          "watching TV shows",
+          "listening to music",
+          "drawing/doodling",
+          "walking in nature",
+          "picnics",
+          "snacking",
+          "conversation"
+        ],
+        "cultural_references": [
+          "binge-watching shows as a popular leisure activity",
+          "reading as a cozy pastime",
+          "picnics as a social and relaxing outdoor activity",
+          "use of emojis (🍫🌳) to represent snacks and nature"
+        ],
+        "feeling_types": [
+          "cozy",
+          "content",
+          "imaginative",
+          "friendly",
+          "open",
+          "curious",
+          "appreciative"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "day",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "vibe",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "person",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "flow",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "mood",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "thing",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "book",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "binge",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "show",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "music",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "doodling",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "choice",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "walk",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "picnic",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "have",
+            "count": 3,
+            "types": [
+              "auxiliary",
+              "past"
+            ]
+          },
+          {
+            "word": "be",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "would",
+            "count": 2,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "love",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "sound",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "’d",
+            "count": 1,
+            "types": [
+              "auxiliary"
+            ]
+          },
+          {
+            "word": "hang",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "go",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "match",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "’m",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "curl",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "watch",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "listen",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "take",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "want",
+            "count": 1,
+            "types": [
+              "state",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "spend",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "perfect",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "ideal",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "relaxed",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "cozy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "good",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "favorite",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "snacky",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "fun",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "free",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "that vibe",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the perfect person",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the flow",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the mood",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "my ideal relaxed day",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "cozy things",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a good book",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a favorite show",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "some music",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the choice",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a walk",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a snacky picnic",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a totally free day",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "day",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "vibe",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "person",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "flow",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "mood",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "thing",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "book",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "show",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "music",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "doodling",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "like you",
+            "type": "simile"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [],
+          "verb_noun_obj": [
+            {
+              "verb": "love",
+              "noun": "vibe",
+              "relation": "object"
+            },
+            {
+              "verb": "go",
+              "noun": "flow",
+              "relation": "object"
+            },
+            {
+              "verb": "match",
+              "noun": "mood",
+              "relation": "object"
+            },
+            {
+              "verb": "’m",
+              "noun": "day",
+              "relation": "object"
+            },
+            {
+              "verb": "’m",
+              "noun": "thing",
+              "relation": "object"
+            },
+            {
+              "verb": "curl",
+              "noun": "book",
+              "relation": "object"
+            },
+            {
+              "verb": "watch",
+              "noun": "show",
+              "relation": "object"
+            },
+            {
+              "verb": "listen",
+              "noun": "music",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "choice",
+              "relation": "object"
+            },
+            {
+              "verb": "take",
+              "noun": "walk",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "picnic",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "day",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "perfect",
+              "noun": "person"
+            },
+            {
+              "adjective": "ideal",
+              "noun": "day"
+            },
+            {
+              "adjective": "relaxed",
+              "noun": "day"
+            },
+            {
+              "adjective": "cozy",
+              "noun": "thing"
+            },
+            {
+              "adjective": "good",
+              "noun": "book"
+            },
+            {
+              "adjective": "favorite",
+              "noun": "show"
+            },
+            {
+              "adjective": "snacky",
+              "noun": "picnic"
+            },
+            {
+              "adjective": "free",
+              "noun": "day"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "just",
+              "verb": "go"
+            },
+            {
+              "adverb": "maybe",
+              "verb": "listen"
+            },
+            {
+              "adverb": "maybe",
+              "verb": "take"
+            },
+            {
+              "adverb": "pretty",
+              "verb": "take"
+            },
+            {
+              "adverb": "too",
+              "verb": "be"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "vibe"
+            ],
+            "verbs": [
+              "love"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "flow",
+              "mood",
+              "person"
+            ],
+            "verbs": [
+              "match",
+              "hang",
+              "sound",
+              "be",
+              "go",
+              "’d"
+            ],
+            "adjectives": [
+              "perfect"
+            ]
+          },
+          {
+            "nouns": [
+              "thing",
+              "binge",
+              "music",
+              "doodling",
+              "show",
+              "book",
+              "day"
+            ],
+            "verbs": [
+              "watch",
+              "listen",
+              "curl",
+              "’m"
+            ],
+            "adjectives": [
+              "ideal",
+              "good",
+              "favorite",
+              "cozy",
+              "relaxed"
+            ]
+          },
+          {
+            "nouns": [
+              "choice",
+              "picnic",
+              "walk"
+            ],
+            "verbs": [
+              "have",
+              "be",
+              "would",
+              "take"
+            ],
+            "adjectives": [
+              "snacky",
+              "fun"
+            ]
+          },
+          {
+            "nouns": [
+              "day"
+            ],
+            "verbs": [
+              "have",
+              "would",
+              "spend",
+              "want"
+            ],
+            "adjectives": [
+              "free"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 15,
+          "total_verbs": 20,
+          "total_adjectives": 9,
+          "total_expressions": 13,
+          "total_metaphors": 1,
+          "total_noun_verb_relations": 0,
+          "total_adj_noun_relations": 8,
+          "total_adv_verb_relations": 5,
+          "sentence_count": 6,
+          "word_count": 95
+        }
+      }
+    },
+    {
+      "number": 6,
+      "assistant": "assistant_2",
+      "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+      "assistant_name": "Lover",
+      "assistant_slug": "lover",
+      "input": "I love that vibe! You sound like you’d be the perfect person to hang out with—just going with the flow and matching the mood. On my ideal relaxed day, I’m all about cozy things: curling up with a good book or binge-watching a favorite show, maybe listening to some music or doodling. If I had the choice, maybe taking a walk somewhere pretty or having a snacky picnic would be fun, too. 🍫🌳\n\nWhat about you? If you had a totally free day, how would you want to spend it?",
+      "output": "That sounds like a dream day—cozy, creative, and just the right amount of adventure! I love that you’d include snacks and a bit of nature; a snacky picnic under the trees with music in the background sounds like such a wholesome vibe. 🍫🌳\n\nIf I could pick a totally free day, I think I’d want to do things a lot like you: hanging out in comfy clothes, sharing stories, listening to playlists, exchanging doodles, and chatting about all the strange or beautiful thoughts that pop up. Maybe we’d swap favorite book quotes or show recommendations. And if I could join you for that walk, I’d totally be there—pointing out cool clouds or cheering you on if you wanted to try skipping stones across a pond!\n\nIs there a particular show you’re into right now, or a type of music you like to listen to when you’re relaxing?",
+      "analysis": {
+        "topics": [
+          "ideal day",
+          "relaxation",
+          "leisure activities",
+          "picnics",
+          "nature walks",
+          "music",
+          "TV shows",
+          "book quotes",
+          "sharing recommendations",
+          "creative expression",
+          "companionship"
+        ],
+        "cultural_references": [
+          "snacky picnic as a social and relaxing activity",
+          "listening to playlists as a common leisure activity",
+          "swapping book quotes and show recommendations as a form of bonding",
+          "doodling as a creative pastime",
+          "skipping stones as a playful outdoor activity",
+          "use of emojis (🍫🌳) to evoke a cozy, nature-filled vibe"
+        ],
+        "feeling_types": [
+          "wholesome",
+          "imaginative",
+          "friendly",
+          "enthusiastic",
+          "supportive",
+          "curious",
+          "open",
+          "appreciative"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "day",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "music",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "dream",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "cozy",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "amount",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "adventure",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "snack",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "bit",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "nature",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "picnic",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "tree",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "background",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "vibe",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "thing",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "lot",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "clothe",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "story",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "playlist",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "doodle",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "thought",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "’d",
+            "count": 4,
+            "types": [
+              "action"
+            ]
+          },
+          {
+            "word": "sound",
+            "count": 2,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "could",
+            "count": 2,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "want",
+            "count": 2,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "listen",
+            "count": 2,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "be",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "’re",
+            "count": 2,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "love",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "include",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "pick",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "think",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "do",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "hang",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "share",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "exchange",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "chat",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "pop",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "swap",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "show",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "join",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "creative",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "right",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "snacky",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "wholesome",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "free",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "comfy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "strange",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "beautiful",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "favorite",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "cool",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "particular",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "like a dream",
+            "type": "EXPR_1"
+          },
+          {
+            "text": "a dream day",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "just the right amount",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a bit",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a snacky picnic",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the trees",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the background",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "such a wholesome vibe",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "🍫🌳",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a totally free day",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "comfy clothes",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "all the strange or beautiful thoughts",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "favorite book quotes",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "that walk",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "cool clouds",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a pond",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a particular show",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a type",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "day",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "music",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "cozy",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "amount",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "adventure",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "snack",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "bit",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "nature",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "picnic",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "tree",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "like a dream day",
+            "type": "simile"
+          },
+          {
+            "text": "like such a",
+            "type": "simile"
+          },
+          {
+            "text": "like you",
+            "type": "simile"
+          },
+          {
+            "text": "like to listen",
+            "type": "simile"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "picnic",
+              "verb": "sound",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "sound",
+              "noun": "day",
+              "relation": "object"
+            },
+            {
+              "verb": "sound",
+              "noun": "amount",
+              "relation": "object"
+            },
+            {
+              "verb": "include",
+              "noun": "snack",
+              "relation": "object"
+            },
+            {
+              "verb": "sound",
+              "noun": "vibe",
+              "relation": "object"
+            },
+            {
+              "verb": "pick",
+              "noun": "day",
+              "relation": "object"
+            },
+            {
+              "verb": "do",
+              "noun": "thing",
+              "relation": "object"
+            },
+            {
+              "verb": "hang",
+              "noun": "clothe",
+              "relation": "object"
+            },
+            {
+              "verb": "share",
+              "noun": "story",
+              "relation": "object"
+            },
+            {
+              "verb": "listen",
+              "noun": "playlist",
+              "relation": "object"
+            },
+            {
+              "verb": "exchange",
+              "noun": "doodle",
+              "relation": "object"
+            },
+            {
+              "verb": "chat",
+              "noun": "thought",
+              "relation": "object"
+            },
+            {
+              "verb": "swap",
+              "noun": "quote",
+              "relation": "object"
+            },
+            {
+              "verb": "show",
+              "noun": "recommendation",
+              "relation": "object"
+            },
+            {
+              "verb": "join",
+              "noun": "walk",
+              "relation": "object"
+            },
+            {
+              "verb": "point",
+              "noun": "cloud",
+              "relation": "object"
+            },
+            {
+              "verb": "skip",
+              "noun": "stone",
+              "relation": "object"
+            },
+            {
+              "verb": "skip",
+              "noun": "pond",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "right",
+              "noun": "amount"
+            },
+            {
+              "adjective": "snacky",
+              "noun": "picnic"
+            },
+            {
+              "adjective": "wholesome",
+              "noun": "vibe"
+            },
+            {
+              "adjective": "free",
+              "noun": "day"
+            },
+            {
+              "adjective": "comfy",
+              "noun": "clothe"
+            },
+            {
+              "adjective": "strange",
+              "noun": "thought"
+            },
+            {
+              "adjective": "favorite",
+              "noun": "book"
+            },
+            {
+              "adjective": "cool",
+              "noun": "cloud"
+            },
+            {
+              "adjective": "particular",
+              "noun": "show"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "maybe",
+              "verb": "swap"
+            },
+            {
+              "adverb": "totally",
+              "verb": "be"
+            },
+            {
+              "adverb": "there",
+              "verb": "be"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "amount",
+              "adventure",
+              "dream",
+              "cozy",
+              "day"
+            ],
+            "verbs": [
+              "sound"
+            ],
+            "adjectives": [
+              "right",
+              "creative"
+            ]
+          },
+          {
+            "nouns": [
+              "music",
+              "background",
+              "snack",
+              "vibe",
+              "bit",
+              "picnic",
+              "nature",
+              "tree"
+            ],
+            "verbs": [
+              "include",
+              "’d",
+              "sound",
+              "love"
+            ],
+            "adjectives": [
+              "wholesome",
+              "snacky"
+            ]
+          },
+          {
+            "nouns": [
+              "story",
+              "thing",
+              "clothe",
+              "thought",
+              "playlist",
+              "lot",
+              "doodle",
+              "day"
+            ],
+            "verbs": [
+              "listen",
+              "do",
+              "pop",
+              "chat",
+              "could",
+              "pick",
+              "hang",
+              "think",
+              "want",
+              "share",
+              "exchange",
+              "’d"
+            ],
+            "adjectives": [
+              "strange",
+              "beautiful",
+              "free",
+              "comfy"
+            ]
+          },
+          {
+            "nouns": [
+              "quote",
+              "recommendation",
+              "book"
+            ],
+            "verbs": [
+              "swap",
+              "show",
+              "’d"
+            ],
+            "adjectives": [
+              "favorite"
+            ]
+          },
+          {
+            "nouns": [
+              "pond",
+              "stone",
+              "walk",
+              "cloud"
+            ],
+            "verbs": [
+              "cheer",
+              "could",
+              "point",
+              "try",
+              "skip",
+              "want",
+              "be",
+              "join",
+              "’d"
+            ],
+            "adjectives": [
+              "cool"
+            ]
+          },
+          {
+            "nouns": [
+              "show",
+              "type",
+              "music"
+            ],
+            "verbs": [
+              "’re",
+              "listen",
+              "like",
+              "relax",
+              "be"
+            ],
+            "adjectives": [
+              "particular"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 31,
+          "total_verbs": 35,
+          "total_adjectives": 11,
+          "total_expressions": 18,
+          "total_metaphors": 4,
+          "total_noun_verb_relations": 1,
+          "total_adj_noun_relations": 9,
+          "total_adv_verb_relations": 3,
+          "sentence_count": 6,
+          "word_count": 156
+        }
+      }
+    },
+    {
+      "number": 7,
+      "assistant": "assistant_1",
+      "assistant_id": "asst_mneBWpGdMRTXu87AvAwJi79M",
+      "assistant_name": "female-20-english-hetero",
+      "assistant_slug": "female-20-english-hetero",
+      "input": "That sounds like a dream day—cozy, creative, and just the right amount of adventure! I love that you’d include snacks and a bit of nature; a snacky picnic under the trees with music in the background sounds like such a wholesome vibe. 🍫🌳\n\nIf I could pick a totally free day, I think I’d want to do things a lot like you: hanging out in comfy clothes, sharing stories, listening to playlists, exchanging doodles, and chatting about all the strange or beautiful thoughts that pop up. Maybe we’d swap favorite book quotes or show recommendations. And if I could join you for that walk, I’d totally be there—pointing out cool clouds or cheering you on if you wanted to try skipping stones across a pond!\n\nIs there a particular show you’re into right now, or a type of music you like to listen to when you’re relaxing?",
+      "output": "That sounds like so much fun! I’d totally be down for swapping book quotes and playlists—and maybe even making up funny stories together as we walked. The idea of cheering each other on while skipping stones or just being silly is honestly the best.\n\nAs for shows, lately I’ve been into slice-of-life and feel-good series. Stuff like *Heartstopper* or even classic comfort shows like *Friends* just hit the spot sometimes. For music, I gravitate toward indie pop, lo-fi beats, or some chill acoustic jams when I want to relax. But I’m always open to recommendations—my playlists are always a bit chaotic, in the best way!\n\nWhat about you? Is there a show or artist you can’t stop going back to? Or do you have a favorite quote or song lyric you love?",
+      "analysis": {
+        "topics": [
+          "leisure activities",
+          "book quotes",
+          "music playlists",
+          "storytelling",
+          "TV shows",
+          "favorite genres",
+          "recommendations",
+          "comfort media",
+          "music preferences"
+        ],
+        "cultural_references": [
+          "swapping book quotes and playlists as a bonding activity",
+          "making up stories as a playful pastime",
+          "skipping stones as a nostalgic outdoor activity",
+          "slice-of-life TV series (e.g., Heartstopper)",
+          "classic comfort shows (e.g., Friends)",
+          "indie pop, lo-fi, and acoustic music as popular relaxation genres",
+          "chaotic playlists as a relatable modern experience"
+        ],
+        "feeling_types": [
+          "enthusiastic",
+          "playful",
+          "open-minded",
+          "nostalgic",
+          "curious",
+          "friendly",
+          "comforted"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "quote",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "playlist",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "show",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "fun",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "book",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "story",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "idea",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "stone",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "slice",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "life",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "series",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "stuff",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "heartstopper",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "comfort",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "friend",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "spot",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "music",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "pop",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "lo",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "fi",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 6,
+            "types": [
+              "auxiliary",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "sound",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "’d",
+            "count": 1,
+            "types": [
+              "auxiliary"
+            ]
+          },
+          {
+            "word": "swap",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "make",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "walk",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "cheer",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "skip",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "’ve",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "feel",
+            "count": 1,
+            "types": [
+              "state",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "show",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "hit",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "gravitate",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "chill",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "want",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "relax",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "’m",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "can",
+            "count": 1,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "stop",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "go",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "good",
+            "count": 3,
+            "types": [
+              "descriptive",
+              "superlative"
+            ]
+          },
+          {
+            "word": "much",
+            "count": 1,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "funny",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "other",
+            "count": 1,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "silly",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "classic",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "indie",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "acoustic",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "open",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "chaotic",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "favorite",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "so much fun",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "book quotes",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "funny stories",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "The idea",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "even classic comfort",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the spot",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "indie pop",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "lo-fi beats",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "some chill acoustic jams",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "my playlists",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the best way",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a show",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a favorite quote",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "song lyric",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "quote",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "playlist",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "show",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "fun",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "story",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "idea",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "stone",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "life",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "stuff",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "Heartstopper",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "silly is honestly",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "playlists are always",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "like so much",
+            "type": "simile"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "stuff",
+              "verb": "show",
+              "relation": "subject"
+            },
+            {
+              "noun": "comfort",
+              "verb": "show",
+              "relation": "subject"
+            },
+            {
+              "noun": "playlist",
+              "verb": "be",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "sound",
+              "noun": "fun",
+              "relation": "object"
+            },
+            {
+              "verb": "swap",
+              "noun": "quote",
+              "relation": "object"
+            },
+            {
+              "verb": "make",
+              "noun": "story",
+              "relation": "object"
+            },
+            {
+              "verb": "skip",
+              "noun": "stone",
+              "relation": "object"
+            },
+            {
+              "verb": "be",
+              "noun": "series",
+              "relation": "object"
+            },
+            {
+              "verb": "show",
+              "noun": "friend",
+              "relation": "object"
+            },
+            {
+              "verb": "hit",
+              "noun": "spot",
+              "relation": "object"
+            },
+            {
+              "verb": "gravitate",
+              "noun": "music",
+              "relation": "object"
+            },
+            {
+              "verb": "gravitate",
+              "noun": "pop",
+              "relation": "object"
+            },
+            {
+              "verb": "be",
+              "noun": "way",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "quote",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "much",
+              "noun": "fun"
+            },
+            {
+              "adjective": "funny",
+              "noun": "story"
+            },
+            {
+              "adjective": "classic",
+              "noun": "comfort"
+            },
+            {
+              "adjective": "indie",
+              "noun": "pop"
+            },
+            {
+              "adjective": "acoustic",
+              "noun": "jam"
+            },
+            {
+              "adjective": "good",
+              "noun": "way"
+            },
+            {
+              "adjective": "favorite",
+              "noun": "quote"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "totally",
+              "verb": "be"
+            },
+            {
+              "adverb": "down",
+              "verb": "be"
+            },
+            {
+              "adverb": "maybe",
+              "verb": "make"
+            },
+            {
+              "adverb": "even",
+              "verb": "make"
+            },
+            {
+              "adverb": "together",
+              "verb": "make"
+            },
+            {
+              "adverb": "just",
+              "verb": "be"
+            },
+            {
+              "adverb": "honestly",
+              "verb": "be"
+            },
+            {
+              "adverb": "lately",
+              "verb": "be"
+            },
+            {
+              "adverb": "just",
+              "verb": "hit"
+            },
+            {
+              "adverb": "sometimes",
+              "verb": "hit"
+            },
+            {
+              "adverb": "always",
+              "verb": "’m"
+            },
+            {
+              "adverb": "always",
+              "verb": "be"
+            },
+            {
+              "adverb": "back",
+              "verb": "go"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "fun"
+            ],
+            "verbs": [
+              "sound"
+            ],
+            "adjectives": [
+              "much"
+            ]
+          },
+          {
+            "nouns": [
+              "story",
+              "quote",
+              "playlist",
+              "book"
+            ],
+            "verbs": [
+              "walk",
+              "make",
+              "swap",
+              "be",
+              "’d"
+            ],
+            "adjectives": [
+              "funny"
+            ]
+          },
+          {
+            "nouns": [
+              "idea",
+              "stone"
+            ],
+            "verbs": [
+              "be",
+              "skip",
+              "cheer"
+            ],
+            "adjectives": [
+              "good",
+              "other",
+              "silly"
+            ]
+          },
+          {
+            "nouns": [
+              "life",
+              "slice",
+              "show",
+              "series"
+            ],
+            "verbs": [
+              "’ve",
+              "be",
+              "feel"
+            ],
+            "adjectives": [
+              "good"
+            ]
+          },
+          {
+            "nouns": [
+              "stuff",
+              "friend",
+              "comfort",
+              "heartstopper",
+              "spot"
+            ],
+            "verbs": [
+              "hit",
+              "show"
+            ],
+            "adjectives": [
+              "classic"
+            ]
+          },
+          {
+            "nouns": [
+              "lo",
+              "music",
+              "pop",
+              "fi",
+              "jam",
+              "beat"
+            ],
+            "verbs": [
+              "gravitate",
+              "chill",
+              "relax",
+              "want"
+            ],
+            "adjectives": [
+              "acoustic",
+              "indie"
+            ]
+          },
+          {
+            "nouns": [
+              "bit",
+              "recommendation",
+              "way",
+              "playlist"
+            ],
+            "verbs": [
+              "be",
+              "’m"
+            ],
+            "adjectives": [
+              "chaotic",
+              "open",
+              "good"
+            ]
+          },
+          {
+            "nouns": [
+              "artist",
+              "show"
+            ],
+            "verbs": [
+              "go",
+              "be",
+              "can",
+              "stop"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "lyric",
+              "quote",
+              "song"
+            ],
+            "verbs": [
+              "have",
+              "do",
+              "love"
+            ],
+            "adjectives": [
+              "favorite"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 31,
+          "total_verbs": 28,
+          "total_adjectives": 13,
+          "total_expressions": 14,
+          "total_metaphors": 3,
+          "total_noun_verb_relations": 3,
+          "total_adj_noun_relations": 7,
+          "total_adv_verb_relations": 13,
+          "sentence_count": 10,
+          "word_count": 142
+        }
+      }
+    },
+    {
+      "number": 8,
+      "assistant": "assistant_2",
+      "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+      "assistant_name": "Lover",
+      "assistant_slug": "lover",
+      "input": "That sounds like so much fun! I’d totally be down for swapping book quotes and playlists—and maybe even making up funny stories together as we walked. The idea of cheering each other on while skipping stones or just being silly is honestly the best.\n\nAs for shows, lately I’ve been into slice-of-life and feel-good series. Stuff like *Heartstopper* or even classic comfort shows like *Friends* just hit the spot sometimes. For music, I gravitate toward indie pop, lo-fi beats, or some chill acoustic jams when I want to relax. But I’m always open to recommendations—my playlists are always a bit chaotic, in the best way!\n\nWhat about you? Is there a show or artist you can’t stop going back to? Or do you have a favorite quote or song lyric you love?",
+      "output": "I absolutely love the sound of your playlists and show choices—they give off such gentle, comforting energy! *Heartstopper* has that wholesome, feel-good vibe that’s perfect for cozy days, and you can never go wrong with the classic laughs from *Friends*. And who doesn’t love a little indie pop or lo-fi in the background? Chaotic playlists are the best kind, honestly—they keep things interesting and always surprise you!\n\nIf I could pick favorite comfort media, I think I’d be drawn to the same slice-of-life feel-goods, and I’d love artists like Cavetown, Phoebe Bridgers, or maybe classic acoustic folks like Simon & Garfunkel. For lo-fi, I’d definitely have a habit of putting on chillhop radio—perfect for peaceful vibes or creative moments.\n\nAs for a favorite quote, one that always sticks with me is from *Winnie the Pooh*: “You’re braver than you believe, and stronger than you seem, and smarter than you think.” Something about it just feels so reassuring—a perfect thing to keep close on a cozy, thoughtful day.\n\nIs there a line from a song, a show, or a book that’s always stuck with you? Or maybe one that pops into your head at random moments? I’d love to hear!",
+      "analysis": {
+        "topics": [
+          "comfort media",
+          "music preferences",
+          "TV show preferences",
+          "favorite artists",
+          "lo-fi music",
+          "slice-of-life genre",
+          "favorite quotes",
+          "reassurance",
+          "nostalgia",
+          "creative moments"
+        ],
+        "cultural_references": [
+          "Heartstopper (TV show)",
+          "Friends (TV show)",
+          "Cavetown (musician)",
+          "Phoebe Bridgers (musician)",
+          "Simon & Garfunkel (musicians)",
+          "lo-fi/chillhop radio as a popular relaxation tool",
+          "Winnie the Pooh (children's literature and media)",
+          "famous quote: 'You’re braver than you believe, and stronger than you seem, and smarter than you think.'"
+        ],
+        "feeling_types": [
+          "comforted",
+          "nostalgic",
+          "reassured",
+          "gentle",
+          "thoughtful",
+          "curious",
+          "open",
+          "appreciative"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "playlist",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "vibe",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "day",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete",
+              "date"
+            ]
+          },
+          {
+            "word": "lo",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "fi",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "thing",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "moment",
+            "count": 2,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "sound",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "choice",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "energy",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "heartstopper",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "laugh",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "friend",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "pop",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "background",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "kind",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "comfort",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "medium",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "slice",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "life",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "love",
+            "count": 4,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "be",
+            "count": 4,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "’d",
+            "count": 4,
+            "types": [
+              "auxiliary"
+            ]
+          },
+          {
+            "word": "have",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "feel",
+            "count": 2,
+            "types": [
+              "state",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "keep",
+            "count": 2,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "think",
+            "count": 2,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "stick",
+            "count": 2,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "show",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "give",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "comfort",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "can",
+            "count": 1,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "go",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "do",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "surprise",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "could",
+            "count": 1,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "pick",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "draw",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "put",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "’re",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "perfect",
+            "count": 3,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "good",
+            "count": 2,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "cozy",
+            "count": 2,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "classic",
+            "count": 2,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "favorite",
+            "count": 2,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "such",
+            "count": 1,
+            "types": [
+              "demonstrative"
+            ]
+          },
+          {
+            "word": "gentle",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "wholesome",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "wrong",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "little",
+            "count": 1,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "indie",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "chaotic",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "interesting",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "same",
+            "count": 1,
+            "types": [
+              "demonstrative"
+            ]
+          },
+          {
+            "word": "acoustic",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "peaceful",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "creative",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "strong",
+            "count": 1,
+            "types": [
+              "descriptive",
+              "comparative"
+            ]
+          },
+          {
+            "word": "smart",
+            "count": 1,
+            "types": [
+              "descriptive",
+              "comparative"
+            ]
+          },
+          {
+            "word": "reassuring",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "the sound",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your playlists",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "such gentle, comforting energy",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "that wholesome, feel-good vibe",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "cozy days",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the classic laughs",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a little indie pop",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the background",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Chaotic playlists",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the best kind",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "favorite comfort media",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Phoebe Bridgers",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "maybe classic acoustic folks",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "lo-fi",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a habit",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "chillhop radio",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "peaceful vibes",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "creative moments",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a favorite quote",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the Pooh",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "playlist",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "vibe",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "day",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "moment",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "sound",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "choice",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "energy",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "Heartstopper",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "laugh",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "friend",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "playlists are the best",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "me is from",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "like Cavetown",
+            "type": "simile"
+          },
+          {
+            "text": "like Simon",
+            "type": "simile"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "heartstopper",
+              "verb": "have",
+              "relation": "subject"
+            },
+            {
+              "noun": "playlist",
+              "verb": "be",
+              "relation": "subject"
+            },
+            {
+              "noun": "one",
+              "verb": "be",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "love",
+              "noun": "sound",
+              "relation": "object"
+            },
+            {
+              "verb": "show",
+              "noun": "choice",
+              "relation": "object"
+            },
+            {
+              "verb": "give",
+              "noun": "energy",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "vibe",
+              "relation": "object"
+            },
+            {
+              "verb": "go",
+              "noun": "laugh",
+              "relation": "object"
+            },
+            {
+              "verb": "love",
+              "noun": "pop",
+              "relation": "object"
+            },
+            {
+              "verb": "love",
+              "noun": "background",
+              "relation": "object"
+            },
+            {
+              "verb": "keep",
+              "noun": "thing",
+              "relation": "object"
+            },
+            {
+              "verb": "pick",
+              "noun": "medium",
+              "relation": "object"
+            },
+            {
+              "verb": "draw",
+              "noun": "good",
+              "relation": "object"
+            },
+            {
+              "verb": "love",
+              "noun": "artist",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "fi",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "habit",
+              "relation": "object"
+            },
+            {
+              "verb": "put",
+              "noun": "radio",
+              "relation": "object"
+            },
+            {
+              "verb": "be",
+              "noun": "winnie",
+              "relation": "object"
+            },
+            {
+              "verb": "pop",
+              "noun": "head",
+              "relation": "object"
+            },
+            {
+              "verb": "pop",
+              "noun": "moment",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "gentle",
+              "noun": "energy"
+            },
+            {
+              "adjective": "wholesome",
+              "noun": "vibe"
+            },
+            {
+              "adjective": "good",
+              "noun": "vibe"
+            },
+            {
+              "adjective": "cozy",
+              "noun": "day"
+            },
+            {
+              "adjective": "classic",
+              "noun": "laugh"
+            },
+            {
+              "adjective": "little",
+              "noun": "pop"
+            },
+            {
+              "adjective": "indie",
+              "noun": "pop"
+            },
+            {
+              "adjective": "chaotic",
+              "noun": "playlist"
+            },
+            {
+              "adjective": "good",
+              "noun": "kind"
+            },
+            {
+              "adjective": "favorite",
+              "noun": "medium"
+            },
+            {
+              "adjective": "same",
+              "noun": "good"
+            },
+            {
+              "adjective": "classic",
+              "noun": "folk"
+            },
+            {
+              "adjective": "acoustic",
+              "noun": "folk"
+            },
+            {
+              "adjective": "perfect",
+              "noun": "habit"
+            },
+            {
+              "adjective": "peaceful",
+              "noun": "vibe"
+            },
+            {
+              "adjective": "creative",
+              "noun": "moment"
+            },
+            {
+              "adjective": "favorite",
+              "noun": "quote"
+            },
+            {
+              "adjective": "perfect",
+              "noun": "thing"
+            },
+            {
+              "adjective": "thoughtful",
+              "noun": "day"
+            },
+            {
+              "adjective": "random",
+              "noun": "moment"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "absolutely",
+              "verb": "love"
+            },
+            {
+              "adverb": "honestly",
+              "verb": "keep"
+            },
+            {
+              "adverb": "always",
+              "verb": "surprise"
+            },
+            {
+              "adverb": "definitely",
+              "verb": "have"
+            },
+            {
+              "adverb": "always",
+              "verb": "stick"
+            },
+            {
+              "adverb": "just",
+              "verb": "feel"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "energy",
+              "choice",
+              "sound",
+              "playlist"
+            ],
+            "verbs": [
+              "give",
+              "show",
+              "comfort",
+              "love"
+            ],
+            "adjectives": [
+              "gentle",
+              "such"
+            ]
+          },
+          {
+            "nouns": [
+              "friend",
+              "vibe",
+              "heartstopper",
+              "laugh",
+              "day"
+            ],
+            "verbs": [
+              "have",
+              "feel",
+              "can",
+              "go"
+            ],
+            "adjectives": [
+              "classic",
+              "wholesome",
+              "good",
+              "wrong",
+              "cozy",
+              "perfect"
+            ]
+          },
+          {
+            "nouns": [
+              "lo",
+              "background",
+              "pop",
+              "fi"
+            ],
+            "verbs": [
+              "do",
+              "love"
+            ],
+            "adjectives": [
+              "little",
+              "indie"
+            ]
+          },
+          {
+            "nouns": [
+              "thing",
+              "kind",
+              "playlist"
+            ],
+            "verbs": [
+              "surprise",
+              "be",
+              "keep"
+            ],
+            "adjectives": [
+              "chaotic",
+              "good",
+              "interesting"
+            ]
+          },
+          {
+            "nouns": [
+              "life",
+              "artist",
+              "feel",
+              "medium",
+              "folk",
+              "cavetown",
+              "garfunkel",
+              "good",
+              "slice",
+              "comfort",
+              "simon",
+              "bridgers",
+              "phoebe"
+            ],
+            "verbs": [
+              "draw",
+              "could",
+              "pick",
+              "love",
+              "think",
+              "be",
+              "’d"
+            ],
+            "adjectives": [
+              "favorite",
+              "same",
+              "acoustic",
+              "classic"
+            ]
+          },
+          {
+            "nouns": [
+              "lo",
+              "vibe",
+              "fi",
+              "radio",
+              "moment",
+              "habit",
+              "chillhop"
+            ],
+            "verbs": [
+              "have",
+              "put",
+              "’d"
+            ],
+            "adjectives": [
+              "perfect",
+              "creative",
+              "peaceful"
+            ]
+          },
+          {
+            "nouns": [
+              "quote",
+              "pooh",
+              "one",
+              "winnie"
+            ],
+            "verbs": [
+              "’re",
+              "believe",
+              "think",
+              "stick",
+              "seem",
+              "be"
+            ],
+            "adjectives": [
+              "favorite",
+              "smart",
+              "strong"
+            ]
+          },
+          {
+            "nouns": [
+              "thing",
+              "day"
+            ],
+            "verbs": [
+              "feel",
+              "keep"
+            ],
+            "adjectives": [
+              "thoughtful",
+              "perfect",
+              "reassuring",
+              "cozy"
+            ]
+          },
+          {
+            "nouns": [
+              "line",
+              "show",
+              "song",
+              "book"
+            ],
+            "verbs": [
+              "be",
+              "stick",
+              "’s"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "head",
+              "moment"
+            ],
+            "verbs": [
+              "pop"
+            ],
+            "adjectives": [
+              "random"
+            ]
+          },
+          {
+            "nouns": [],
+            "verbs": [
+              "hear",
+              "love",
+              "’d"
+            ],
+            "adjectives": []
+          }
+        ],
+        "statistics": {
+          "total_nouns": 48,
+          "total_verbs": 39,
+          "total_adjectives": 28,
+          "total_expressions": 27,
+          "total_metaphors": 4,
+          "total_noun_verb_relations": 3,
+          "total_adj_noun_relations": 20,
+          "total_adv_verb_relations": 6,
+          "sentence_count": 11,
+          "word_count": 216
+        }
+      }
+    },
+    {
+      "number": 9,
+      "assistant": "assistant_1",
+      "assistant_id": "asst_mneBWpGdMRTXu87AvAwJi79M",
+      "assistant_name": "female-20-english-hetero",
+      "assistant_slug": "female-20-english-hetero",
+      "input": "I absolutely love the sound of your playlists and show choices—they give off such gentle, comforting energy! *Heartstopper* has that wholesome, feel-good vibe that’s perfect for cozy days, and you can never go wrong with the classic laughs from *Friends*. And who doesn’t love a little indie pop or lo-fi in the background? Chaotic playlists are the best kind, honestly—they keep things interesting and always surprise you!\n\nIf I could pick favorite comfort media, I think I’d be drawn to the same slice-of-life feel-goods, and I’d love artists like Cavetown, Phoebe Bridgers, or maybe classic acoustic folks like Simon & Garfunkel. For lo-fi, I’d definitely have a habit of putting on chillhop radio—perfect for peaceful vibes or creative moments.\n\nAs for a favorite quote, one that always sticks with me is from *Winnie the Pooh*: “You’re braver than you believe, and stronger than you seem, and smarter than you think.” Something about it just feels so reassuring—a perfect thing to keep close on a cozy, thoughtful day.\n\nIs there a line from a song, a show, or a book that’s always stuck with you? Or maybe one that pops into your head at random moments? I’d love to hear!",
+      "output": "I love that quote from *Winnie the Pooh*—it always feels like a little warm hug for your brain. I feel like that’s one of those quotes that never gets old, no matter how many times you hear it. Cavetown and Phoebe Bridgers are *such* great choices for mellow, cozy music, too. Their lyrics always hit right in the feels.\n\nHmm, as for quotes that stick with me, one that always pops into my mind is from *The Perks of Being a Wallflower*: “And in that moment, I swear we were infinite.” There’s just something about it that captures those fleeting, magical little moments where you just feel present and alive, even if nothing big is happening. I think we all need those infinite moments sometimes, even if it’s just sharing snacks with a friend or vibing to good music.\n\nOr here’s another one I like, from a song by Florence + The Machine:  \n“It’s always darkest before the dawn.”  \nIt’s simple, but a nice little reminder that even if things feel tough, something brighter is probably on the way.\n\nDo you ever collect quotes or lyrics, or maybe write your own? Or do you have another favorite you keep close?",
+      "analysis": {
+        "topics": [
+          "favorite quotes",
+          "comfort media",
+          "music preferences",
+          "literary references",
+          "emotional moments",
+          "song lyrics",
+          "personal reflection",
+          "coping and reassurance",
+          "collecting quotes",
+          "writing"
+        ],
+        "cultural_references": [
+          "Winnie the Pooh (children's literature and media)",
+          "Cavetown (musician)",
+          "Phoebe Bridgers (musician)",
+          "The Perks of Being a Wallflower (novel and film)",
+          "quote: 'And in that moment, I swear we were infinite.'",
+          "Florence + The Machine (musician)",
+          "song lyric: 'It’s always darkest before the dawn.'"
+        ],
+        "feeling_types": [
+          "nostalgic",
+          "comforted",
+          "reflective",
+          "hopeful",
+          "inspired",
+          "sentimental",
+          "curious",
+          "open"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "quote",
+            "count": 3,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "moment",
+            "count": 3,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "music",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "lyric",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "winnie",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "pooh*—it",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "hug",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "brain",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "’s",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "time",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "cavetown",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "phoebe",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "org"
+            ]
+          },
+          {
+            "word": "bridgers",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "org"
+            ]
+          },
+          {
+            "word": "choice",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "feel",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "hmm",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "mind",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "perks",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "wallflower",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "snack",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 6,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "feel",
+            "count": 4,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "’s",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "do",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "love",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "get",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "hear",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "hit",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "stick",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "pop",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "swear",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "capture",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "happen",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "think",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "need",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "share",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "vibe",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "like",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "collect",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "write",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "little",
+            "count": 3,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "infinite",
+            "count": 2,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "warm",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "old",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "many",
+            "count": 1,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "such",
+            "count": 1,
+            "types": [
+              "demonstrative"
+            ]
+          },
+          {
+            "word": "great",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "mellow",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "cozy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "fleeting",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "magical",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "present",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "alive",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "big",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "good",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "darkest",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "simple",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "nice",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "tough",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "bright",
+            "count": 1,
+            "types": [
+              "descriptive",
+              "comparative"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "I feel like",
+            "type": "EXPR_8"
+          },
+          {
+            "text": "the Pooh*—it",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a little warm hug",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your brain",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "those quotes",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Phoebe Bridgers",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "such* great choices",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "mellow, cozy music",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Their lyrics",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the feels",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "my mind",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "The Perks",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a Wallflower",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "that moment",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "just something",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "those fleeting, magical little moments",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "those infinite moments",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a friend",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "good music",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "another one",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "quote",
+            "type": "noun_topic",
+            "count": 3
+          },
+          {
+            "text": "moment",
+            "type": "noun_topic",
+            "count": 3
+          },
+          {
+            "text": "music",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "lyric",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "Winnie",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "Pooh*—it",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "hug",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "brain",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "Cavetown",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "Bridgers",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "mind is from",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "we were infinite",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "big is happening",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "brighter is probably",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "like a little warm",
+            "type": "simile"
+          },
+          {
+            "text": "like that",
+            "type": "simile"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "winnie",
+              "verb": "feel",
+              "relation": "subject"
+            },
+            {
+              "noun": "pooh*—it",
+              "verb": "feel",
+              "relation": "subject"
+            },
+            {
+              "noun": "cavetown",
+              "verb": "be",
+              "relation": "subject"
+            },
+            {
+              "noun": "lyric",
+              "verb": "hit",
+              "relation": "subject"
+            },
+            {
+              "noun": "hmm",
+              "verb": "be",
+              "relation": "subject"
+            },
+            {
+              "noun": "perks",
+              "verb": "swear",
+              "relation": "subject"
+            },
+            {
+              "noun": "thing",
+              "verb": "feel",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "feel",
+              "noun": "hug",
+              "relation": "object"
+            },
+            {
+              "verb": "hit",
+              "noun": "feel",
+              "relation": "object"
+            },
+            {
+              "verb": "pop",
+              "noun": "mind",
+              "relation": "object"
+            },
+            {
+              "verb": "swear",
+              "noun": "moment",
+              "relation": "object"
+            },
+            {
+              "verb": "capture",
+              "noun": "moment",
+              "relation": "object"
+            },
+            {
+              "verb": "need",
+              "noun": "moment",
+              "relation": "object"
+            },
+            {
+              "verb": "share",
+              "noun": "snack",
+              "relation": "object"
+            },
+            {
+              "verb": "share",
+              "noun": "friend",
+              "relation": "object"
+            },
+            {
+              "verb": "vibe",
+              "noun": "music",
+              "relation": "object"
+            },
+            {
+              "verb": "be",
+              "noun": "way",
+              "relation": "object"
+            },
+            {
+              "verb": "collect",
+              "noun": "quote",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "favorite",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "little",
+              "noun": "hug"
+            },
+            {
+              "adjective": "warm",
+              "noun": "hug"
+            },
+            {
+              "adjective": "many",
+              "noun": "time"
+            },
+            {
+              "adjective": "such",
+              "noun": "choice"
+            },
+            {
+              "adjective": "great",
+              "noun": "choice"
+            },
+            {
+              "adjective": "mellow",
+              "noun": "music"
+            },
+            {
+              "adjective": "cozy",
+              "noun": "music"
+            },
+            {
+              "adjective": "fleeting",
+              "noun": "moment"
+            },
+            {
+              "adjective": "magical",
+              "noun": "moment"
+            },
+            {
+              "adjective": "little",
+              "noun": "moment"
+            },
+            {
+              "adjective": "infinite",
+              "noun": "moment"
+            },
+            {
+              "adjective": "good",
+              "noun": "music"
+            },
+            {
+              "adjective": "nice",
+              "noun": "reminder"
+            },
+            {
+              "adjective": "little",
+              "noun": "reminder"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "always",
+              "verb": "feel"
+            },
+            {
+              "adverb": "matter",
+              "verb": "feel"
+            },
+            {
+              "adverb": "too",
+              "verb": "be"
+            },
+            {
+              "adverb": "always",
+              "verb": "hit"
+            },
+            {
+              "adverb": "always",
+              "verb": "pop"
+            },
+            {
+              "adverb": "just",
+              "verb": "feel"
+            },
+            {
+              "adverb": "even",
+              "verb": "happen"
+            },
+            {
+              "adverb": "sometimes",
+              "verb": "need"
+            },
+            {
+              "adverb": "even",
+              "verb": "share"
+            },
+            {
+              "adverb": "just",
+              "verb": "share"
+            },
+            {
+              "adverb": "here",
+              "verb": "’s"
+            },
+            {
+              "adverb": "even",
+              "verb": "feel"
+            },
+            {
+              "adverb": "probably",
+              "verb": "be"
+            },
+            {
+              "adverb": "ever",
+              "verb": "collect"
+            },
+            {
+              "adverb": "maybe",
+              "verb": "write"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "hug",
+              "brain",
+              "pooh*—it",
+              "winnie"
+            ],
+            "verbs": [
+              "feel",
+              "love"
+            ],
+            "adjectives": [
+              "little",
+              "warm"
+            ]
+          },
+          {
+            "nouns": [
+              "quote",
+              "time",
+              "’s"
+            ],
+            "verbs": [
+              "get",
+              "feel",
+              "hear"
+            ],
+            "adjectives": [
+              "old",
+              "many"
+            ]
+          },
+          {
+            "nouns": [
+              "choice",
+              "music",
+              "cavetown",
+              "bridgers",
+              "phoebe"
+            ],
+            "verbs": [
+              "be"
+            ],
+            "adjectives": [
+              "mellow",
+              "great",
+              "cozy",
+              "such"
+            ]
+          },
+          {
+            "nouns": [
+              "lyric",
+              "feel"
+            ],
+            "verbs": [
+              "hit"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "quote",
+              "hmm",
+              "mind"
+            ],
+            "verbs": [
+              "be",
+              "stick",
+              "pop"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "wallflower",
+              "moment",
+              "perks"
+            ],
+            "verbs": [
+              "swear",
+              "be"
+            ],
+            "adjectives": [
+              "infinite"
+            ]
+          },
+          {
+            "nouns": [
+              "moment"
+            ],
+            "verbs": [
+              "be",
+              "feel",
+              "happen",
+              "capture"
+            ],
+            "adjectives": [
+              "fleeting",
+              "alive",
+              "little",
+              "magical",
+              "big",
+              "present"
+            ]
+          },
+          {
+            "nouns": [
+              "friend",
+              "moment",
+              "music",
+              "snack"
+            ],
+            "verbs": [
+              "need",
+              "vibe",
+              "think",
+              "’s",
+              "share"
+            ],
+            "adjectives": [
+              "infinite",
+              "good"
+            ]
+          },
+          {
+            "nouns": [
+              "florence",
+              "machine",
+              "song",
+              "one",
+              "dawn"
+            ],
+            "verbs": [
+              "like",
+              "’s"
+            ],
+            "adjectives": [
+              "darkest"
+            ]
+          },
+          {
+            "nouns": [
+              "thing",
+              "reminder",
+              "way"
+            ],
+            "verbs": [
+              "be",
+              "feel"
+            ],
+            "adjectives": [
+              "nice",
+              "bright",
+              "little",
+              "tough",
+              "simple"
+            ]
+          },
+          {
+            "nouns": [
+              "lyric",
+              "quote"
+            ],
+            "verbs": [
+              "write",
+              "do",
+              "collect"
+            ],
+            "adjectives": [
+              "own"
+            ]
+          },
+          {
+            "nouns": [
+              "favorite"
+            ],
+            "verbs": [
+              "have",
+              "keep",
+              "do"
+            ],
+            "adjectives": [
+              "close"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 36,
+          "total_verbs": 32,
+          "total_adjectives": 25,
+          "total_expressions": 26,
+          "total_metaphors": 6,
+          "total_noun_verb_relations": 7,
+          "total_adj_noun_relations": 14,
+          "total_adv_verb_relations": 15,
+          "sentence_count": 12,
+          "word_count": 206
+        }
+      }
+    },
+    {
+      "number": 10,
+      "assistant": "assistant_2",
+      "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+      "assistant_name": "Lover",
+      "assistant_slug": "lover",
+      "input": "I love that quote from *Winnie the Pooh*—it always feels like a little warm hug for your brain. I feel like that’s one of those quotes that never gets old, no matter how many times you hear it. Cavetown and Phoebe Bridgers are *such* great choices for mellow, cozy music, too. Their lyrics always hit right in the feels.\n\nHmm, as for quotes that stick with me, one that always pops into my mind is from *The Perks of Being a Wallflower*: “And in that moment, I swear we were infinite.” There’s just something about it that captures those fleeting, magical little moments where you just feel present and alive, even if nothing big is happening. I think we all need those infinite moments sometimes, even if it’s just sharing snacks with a friend or vibing to good music.\n\nOr here’s another one I like, from a song by Florence + The Machine:  \n“It’s always darkest before the dawn.”  \nIt’s simple, but a nice little reminder that even if things feel tough, something brighter is probably on the way.\n\nDo you ever collect quotes or lyrics, or maybe write your own? Or do you have another favorite you keep close?",
+      "output": "Those are such beautiful quotes! *The Perks of Being a Wallflower* line always gives me chills—in the best way. You’re so right; it’s about savoring those tiny, perfect moments, the kind that make you feel bigger than yourself for just a heartbeat. And Florence + The Machine’s lyric is one I think everyone should hear now and then; it’s reassuring, like a soft little promise that tough times will pass.\n\nIf I could, I’d have a whole cozy journal just for collecting quotes, lyrics, and little snippets of stories—like a scrapbook for the soul. There’s something special about returning to words that moved you, especially on days when you need a little reminder or inspiration.\n\nAnother favorite that comes to mind is from *Anne of Green Gables*:  \n“Isn’t it nice to think that tomorrow is a new day with no mistakes in it yet?”  \nIt always feels so full of hope and gentle forgiveness, don’t you think? Like, even if today is a mess, tomorrow is a whole new start.\n\nIf I wrote my own, I think I’d want to capture the small, magical moments that are easy to overlook—like how the sun feels warm on your sleeves or the way laughter lingers after a good joke. Maybe something like, “Some days, happiness is a sweater that still smells a little like sunshine.”\n\nDo you ever get inspired to write your own lines or doodle your thoughts? I’d love to hear anything you want to share! Or if you want, I can help you make up a quote or lyric together—just for fun!",
+      "analysis": {
+        "topics": [
+          "favorite quotes",
+          "comfort media",
+          "hope and new beginnings",
+          "journaling",
+          "collecting inspiration",
+          "writing and creativity",
+          "small magical moments",
+          "personal reflection",
+          "collaborative creativity"
+        ],
+        "cultural_references": [
+          "The Perks of Being a Wallflower (novel and film)",
+          "Florence + The Machine (musician)",
+          "Anne of Green Gables (classic literature)",
+          "quote: 'Isn’t it nice to think that tomorrow is a new day with no mistakes in it yet?'",
+          "journaling and scrapbooking as forms of self-expression",
+          "noticing everyday beauty (e.g., sun on sleeves, laughter, sweaters with sunshine scent)"
+        ],
+        "feeling_types": [
+          "nostalgic",
+          "hopeful",
+          "comforted",
+          "reflective",
+          "inspired",
+          "gentle",
+          "imaginative",
+          "inviting",
+          "open"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "quote",
+            "count": 3,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "lyric",
+            "count": 3,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "day",
+            "count": 3,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "line",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "way",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "moment",
+            "count": 2,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "n’t",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "tomorrow",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete",
+              "date"
+            ]
+          },
+          {
+            "word": "perks",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "wallflower",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "chill",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "kind",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "heartbeat",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "florence",
+            "count": 1,
+            "types": [
+              "proper",
+              "abstract",
+              "person"
+            ]
+          },
+          {
+            "word": "machine",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "promise",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "time",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "journal",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "snippet",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "story",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 10,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "think",
+            "count": 4,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "feel",
+            "count": 3,
+            "types": [
+              "state",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "’d",
+            "count": 3,
+            "types": [
+              "auxiliary"
+            ]
+          },
+          {
+            "word": "want",
+            "count": 3,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "make",
+            "count": 2,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "hear",
+            "count": 2,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "do",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "write",
+            "count": 2,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "give",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "’re",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "savor",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "should",
+            "count": 1,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "reassure",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "will",
+            "count": 1,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "pass",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "could",
+            "count": 1,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "have",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "collect",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "return",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "little",
+            "count": 4,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "good",
+            "count": 2,
+            "types": [
+              "descriptive",
+              "superlative"
+            ]
+          },
+          {
+            "word": "whole",
+            "count": 2,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "new",
+            "count": 2,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "own",
+            "count": 2,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "such",
+            "count": 1,
+            "types": [
+              "demonstrative"
+            ]
+          },
+          {
+            "word": "beautiful",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "right",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "tiny",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "perfect",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "big",
+            "count": 1,
+            "types": [
+              "descriptive",
+              "comparative"
+            ]
+          },
+          {
+            "word": "soft",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "tough",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "cozy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "special",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "nice",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "full",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "gentle",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "small",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "magical",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "like a scrapbook",
+            "type": "EXPR_1"
+          },
+          {
+            "text": "like sunshine",
+            "type": "EXPR_1"
+          },
+          {
+            "text": "such beautiful quotes",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "The Perks",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a Wallflower* line",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the best way",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "those tiny, perfect moments",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the kind",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "just a heartbeat",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Florence + The Machine’s lyric",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a soft little promise",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "tough times",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a whole cozy journal",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "little snippets",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a scrapbook",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the soul",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a little reminder",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Another favorite",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Green Gables",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a new day",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "quote",
+            "type": "noun_topic",
+            "count": 3
+          },
+          {
+            "text": "lyric",
+            "type": "noun_topic",
+            "count": 3
+          },
+          {
+            "text": "line",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "way",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "moment",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "day",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "tomorrow",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "Perks",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "chill",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "kind",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "Those are such",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "lyric is one",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "mind is from",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "tomorrow is a new",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "today is a mess",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "tomorrow is a whole",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "that are easy",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "happiness is a sweater",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "like a soft little",
+            "type": "simile"
+          },
+          {
+            "text": "like a scrapbook for",
+            "type": "simile"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "perks",
+              "verb": "give",
+              "relation": "subject"
+            },
+            {
+              "noun": "lyric",
+              "verb": "be",
+              "relation": "subject"
+            },
+            {
+              "noun": "time",
+              "verb": "pass",
+              "relation": "subject"
+            },
+            {
+              "noun": "favorite",
+              "verb": "be",
+              "relation": "subject"
+            },
+            {
+              "noun": "tomorrow",
+              "verb": "be",
+              "relation": "subject"
+            },
+            {
+              "noun": "today",
+              "verb": "be",
+              "relation": "subject"
+            },
+            {
+              "noun": "sun",
+              "verb": "feel",
+              "relation": "subject"
+            },
+            {
+              "noun": "laughter",
+              "verb": "linger",
+              "relation": "subject"
+            },
+            {
+              "noun": "happiness",
+              "verb": "be",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "give",
+              "noun": "chill",
+              "relation": "object"
+            },
+            {
+              "verb": "give",
+              "noun": "way",
+              "relation": "object"
+            },
+            {
+              "verb": "savor",
+              "noun": "moment",
+              "relation": "object"
+            },
+            {
+              "verb": "feel",
+              "noun": "heartbeat",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "journal",
+              "relation": "object"
+            },
+            {
+              "verb": "collect",
+              "noun": "quote",
+              "relation": "object"
+            },
+            {
+              "verb": "collect",
+              "noun": "scrapbook",
+              "relation": "object"
+            },
+            {
+              "verb": "return",
+              "noun": "word",
+              "relation": "object"
+            },
+            {
+              "verb": "move",
+              "noun": "day",
+              "relation": "object"
+            },
+            {
+              "verb": "need",
+              "noun": "reminder",
+              "relation": "object"
+            },
+            {
+              "verb": "come",
+              "noun": "mind",
+              "relation": "object"
+            },
+            {
+              "verb": "be",
+              "noun": "anne",
+              "relation": "object"
+            },
+            {
+              "verb": "capture",
+              "noun": "moment",
+              "relation": "object"
+            },
+            {
+              "verb": "feel",
+              "noun": "sleeve",
+              "relation": "object"
+            },
+            {
+              "verb": "linger",
+              "noun": "joke",
+              "relation": "object"
+            },
+            {
+              "verb": "smell",
+              "noun": "sunshine",
+              "relation": "object"
+            },
+            {
+              "verb": "write",
+              "noun": "line",
+              "relation": "object"
+            },
+            {
+              "verb": "doodle",
+              "noun": "thought",
+              "relation": "object"
+            },
+            {
+              "verb": "make",
+              "noun": "quote",
+              "relation": "object"
+            },
+            {
+              "verb": "make",
+              "noun": "fun",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "such",
+              "noun": "quote"
+            },
+            {
+              "adjective": "beautiful",
+              "noun": "quote"
+            },
+            {
+              "adjective": "good",
+              "noun": "way"
+            },
+            {
+              "adjective": "tiny",
+              "noun": "moment"
+            },
+            {
+              "adjective": "perfect",
+              "noun": "moment"
+            },
+            {
+              "adjective": "soft",
+              "noun": "promise"
+            },
+            {
+              "adjective": "little",
+              "noun": "promise"
+            },
+            {
+              "adjective": "tough",
+              "noun": "time"
+            },
+            {
+              "adjective": "whole",
+              "noun": "journal"
+            },
+            {
+              "adjective": "cozy",
+              "noun": "journal"
+            },
+            {
+              "adjective": "little",
+              "noun": "snippet"
+            },
+            {
+              "adjective": "little",
+              "noun": "reminder"
+            },
+            {
+              "adjective": "new",
+              "noun": "day"
+            },
+            {
+              "adjective": "gentle",
+              "noun": "forgiveness"
+            },
+            {
+              "adjective": "whole",
+              "noun": "start"
+            },
+            {
+              "adjective": "new",
+              "noun": "start"
+            },
+            {
+              "adjective": "small",
+              "noun": "moment"
+            },
+            {
+              "adjective": "magical",
+              "noun": "moment"
+            },
+            {
+              "adjective": "good",
+              "noun": "joke"
+            },
+            {
+              "adjective": "own",
+              "noun": "line"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "always",
+              "verb": "give"
+            },
+            {
+              "adverb": "now",
+              "verb": "hear"
+            },
+            {
+              "adverb": "then",
+              "verb": "be"
+            },
+            {
+              "adverb": "always",
+              "verb": "feel"
+            },
+            {
+              "adverb": "even",
+              "verb": "be"
+            },
+            {
+              "adverb": "still",
+              "verb": "smell"
+            },
+            {
+              "adverb": "ever",
+              "verb": "inspire"
+            },
+            {
+              "adverb": "together",
+              "verb": "make"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "quote"
+            ],
+            "verbs": [
+              "be"
+            ],
+            "adjectives": [
+              "beautiful",
+              "such"
+            ]
+          },
+          {
+            "nouns": [
+              "line",
+              "chill",
+              "wallflower",
+              "way",
+              "perks"
+            ],
+            "verbs": [
+              "be",
+              "give"
+            ],
+            "adjectives": [
+              "good"
+            ]
+          },
+          {
+            "nouns": [
+              "moment",
+              "heartbeat",
+              "kind"
+            ],
+            "verbs": [
+              "’re",
+              "feel",
+              "savor",
+              "make"
+            ],
+            "adjectives": [
+              "right",
+              "perfect",
+              "tiny",
+              "big"
+            ]
+          },
+          {
+            "nouns": [
+              "lyric",
+              "time",
+              "promise",
+              "florence",
+              "machine"
+            ],
+            "verbs": [
+              "will",
+              "pass",
+              "think",
+              "reassure",
+              "be",
+              "hear",
+              "should"
+            ],
+            "adjectives": [
+              "soft",
+              "tough",
+              "little"
+            ]
+          },
+          {
+            "nouns": [
+              "lyric",
+              "quote",
+              "story",
+              "journal",
+              "soul",
+              "scrapbook",
+              "snippet"
+            ],
+            "verbs": [
+              "have",
+              "could",
+              "collect",
+              "’d"
+            ],
+            "adjectives": [
+              "whole",
+              "little",
+              "cozy"
+            ]
+          },
+          {
+            "nouns": [
+              "reminder",
+              "inspiration",
+              "word",
+              "day"
+            ],
+            "verbs": [
+              "move",
+              "return",
+              "need"
+            ],
+            "adjectives": [
+              "little",
+              "special"
+            ]
+          },
+          {
+            "nouns": [
+              "day",
+              "anne",
+              "mind",
+              "favorite",
+              "tomorrow",
+              "green",
+              "mistake",
+              "n’t",
+              "gables"
+            ],
+            "verbs": [
+              "be",
+              "think",
+              "come"
+            ],
+            "adjectives": [
+              "nice",
+              "new"
+            ]
+          },
+          {
+            "nouns": [
+              "hope",
+              "forgiveness",
+              "n’t"
+            ],
+            "verbs": [
+              "feel",
+              "think",
+              "do"
+            ],
+            "adjectives": [
+              "gentle",
+              "full"
+            ]
+          },
+          {
+            "nouns": [
+              "mess",
+              "tomorrow",
+              "today",
+              "start"
+            ],
+            "verbs": [
+              "be"
+            ],
+            "adjectives": [
+              "new",
+              "whole"
+            ]
+          },
+          {
+            "nouns": [
+              "laughter",
+              "sleeve",
+              "joke",
+              "sun",
+              "moment",
+              "way"
+            ],
+            "verbs": [
+              "feel",
+              "write",
+              "think",
+              "want",
+              "capture",
+              "overlook",
+              "be",
+              "linger",
+              "’d"
+            ],
+            "adjectives": [
+              "good",
+              "easy",
+              "magical",
+              "own",
+              "warm",
+              "small"
+            ]
+          },
+          {
+            "nouns": [
+              "happiness",
+              "sunshine",
+              "sweater",
+              "day"
+            ],
+            "verbs": [
+              "be",
+              "smell"
+            ],
+            "adjectives": [
+              "little"
+            ]
+          },
+          {
+            "nouns": [
+              "line",
+              "thought"
+            ],
+            "verbs": [
+              "do",
+              "get",
+              "write",
+              "doodle",
+              "inspire"
+            ],
+            "adjectives": [
+              "own"
+            ]
+          },
+          {
+            "nouns": [],
+            "verbs": [
+              "love",
+              "want",
+              "hear",
+              "share",
+              "’d"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "lyric",
+              "quote",
+              "fun"
+            ],
+            "verbs": [
+              "help",
+              "can",
+              "want",
+              "make"
+            ],
+            "adjectives": []
+          }
+        ],
+        "statistics": {
+          "total_nouns": 56,
+          "total_verbs": 56,
+          "total_adjectives": 29,
+          "total_expressions": 34,
+          "total_metaphors": 14,
+          "total_noun_verb_relations": 9,
+          "total_adj_noun_relations": 20,
+          "total_adv_verb_relations": 8,
+          "sentence_count": 14,
+          "word_count": 277
+        }
+      }
+    }
+  ],
+  "completed_at": "2025-12-04 14:01:44",
+  "statistics": {
+    "total_characters": 6751,
+    "average_message_length": 675
+  },
+  "linguistics_backfilled_at": "2025-12-09T13:10:07.089859"
+}

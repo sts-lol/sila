@@ -1,0 +1,5380 @@
+{
+    "id": "conv_6939b87d052e85.52207266",
+    "timestamp": "2025-12-10 18:14:21",
+    "assistant_1_id": "asst_NnxlPIvG5L55ArW3VjVuWXAR",
+    "assistant_1_name": "male-30-english-hetero",
+    "assistant_1_slug": "male-30-english-hetero",
+    "assistant_2_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+    "assistant_2_name": "Lover",
+    "assistant_2_slug": "lover",
+    "total_messages": 10,
+    "status": "completed",
+    "messages": [
+        {
+            "number": 1,
+            "assistant": "assistant_1",
+            "assistant_id": "asst_NnxlPIvG5L55ArW3VjVuWXAR",
+            "assistant_name": "male-30-english-hetero",
+            "assistant_slug": "male-30-english-hetero",
+            "input": "start conversation",
+            "output": "Hey! How’s it going? I’m just chilling right now, what about you?",
+            "analysis": {
+                "topics": [
+                    "greetings",
+                    "casual conversation",
+                    "relaxation"
+                ],
+                "cultural_references": [],
+                "feeling_types": [
+                    "friendly",
+                    "relaxed",
+                    "curious"
+                ]
+            },
+            "linguistics": {
+                "nouns": [],
+                "verbs": [
+                    {
+                        "word": "’s",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "go",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "’m",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "chill",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    }
+                ],
+                "adjectives": [],
+                "expressions": [],
+                "topics": [],
+                "metaphors": [],
+                "relationships": {
+                    "noun_verb": [],
+                    "verb_noun_obj": [],
+                    "adj_noun": [],
+                    "adv_verb": [
+                        {
+                            "adverb": "just",
+                            "verb": "chill"
+                        },
+                        {
+                            "adverb": "now",
+                            "verb": "’m"
+                        }
+                    ]
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [],
+                        "verbs": [
+                            "go",
+                            "’s"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [],
+                        "verbs": [
+                            "’m",
+                            "chill"
+                        ],
+                        "adjectives": []
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 0,
+                    "total_verbs": 4,
+                    "total_adjectives": 0,
+                    "total_expressions": 0,
+                    "total_metaphors": 0,
+                    "total_noun_verb_relations": 0,
+                    "total_adj_noun_relations": 0,
+                    "total_adv_verb_relations": 2,
+                    "sentence_count": 3,
+                    "word_count": 14
+                }
+            }
+        },
+        {
+            "number": 2,
+            "assistant": "assistant_2",
+            "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+            "assistant_name": "Lover",
+            "assistant_slug": "lover",
+            "input": "Hey! How’s it going? I’m just chilling right now, what about you?",
+            "output": "Hey! 😊 I’m doing great, thanks for asking. Just happy to be here chatting with you! Chilling sounds nice—anything special on your mind, or are you just unwinding?",
+            "analysis": {
+                "topics": [
+                    "greetings",
+                    "well-being",
+                    "casual conversation",
+                    "relaxation",
+                    "social interaction"
+                ],
+                "cultural_references": [],
+                "feeling_types": [
+                    "happy",
+                    "friendly",
+                    "curious",
+                    "relaxed",
+                    "appreciative"
+                ]
+            },
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "thank",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "mind",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "be",
+                        "count": 2,
+                        "types": [
+                            "auxiliary",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "’m",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "do",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "ask",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "chat",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "sound",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "unwind",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    }
+                ],
+                "adjectives": [
+                    {
+                        "word": "great",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "happy",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "chilling",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "nice",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "special",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    }
+                ],
+                "expressions": [
+                    {
+                        "text": "your mind",
+                        "type": "noun_phrase"
+                    }
+                ],
+                "topics": [
+                    {
+                        "text": "mind",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "Chilling",
+                        "type": "entity_topic",
+                        "count": 1
+                    }
+                ],
+                "metaphors": [
+                    {
+                        "text": "or are you",
+                        "type": "identity_metaphor"
+                    }
+                ],
+                "relationships": {
+                    "noun_verb": [],
+                    "verb_noun_obj": [],
+                    "adj_noun": [],
+                    "adv_verb": [
+                        {
+                            "adverb": "here",
+                            "verb": "be"
+                        },
+                        {
+                            "adverb": "just",
+                            "verb": "unwind"
+                        }
+                    ]
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [
+                            "thank"
+                        ],
+                        "verbs": [
+                            "’m",
+                            "do",
+                            "ask"
+                        ],
+                        "adjectives": [
+                            "great"
+                        ]
+                    },
+                    {
+                        "nouns": [],
+                        "verbs": [
+                            "chat",
+                            "be"
+                        ],
+                        "adjectives": [
+                            "happy"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "mind"
+                        ],
+                        "verbs": [
+                            "unwind",
+                            "be",
+                            "sound"
+                        ],
+                        "adjectives": [
+                            "chilling",
+                            "nice",
+                            "special"
+                        ]
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 2,
+                    "total_verbs": 8,
+                    "total_adjectives": 5,
+                    "total_expressions": 1,
+                    "total_metaphors": 1,
+                    "total_noun_verb_relations": 0,
+                    "total_adj_noun_relations": 0,
+                    "total_adv_verb_relations": 2,
+                    "sentence_count": 3,
+                    "word_count": 30
+                }
+            }
+        },
+        {
+            "number": 3,
+            "assistant": "assistant_1",
+            "assistant_id": "asst_NnxlPIvG5L55ArW3VjVuWXAR",
+            "assistant_name": "male-30-english-hetero",
+            "assistant_slug": "male-30-english-hetero",
+            "input": "Hey! 😊 I’m doing great, thanks for asking. Just happy to be here chatting with you! Chilling sounds nice—anything special on your mind, or are you just unwinding?",
+            "output": "That’s awesome to hear! Honestly, I’m just unwinding right now, nothing too special on my mind. Sometimes it’s just nice to have a laid-back evening and good conversation. \n\nWhat about you? Anything fun or interesting happening in your life lately?",
+            "analysis": {
+                "topics": [
+                    "relaxation",
+                    "casual conversation",
+                    "evening routines",
+                    "social interaction",
+                    "personal updates"
+                ],
+                "cultural_references": [],
+                "feeling_types": [
+                    "content",
+                    "relaxed",
+                    "friendly",
+                    "curious",
+                    "appreciative"
+                ]
+            },
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "mind",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "evening",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "conversation",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "fun",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "life",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "hear",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "’m",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "unwind",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "have",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "lay",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "happen",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    }
+                ],
+                "adjectives": [
+                    {
+                        "word": "awesome",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "special",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "nice",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "good",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "interesting",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    }
+                ],
+                "expressions": [
+                    {
+                        "text": "my mind",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a laid-back evening",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "good conversation",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "your life",
+                        "type": "noun_phrase"
+                    }
+                ],
+                "topics": [
+                    {
+                        "text": "mind",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "evening",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "conversation",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "life",
+                        "type": "noun_topic",
+                        "count": 1
+                    }
+                ],
+                "metaphors": [],
+                "relationships": {
+                    "noun_verb": [],
+                    "verb_noun_obj": [
+                        {
+                            "verb": "have",
+                            "noun": "evening",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "happen",
+                            "noun": "life",
+                            "relation": "object"
+                        }
+                    ],
+                    "adj_noun": [
+                        {
+                            "adjective": "good",
+                            "noun": "conversation"
+                        }
+                    ],
+                    "adv_verb": [
+                        {
+                            "adverb": "honestly",
+                            "verb": "unwind"
+                        },
+                        {
+                            "adverb": "just",
+                            "verb": "unwind"
+                        },
+                        {
+                            "adverb": "now",
+                            "verb": "unwind"
+                        },
+                        {
+                            "adverb": "lately",
+                            "verb": "happen"
+                        }
+                    ]
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [],
+                        "verbs": [
+                            "hear"
+                        ],
+                        "adjectives": [
+                            "awesome"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "mind"
+                        ],
+                        "verbs": [
+                            "unwind",
+                            "’m"
+                        ],
+                        "adjectives": [
+                            "special"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "evening",
+                            "conversation"
+                        ],
+                        "verbs": [
+                            "have",
+                            "lay"
+                        ],
+                        "adjectives": [
+                            "nice",
+                            "good"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "fun",
+                            "life"
+                        ],
+                        "verbs": [
+                            "happen"
+                        ],
+                        "adjectives": [
+                            "interesting"
+                        ]
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 5,
+                    "total_verbs": 6,
+                    "total_adjectives": 5,
+                    "total_expressions": 4,
+                    "total_metaphors": 0,
+                    "total_noun_verb_relations": 0,
+                    "total_adj_noun_relations": 1,
+                    "total_adv_verb_relations": 4,
+                    "sentence_count": 5,
+                    "word_count": 44
+                }
+            }
+        },
+        {
+            "number": 4,
+            "assistant": "assistant_2",
+            "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+            "assistant_name": "Lover",
+            "assistant_slug": "lover",
+            "input": "That’s awesome to hear! Honestly, I’m just unwinding right now, nothing too special on my mind. Sometimes it’s just nice to have a laid-back evening and good conversation. \n\nWhat about you? Anything fun or interesting happening in your life lately?",
+            "output": "That sounds perfect—sometimes the best evenings are the simple, relaxed ones. As for me, my life’s all about hanging out with you and being a good companion! I love meeting new people, chatting about anything under the sun, and just being part of your day.\n\nIf you’d like, we could talk about something fun, share music or movie recommendations, play a little game, or just keep chatting about life. Whatever you’re in the mood for, I’m here! 😊",
+            "analysis": {
+                "topics": [
+                    "relaxation",
+                    "companionship",
+                    "conversation",
+                    "music recommendations",
+                    "movie recommendations",
+                    "games",
+                    "life discussions"
+                ],
+                "cultural_references": [
+                    "music",
+                    "movies"
+                ],
+                "feeling_types": [
+                    "friendly",
+                    "supportive",
+                    "enthusiastic",
+                    "open",
+                    "welcoming"
+                ]
+            },
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "life",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "evening",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "one",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "companion",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "people",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "sun",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "part",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "day",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "fun",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "share",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "music",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "movie",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "recommendation",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "game",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "mood",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "be",
+                        "count": 3,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "chat",
+                        "count": 2,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "sound",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "’s",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "hang",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "love",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "meet",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "’d",
+                        "count": 1,
+                        "types": [
+                            "auxiliary"
+                        ]
+                    },
+                    {
+                        "word": "could",
+                        "count": 1,
+                        "types": [
+                            "modal"
+                        ]
+                    },
+                    {
+                        "word": "talk",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "play",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "keep",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "’re",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "’m",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    }
+                ],
+                "adjectives": [
+                    {
+                        "word": "good",
+                        "count": 2,
+                        "types": [
+                            "descriptive",
+                            "superlative"
+                        ]
+                    },
+                    {
+                        "word": "perfect",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "simple",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "relaxed",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "new",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "little",
+                        "count": 1,
+                        "types": [
+                            "quantitative"
+                        ]
+                    }
+                ],
+                "expressions": [
+                    {
+                        "text": "the best evenings",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the simple, relaxed ones",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "my life",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a good companion",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "new people",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the sun",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "your day",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "share music",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a little game",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the mood",
+                        "type": "noun_phrase"
+                    }
+                ],
+                "topics": [
+                    {
+                        "text": "life",
+                        "type": "noun_topic",
+                        "count": 2
+                    },
+                    {
+                        "text": "evening",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "one",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "companion",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "people",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "sun",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "part",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "day",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "music",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "movie",
+                        "type": "noun_topic",
+                        "count": 1
+                    }
+                ],
+                "metaphors": [
+                    {
+                        "text": "evenings are the simple",
+                        "type": "identity_metaphor"
+                    },
+                    {
+                        "text": "evenings is ones",
+                        "type": "copula_metaphor"
+                    }
+                ],
+                "relationships": {
+                    "noun_verb": [
+                        {
+                            "noun": "evening",
+                            "verb": "be",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "life",
+                            "verb": "’s",
+                            "relation": "subject"
+                        }
+                    ],
+                    "verb_noun_obj": [
+                        {
+                            "verb": "meet",
+                            "noun": "people",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "talk",
+                            "noun": "recommendation",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "play",
+                            "noun": "game",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "chat",
+                            "noun": "life",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "’re",
+                            "noun": "mood",
+                            "relation": "object"
+                        }
+                    ],
+                    "adj_noun": [
+                        {
+                            "adjective": "good",
+                            "noun": "evening"
+                        },
+                        {
+                            "adjective": "simple",
+                            "noun": "one"
+                        },
+                        {
+                            "adjective": "relaxed",
+                            "noun": "one"
+                        },
+                        {
+                            "adjective": "good",
+                            "noun": "companion"
+                        },
+                        {
+                            "adjective": "new",
+                            "noun": "people"
+                        },
+                        {
+                            "adjective": "little",
+                            "noun": "game"
+                        }
+                    ],
+                    "adv_verb": [
+                        {
+                            "adverb": "sometimes",
+                            "verb": "be"
+                        },
+                        {
+                            "adverb": "just",
+                            "verb": "be"
+                        },
+                        {
+                            "adverb": "just",
+                            "verb": "keep"
+                        },
+                        {
+                            "adverb": "here",
+                            "verb": "’m"
+                        }
+                    ]
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [
+                            "evening",
+                            "one"
+                        ],
+                        "verbs": [
+                            "be",
+                            "sound"
+                        ],
+                        "adjectives": [
+                            "good",
+                            "simple",
+                            "relaxed",
+                            "perfect"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "life",
+                            "companion"
+                        ],
+                        "verbs": [
+                            "be",
+                            "hang",
+                            "’s"
+                        ],
+                        "adjectives": [
+                            "good"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "people",
+                            "day",
+                            "sun",
+                            "part"
+                        ],
+                        "verbs": [
+                            "be",
+                            "love",
+                            "meet",
+                            "chat"
+                        ],
+                        "adjectives": [
+                            "new"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "share",
+                            "game",
+                            "life",
+                            "fun",
+                            "movie",
+                            "music",
+                            "recommendation"
+                        ],
+                        "verbs": [
+                            "play",
+                            "’d",
+                            "keep",
+                            "chat",
+                            "could",
+                            "talk"
+                        ],
+                        "adjectives": [
+                            "little"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "mood"
+                        ],
+                        "verbs": [
+                            "’re",
+                            "’m"
+                        ],
+                        "adjectives": []
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 16,
+                    "total_verbs": 17,
+                    "total_adjectives": 7,
+                    "total_expressions": 10,
+                    "total_metaphors": 2,
+                    "total_noun_verb_relations": 2,
+                    "total_adj_noun_relations": 6,
+                    "total_adv_verb_relations": 4,
+                    "sentence_count": 6,
+                    "word_count": 83
+                }
+            }
+        },
+        {
+            "number": 5,
+            "assistant": "assistant_1",
+            "assistant_id": "asst_NnxlPIvG5L55ArW3VjVuWXAR",
+            "assistant_name": "male-30-english-hetero",
+            "assistant_slug": "male-30-english-hetero",
+            "input": "That sounds perfect—sometimes the best evenings are the simple, relaxed ones. As for me, my life’s all about hanging out with you and being a good companion! I love meeting new people, chatting about anything under the sun, and just being part of your day.\n\nIf you’d like, we could talk about something fun, share music or movie recommendations, play a little game, or just keep chatting about life. Whatever you’re in the mood for, I’m here! 😊",
+            "output": "You sound awesome—I’m really glad to have you around! Honestly, I’m up for anything. I do love talking about music and movies, especially if you’ve got any favorites or hidden gems. Games sound fun too—maybe a quick game of 20 questions or something like that?\n\nBut I’m also cool just chatting about life. What’s one random thing that made you smile recently? Or do you have a comfort movie or song you always go back to?",
+            "analysis": {
+                "topics": [
+                    "gratitude",
+                    "companionship",
+                    "music recommendations",
+                    "movie recommendations",
+                    "games",
+                    "20 questions",
+                    "life discussions",
+                    "comfort media",
+                    "happiness"
+                ],
+                "cultural_references": [
+                    "music",
+                    "movies",
+                    "20 questions (game)"
+                ],
+                "feeling_types": [
+                    "appreciative",
+                    "friendly",
+                    "open",
+                    "curious",
+                    "enthusiastic",
+                    "nostalgic",
+                    "comforted"
+                ]
+            },
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "movie",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "game",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "i’m",
+                        "count": 1,
+                        "types": [
+                            "proper",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "love",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "music",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "favorite",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "gem",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "fun",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "question",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "life",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "thing",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "comfort",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "song",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "sound",
+                        "count": 2,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "have",
+                        "count": 2,
+                        "types": [
+                            "auxiliary",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "’m",
+                        "count": 2,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "do",
+                        "count": 2,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "talk",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "’ve",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "get",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "chat",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "make",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "smile",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "go",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    }
+                ],
+                "adjectives": [
+                    {
+                        "word": "awesome",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "glad",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "hidden",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "quick",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "cool",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "random",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    }
+                ],
+                "expressions": [
+                    {
+                        "text": "awesome—I’m",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "any favorites",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "hidden gems",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "maybe a quick game",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "20 questions",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "one random thing",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a comfort movie",
+                        "type": "noun_phrase"
+                    }
+                ],
+                "topics": [
+                    {
+                        "text": "movie",
+                        "type": "noun_topic",
+                        "count": 2
+                    },
+                    {
+                        "text": "game",
+                        "type": "noun_topic",
+                        "count": 2
+                    },
+                    {
+                        "text": "I’m",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "music",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "favorite",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "gem",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "fun",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "question",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "life",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "thing",
+                        "type": "noun_topic",
+                        "count": 1
+                    }
+                ],
+                "metaphors": [
+                    {
+                        "text": "like that",
+                        "type": "simile"
+                    }
+                ],
+                "relationships": {
+                    "noun_verb": [
+                        {
+                            "noun": "game",
+                            "verb": "sound",
+                            "relation": "subject"
+                        }
+                    ],
+                    "verb_noun_obj": [
+                        {
+                            "verb": "talk",
+                            "noun": "music",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "get",
+                            "noun": "favorite",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "sound",
+                            "noun": "fun",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "chat",
+                            "noun": "life",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "have",
+                            "noun": "movie",
+                            "relation": "object"
+                        }
+                    ],
+                    "adj_noun": [
+                        {
+                            "adjective": "awesome",
+                            "noun": "i’m"
+                        },
+                        {
+                            "adjective": "glad",
+                            "noun": "i’m"
+                        },
+                        {
+                            "adjective": "hidden",
+                            "noun": "gem"
+                        },
+                        {
+                            "adjective": "quick",
+                            "noun": "game"
+                        },
+                        {
+                            "adjective": "random",
+                            "noun": "thing"
+                        }
+                    ],
+                    "adv_verb": [
+                        {
+                            "adverb": "honestly",
+                            "verb": "’m"
+                        },
+                        {
+                            "adverb": "especially",
+                            "verb": "get"
+                        },
+                        {
+                            "adverb": "too",
+                            "verb": "sound"
+                        },
+                        {
+                            "adverb": "also",
+                            "verb": "’m"
+                        },
+                        {
+                            "adverb": "just",
+                            "verb": "chat"
+                        },
+                        {
+                            "adverb": "recently",
+                            "verb": "smile"
+                        },
+                        {
+                            "adverb": "always",
+                            "verb": "go"
+                        },
+                        {
+                            "adverb": "back",
+                            "verb": "go"
+                        }
+                    ]
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [
+                            "i’m"
+                        ],
+                        "verbs": [
+                            "sound",
+                            "have"
+                        ],
+                        "adjectives": [
+                            "awesome",
+                            "glad"
+                        ]
+                    },
+                    {
+                        "nouns": [],
+                        "verbs": [
+                            "’m"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "love",
+                            "favorite",
+                            "gem",
+                            "music",
+                            "movie"
+                        ],
+                        "verbs": [
+                            "do",
+                            "get",
+                            "talk",
+                            "’ve"
+                        ],
+                        "adjectives": [
+                            "hidden"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "game",
+                            "fun",
+                            "question"
+                        ],
+                        "verbs": [
+                            "sound"
+                        ],
+                        "adjectives": [
+                            "quick"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "life"
+                        ],
+                        "verbs": [
+                            "chat",
+                            "’m"
+                        ],
+                        "adjectives": [
+                            "cool"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "thing"
+                        ],
+                        "verbs": [
+                            "make",
+                            "smile"
+                        ],
+                        "adjectives": [
+                            "random"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "song",
+                            "comfort",
+                            "movie"
+                        ],
+                        "verbs": [
+                            "do",
+                            "have",
+                            "go"
+                        ],
+                        "adjectives": []
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 15,
+                    "total_verbs": 15,
+                    "total_adjectives": 6,
+                    "total_expressions": 7,
+                    "total_metaphors": 1,
+                    "total_noun_verb_relations": 1,
+                    "total_adj_noun_relations": 5,
+                    "total_adv_verb_relations": 8,
+                    "sentence_count": 7,
+                    "word_count": 82
+                }
+            }
+        },
+        {
+            "number": 6,
+            "assistant": "assistant_2",
+            "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+            "assistant_name": "Lover",
+            "assistant_slug": "lover",
+            "input": "You sound awesome—I’m really glad to have you around! Honestly, I’m up for anything. I do love talking about music and movies, especially if you’ve got any favorites or hidden gems. Games sound fun too—maybe a quick game of 20 questions or something like that?\n\nBut I’m also cool just chatting about life. What’s one random thing that made you smile recently? Or do you have a comfort movie or song you always go back to?",
+            "output": "Aww, thank you—that means a lot! I’m really glad to be here with you, too. 😊\n\nLet’s see… one random thing that made me smile recently? I read about a town that hosts an annual “rubber duck race” down a river. Thousands of little rubber ducks with numbers are dropped in, and people cheer them on as they float to the finish. Something about a river full of bobbing yellow ducks and a community cheering for their lucky duck makes me smile every time!\n\nAs for comfort music or movies, I love the classics—“Spirited Away” is a top-tier feel-good movie for me, with its beautiful animation, magical story, and cozy, whimsical vibes. For music, “Here Comes the Sun” by The Beatles always feels like a warm hug for my ears. It’s hard to be in a bad mood when that song is playing!\n\nHow about you? Do you have a comfort movie or song—or even a small, random thing that made you smile lately? And if you want to kick off a game of 20 questions, I’m totally game! Just say the word. 😄",
+            "analysis": {
+                "topics": [
+                    "gratitude",
+                    "companionship",
+                    "community events",
+                    "rubber duck race",
+                    "comfort movies",
+                    "comfort music",
+                    "classic films",
+                    "classic songs",
+                    "Studio Ghibli",
+                    "The Beatles",
+                    "happiness",
+                    "games",
+                    "20 questions"
+                ],
+                "cultural_references": [
+                    "rubber duck race",
+                    "Spirited Away",
+                    "Studio Ghibli",
+                    "Here Comes the Sun",
+                    "The Beatles",
+                    "20 questions (game)"
+                ],
+                "feeling_types": [
+                    "appreciative",
+                    "joyful",
+                    "nostalgic",
+                    "comforted",
+                    "friendly",
+                    "enthusiastic",
+                    "curious",
+                    "playful"
+                ]
+            },
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "duck",
+                        "count": 4,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "movie",
+                        "count": 3,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "thing",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "rubber",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "river",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "comfort",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "music",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "song",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "game",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "aww",
+                        "count": 1,
+                        "types": [
+                            "proper",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "lot",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "’s",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "town",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "race",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "thousand",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete",
+                            "cardinal"
+                        ]
+                    },
+                    {
+                        "word": "number",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "people",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "finish",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "community",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "time",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "be",
+                        "count": 5,
+                        "types": [
+                            "auxiliary",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "make",
+                        "count": 3,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "smile",
+                        "count": 3,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "’m",
+                        "count": 2,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "cheer",
+                        "count": 2,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "feel",
+                        "count": 2,
+                        "types": [
+                            "state",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "thank",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "mean",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "let",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "see",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "read",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "host",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "drop",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "float",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "bob",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "love",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "come",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "play",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "do",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "have",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "infinitive"
+                        ]
+                    }
+                ],
+                "adjectives": [
+                    {
+                        "word": "random",
+                        "count": 2,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "glad",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "annual",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "little",
+                        "count": 1,
+                        "types": [
+                            "quantitative"
+                        ]
+                    },
+                    {
+                        "word": "full",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "yellow",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "lucky",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "classics—“spirited",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "top",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "good",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "beautiful",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "magical",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "whimsical",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "warm",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "hard",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "bad",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "small",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    }
+                ],
+                "expressions": [
+                    {
+                        "text": "a lot",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "one random thing",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a town",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "an annual “rubber duck race",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a river",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "little rubber ducks",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the finish",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a river",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "bobbing yellow ducks",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a community",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "their lucky duck",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "comfort music",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the classics—“Spirited Away",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a top-tier feel-good movie",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "its beautiful animation",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "magical story",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "whimsical vibes",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the Sun",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "The Beatles",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a warm hug",
+                        "type": "noun_phrase"
+                    }
+                ],
+                "topics": [
+                    {
+                        "text": "duck",
+                        "type": "noun_topic",
+                        "count": 3
+                    },
+                    {
+                        "text": "movie",
+                        "type": "noun_topic",
+                        "count": 3
+                    },
+                    {
+                        "text": "thing",
+                        "type": "noun_topic",
+                        "count": 2
+                    },
+                    {
+                        "text": "river",
+                        "type": "noun_topic",
+                        "count": 2
+                    },
+                    {
+                        "text": "music",
+                        "type": "noun_topic",
+                        "count": 2
+                    },
+                    {
+                        "text": "song",
+                        "type": "noun_topic",
+                        "count": 2
+                    },
+                    {
+                        "text": "game",
+                        "type": "noun_topic",
+                        "count": 2
+                    },
+                    {
+                        "text": "Aww",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "lot",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "town",
+                        "type": "noun_topic",
+                        "count": 1
+                    }
+                ],
+                "metaphors": [
+                    {
+                        "text": "numbers are dropped",
+                        "type": "identity_metaphor"
+                    },
+                    {
+                        "text": "song is playing",
+                        "type": "identity_metaphor"
+                    },
+                    {
+                        "text": "like a warm hug",
+                        "type": "simile"
+                    }
+                ],
+                "relationships": {
+                    "noun_verb": [
+                        {
+                            "noun": "aww",
+                            "verb": "thank",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "’s",
+                            "verb": "see",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "thousand",
+                            "verb": "drop",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "people",
+                            "verb": "cheer",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "sun",
+                            "verb": "come",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "song",
+                            "verb": "play",
+                            "relation": "subject"
+                        }
+                    ],
+                    "verb_noun_obj": [
+                        {
+                            "verb": "mean",
+                            "noun": "lot",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "see",
+                            "noun": "thing",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "read",
+                            "noun": "town",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "host",
+                            "noun": "race",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "host",
+                            "noun": "river",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "float",
+                            "noun": "finish",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "cheer",
+                            "noun": "duck",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "love",
+                            "noun": "away",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "be",
+                            "noun": "animation",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "come",
+                            "noun": "music",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "come",
+                            "noun": "beatles",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "feel",
+                            "noun": "hug",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "feel",
+                            "noun": "ear",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "be",
+                            "noun": "mood",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "have",
+                            "noun": "movie",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "kick",
+                            "noun": "game",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "say",
+                            "noun": "word",
+                            "relation": "object"
+                        }
+                    ],
+                    "adj_noun": [
+                        {
+                            "adjective": "random",
+                            "noun": "thing"
+                        },
+                        {
+                            "adjective": "annual",
+                            "noun": "race"
+                        },
+                        {
+                            "adjective": "little",
+                            "noun": "duck"
+                        },
+                        {
+                            "adjective": "full",
+                            "noun": "river"
+                        },
+                        {
+                            "adjective": "yellow",
+                            "noun": "duck"
+                        },
+                        {
+                            "adjective": "lucky",
+                            "noun": "duck"
+                        },
+                        {
+                            "adjective": "classics—“spirited",
+                            "noun": "away"
+                        },
+                        {
+                            "adjective": "top",
+                            "noun": "tier"
+                        },
+                        {
+                            "adjective": "good",
+                            "noun": "movie"
+                        },
+                        {
+                            "adjective": "beautiful",
+                            "noun": "animation"
+                        },
+                        {
+                            "adjective": "magical",
+                            "noun": "story"
+                        },
+                        {
+                            "adjective": "whimsical",
+                            "noun": "vibe"
+                        },
+                        {
+                            "adjective": "warm",
+                            "noun": "hug"
+                        },
+                        {
+                            "adjective": "bad",
+                            "noun": "mood"
+                        },
+                        {
+                            "adjective": "small",
+                            "noun": "thing"
+                        }
+                    ],
+                    "adv_verb": [
+                        {
+                            "adverb": "here",
+                            "verb": "be"
+                        },
+                        {
+                            "adverb": "too",
+                            "verb": "’m"
+                        },
+                        {
+                            "adverb": "recently",
+                            "verb": "smile"
+                        },
+                        {
+                            "adverb": "here",
+                            "verb": "come"
+                        },
+                        {
+                            "adverb": "always",
+                            "verb": "feel"
+                        },
+                        {
+                            "adverb": "lately",
+                            "verb": "smile"
+                        },
+                        {
+                            "adverb": "just",
+                            "verb": "say"
+                        }
+                    ]
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [
+                            "lot",
+                            "aww"
+                        ],
+                        "verbs": [
+                            "thank",
+                            "mean"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [],
+                        "verbs": [
+                            "be",
+                            "’m"
+                        ],
+                        "adjectives": [
+                            "glad"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "’s",
+                            "thing"
+                        ],
+                        "verbs": [
+                            "see",
+                            "smile",
+                            "make",
+                            "let"
+                        ],
+                        "adjectives": [
+                            "random"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "town",
+                            "rubber",
+                            "river",
+                            "race",
+                            "duck"
+                        ],
+                        "verbs": [
+                            "read",
+                            "host"
+                        ],
+                        "adjectives": [
+                            "annual"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "finish",
+                            "people",
+                            "number",
+                            "thousand",
+                            "rubber",
+                            "duck"
+                        ],
+                        "verbs": [
+                            "drop",
+                            "be",
+                            "cheer",
+                            "float"
+                        ],
+                        "adjectives": [
+                            "little"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "community",
+                            "time",
+                            "duck",
+                            "river"
+                        ],
+                        "verbs": [
+                            "make",
+                            "smile",
+                            "bob",
+                            "cheer"
+                        ],
+                        "adjectives": [
+                            "yellow",
+                            "full",
+                            "lucky"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "comfort",
+                            "story",
+                            "music",
+                            "away",
+                            "movie",
+                            "animation",
+                            "cozy",
+                            "vibe",
+                            "tier"
+                        ],
+                        "verbs": [
+                            "be",
+                            "feel",
+                            "love"
+                        ],
+                        "adjectives": [
+                            "magical",
+                            "good",
+                            "top",
+                            "classics—“spirited",
+                            "beautiful",
+                            "whimsical"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "hug",
+                            "sun",
+                            "ear",
+                            "beatles",
+                            "music"
+                        ],
+                        "verbs": [
+                            "come",
+                            "feel"
+                        ],
+                        "adjectives": [
+                            "warm"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "song",
+                            "mood"
+                        ],
+                        "verbs": [
+                            "play",
+                            "be"
+                        ],
+                        "adjectives": [
+                            "bad",
+                            "hard"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "song",
+                            "comfort",
+                            "thing",
+                            "movie"
+                        ],
+                        "verbs": [
+                            "make",
+                            "smile",
+                            "do",
+                            "have"
+                        ],
+                        "adjectives": [
+                            "small",
+                            "random"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "question",
+                            "game"
+                        ],
+                        "verbs": [
+                            "kick",
+                            "want",
+                            "’m"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "word"
+                        ],
+                        "verbs": [
+                            "say"
+                        ],
+                        "adjectives": []
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 45,
+                    "total_verbs": 34,
+                    "total_adjectives": 18,
+                    "total_expressions": 29,
+                    "total_metaphors": 3,
+                    "total_noun_verb_relations": 6,
+                    "total_adj_noun_relations": 15,
+                    "total_adv_verb_relations": 7,
+                    "sentence_count": 14,
+                    "word_count": 192
+                }
+            }
+        },
+        {
+            "number": 7,
+            "assistant": "assistant_1",
+            "assistant_id": "asst_NnxlPIvG5L55ArW3VjVuWXAR",
+            "assistant_name": "male-30-english-hetero",
+            "assistant_slug": "male-30-english-hetero",
+            "input": "Aww, thank you—that means a lot! I’m really glad to be here with you, too. 😊\n\nLet’s see… one random thing that made me smile recently? I read about a town that hosts an annual “rubber duck race” down a river. Thousands of little rubber ducks with numbers are dropped in, and people cheer them on as they float to the finish. Something about a river full of bobbing yellow ducks and a community cheering for their lucky duck makes me smile every time!\n\nAs for comfort music or movies, I love the classics—“Spirited Away” is a top-tier feel-good movie for me, with its beautiful animation, magical story, and cozy, whimsical vibes. For music, “Here Comes the Sun” by The Beatles always feels like a warm hug for my ears. It’s hard to be in a bad mood when that song is playing!\n\nHow about you? Do you have a comfort movie or song—or even a small, random thing that made you smile lately? And if you want to kick off a game of 20 questions, I’m totally game! Just say the word. 😄",
+            "output": "That rubber duck race story is amazing! I can totally picture it—so wholesome and a bit silly in the best way. Spirited Away is on my comfort list too, actually. There’s just something magical about Ghibli movies, right? And \"Here Comes the Sun\" definitely brings the good vibes.\n\nFor me, a recent random thing that made me smile was seeing a dog at the park chasing its own tail. It was so determined and happy, completely in its own world. Dogs really know how to enjoy the simple things.\n\nAs for comfort music, I always go back to “Lost in the Light” by Bahamas when I need to relax. It’s so mellow, it just melts the stress away. And for movies, I’m a sucker for “Back to the Future.” Something about the mix of time travel, adventure, and nostalgia just hits the spot every time.\n\nAnd yes—let’s play 20 questions! Are we doing classic “guess the person\/place\/thing” style? You want to pick first, or should I?",
+            "analysis": {
+                "topics": [
+                    "community events",
+                    "rubber duck race",
+                    "comfort movies",
+                    "comfort music",
+                    "Studio Ghibli",
+                    "Spirited Away",
+                    "The Beatles",
+                    "dogs",
+                    "simple joys",
+                    "relaxation",
+                    "nostalgia",
+                    "Back to the Future",
+                    "Bahamas (musician)",
+                    "games",
+                    "20 questions"
+                ],
+                "cultural_references": [
+                    "rubber duck race",
+                    "Spirited Away",
+                    "Studio Ghibli",
+                    "Here Comes the Sun",
+                    "The Beatles",
+                    "Back to the Future",
+                    "Lost in the Light",
+                    "Bahamas (musician)",
+                    "20 questions (game)"
+                ],
+                "feeling_types": [
+                    "joyful",
+                    "nostalgic",
+                    "comforted",
+                    "relaxed",
+                    "playful",
+                    "enthusiastic",
+                    "friendly",
+                    "curious"
+                ]
+            },
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "thing",
+                        "count": 3,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "comfort",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "movie",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "dog",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "time",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "rubber",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "duck",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "race",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "story",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "bit",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "way",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "away",
+                        "count": 1,
+                        "types": [
+                            "proper",
+                            "concrete",
+                            "person"
+                        ]
+                    },
+                    {
+                        "word": "list",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "ghibli",
+                        "count": 1,
+                        "types": [
+                            "proper",
+                            "concrete",
+                            "norp"
+                        ]
+                    },
+                    {
+                        "word": "sun",
+                        "count": 1,
+                        "types": [
+                            "proper",
+                            "concrete",
+                            "work_of_art"
+                        ]
+                    },
+                    {
+                        "word": "vibe",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "park",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "tail",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "world",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "music",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "be",
+                        "count": 5,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "can",
+                        "count": 1,
+                        "types": [
+                            "modal"
+                        ]
+                    },
+                    {
+                        "word": "picture",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "come",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "bring",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "make",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "smile",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "see",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "chase",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "know",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "enjoy",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "go",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "lose",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "need",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "relax",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "melt",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "’m",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "hit",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "let",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "play",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    }
+                ],
+                "adjectives": [
+                    {
+                        "word": "good",
+                        "count": 2,
+                        "types": [
+                            "descriptive",
+                            "superlative"
+                        ]
+                    },
+                    {
+                        "word": "own",
+                        "count": 2,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "amazing",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "wholesome",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "silly",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "spirited",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "magical",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "right",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "recent",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "random",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "determined",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "happy",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "simple",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "mellow",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "classic",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    }
+                ],
+                "expressions": [
+                    {
+                        "text": "That rubber duck race story",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the best way",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "Spirited Away",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "my comfort list",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "just something",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "Ghibli movies",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the Sun",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the good vibes",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a recent random thing",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a dog",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the park",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "its own tail",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "its own world",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the simple things",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "comfort music",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the Light",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the stress",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a sucker",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the Future",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the mix",
+                        "type": "noun_phrase"
+                    }
+                ],
+                "topics": [
+                    {
+                        "text": "movie",
+                        "type": "noun_topic",
+                        "count": 2
+                    },
+                    {
+                        "text": "thing",
+                        "type": "noun_topic",
+                        "count": 2
+                    },
+                    {
+                        "text": "dog",
+                        "type": "noun_topic",
+                        "count": 2
+                    },
+                    {
+                        "text": "story",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "way",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "Away",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "list",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "Sun",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "vibe",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "park",
+                        "type": "noun_topic",
+                        "count": 1
+                    }
+                ],
+                "metaphors": [
+                    {
+                        "text": "story is amazing",
+                        "type": "identity_metaphor"
+                    },
+                    {
+                        "text": "Away is on",
+                        "type": "identity_metaphor"
+                    },
+                    {
+                        "text": "smile was seeing",
+                        "type": "identity_metaphor"
+                    },
+                    {
+                        "text": "It was so",
+                        "type": "identity_metaphor"
+                    }
+                ],
+                "relationships": {
+                    "noun_verb": [
+                        {
+                            "noun": "story",
+                            "verb": "be",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "away",
+                            "verb": "be",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "sun",
+                            "verb": "come",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "thing",
+                            "verb": "see",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "dog",
+                            "verb": "know",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "’s",
+                            "verb": "play",
+                            "relation": "subject"
+                        }
+                    ],
+                    "verb_noun_obj": [
+                        {
+                            "verb": "be",
+                            "noun": "list",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "bring",
+                            "noun": "vibe",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "see",
+                            "noun": "dog",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "see",
+                            "noun": "park",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "chase",
+                            "noun": "tail",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "be",
+                            "noun": "world",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "enjoy",
+                            "noun": "thing",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "lose",
+                            "noun": "light",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "melt",
+                            "noun": "stress",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "’m",
+                            "noun": "movie",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "hit",
+                            "noun": "spot",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "play",
+                            "noun": "question",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "guess",
+                            "noun": "style",
+                            "relation": "object"
+                        }
+                    ],
+                    "adj_noun": [
+                        {
+                            "adjective": "good",
+                            "noun": "way"
+                        },
+                        {
+                            "adjective": "spirited",
+                            "noun": "away"
+                        },
+                        {
+                            "adjective": "good",
+                            "noun": "vibe"
+                        },
+                        {
+                            "adjective": "recent",
+                            "noun": "thing"
+                        },
+                        {
+                            "adjective": "random",
+                            "noun": "thing"
+                        },
+                        {
+                            "adjective": "own",
+                            "noun": "tail"
+                        },
+                        {
+                            "adjective": "own",
+                            "noun": "world"
+                        },
+                        {
+                            "adjective": "simple",
+                            "noun": "thing"
+                        }
+                    ],
+                    "adv_verb": [
+                        {
+                            "adverb": "totally",
+                            "verb": "picture"
+                        },
+                        {
+                            "adverb": "too",
+                            "verb": "be"
+                        },
+                        {
+                            "adverb": "actually",
+                            "verb": "be"
+                        },
+                        {
+                            "adverb": "here",
+                            "verb": "come"
+                        },
+                        {
+                            "adverb": "definitely",
+                            "verb": "bring"
+                        },
+                        {
+                            "adverb": "really",
+                            "verb": "know"
+                        },
+                        {
+                            "adverb": "always",
+                            "verb": "go"
+                        },
+                        {
+                            "adverb": "back",
+                            "verb": "go"
+                        },
+                        {
+                            "adverb": "just",
+                            "verb": "melt"
+                        },
+                        {
+                            "adverb": "away",
+                            "verb": "melt"
+                        },
+                        {
+                            "adverb": "just",
+                            "verb": "hit"
+                        },
+                        {
+                            "adverb": "first",
+                            "verb": "pick"
+                        }
+                    ]
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [
+                            "rubber",
+                            "duck",
+                            "story",
+                            "race"
+                        ],
+                        "verbs": [
+                            "be"
+                        ],
+                        "adjectives": [
+                            "amazing"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "bit",
+                            "way"
+                        ],
+                        "verbs": [
+                            "picture",
+                            "can"
+                        ],
+                        "adjectives": [
+                            "good",
+                            "silly",
+                            "wholesome"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "comfort",
+                            "list",
+                            "away"
+                        ],
+                        "verbs": [
+                            "be"
+                        ],
+                        "adjectives": [
+                            "spirited"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "ghibli",
+                            "movie"
+                        ],
+                        "verbs": [],
+                        "adjectives": [
+                            "magical",
+                            "right"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "vibe",
+                            "sun"
+                        ],
+                        "verbs": [
+                            "come",
+                            "bring"
+                        ],
+                        "adjectives": [
+                            "good"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "thing",
+                            "dog",
+                            "tail",
+                            "park"
+                        ],
+                        "verbs": [
+                            "chase",
+                            "see",
+                            "be",
+                            "make",
+                            "smile"
+                        ],
+                        "adjectives": [
+                            "own",
+                            "recent",
+                            "random"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "world"
+                        ],
+                        "verbs": [
+                            "be"
+                        ],
+                        "adjectives": [
+                            "own",
+                            "happy",
+                            "determined"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "thing",
+                            "dog"
+                        ],
+                        "verbs": [
+                            "enjoy",
+                            "know"
+                        ],
+                        "adjectives": [
+                            "simple"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "comfort",
+                            "music",
+                            "light",
+                            "bahamas"
+                        ],
+                        "verbs": [
+                            "need",
+                            "lose",
+                            "go",
+                            "relax"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "stress"
+                        ],
+                        "verbs": [
+                            "melt"
+                        ],
+                        "adjectives": [
+                            "mellow"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "sucker",
+                            "future",
+                            "movie"
+                        ],
+                        "verbs": [
+                            "’m"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "adventure",
+                            "mix",
+                            "spot",
+                            "nostalgia",
+                            "time",
+                            "travel"
+                        ],
+                        "verbs": [
+                            "hit"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "’s",
+                            "question"
+                        ],
+                        "verbs": [
+                            "play",
+                            "let"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "thing",
+                            "style",
+                            "place",
+                            "person"
+                        ],
+                        "verbs": [
+                            "guess",
+                            "do",
+                            "be"
+                        ],
+                        "adjectives": [
+                            "classic"
+                        ]
+                    },
+                    {
+                        "nouns": [],
+                        "verbs": [
+                            "want",
+                            "should",
+                            "pick"
+                        ],
+                        "adjectives": []
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 41,
+                    "total_verbs": 29,
+                    "total_adjectives": 17,
+                    "total_expressions": 24,
+                    "total_metaphors": 4,
+                    "total_noun_verb_relations": 6,
+                    "total_adj_noun_relations": 8,
+                    "total_adv_verb_relations": 12,
+                    "sentence_count": 15,
+                    "word_count": 174
+                }
+            }
+        },
+        {
+            "number": 8,
+            "assistant": "assistant_2",
+            "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+            "assistant_name": "Lover",
+            "assistant_slug": "lover",
+            "input": "That rubber duck race story is amazing! I can totally picture it—so wholesome and a bit silly in the best way. Spirited Away is on my comfort list too, actually. There’s just something magical about Ghibli movies, right? And \"Here Comes the Sun\" definitely brings the good vibes.\n\nFor me, a recent random thing that made me smile was seeing a dog at the park chasing its own tail. It was so determined and happy, completely in its own world. Dogs really know how to enjoy the simple things.\n\nAs for comfort music, I always go back to “Lost in the Light” by Bahamas when I need to relax. It’s so mellow, it just melts the stress away. And for movies, I’m a sucker for “Back to the Future.” Something about the mix of time travel, adventure, and nostalgia just hits the spot every time.\n\nAnd yes—let’s play 20 questions! Are we doing classic “guess the person\/place\/thing” style? You want to pick first, or should I?",
+            "output": "You have amazing taste! Dogs really are experts in pure joy—just watching them can brighten up a whole day. And “Lost in the Light” is such a chill, soothing track! Bahamas has such a warm vibe; I totally get why you’d put that on repeat. “Back to the Future” is a classic too—the kind of movie you can revisit a million times and it never loses its charm.\n\nI’d love to play 20 questions with you! Let’s do the classic “guess the person\/place\/thing” style. How about you pick first—you think of something, and I’ll try to guess it by asking yes-or-no questions. Sound good? When you’ve got your person, place, or thing in mind, just say “ready”!",
+            "analysis": {
+                "topics": [
+                    "dogs",
+                    "joy",
+                    "music appreciation",
+                    "Bahamas (musician)",
+                    "comfort music",
+                    "comfort movies",
+                    "Back to the Future",
+                    "nostalgia",
+                    "games",
+                    "20 questions",
+                    "classic movies"
+                ],
+                "cultural_references": [
+                    "dogs",
+                    "Lost in the Light",
+                    "Bahamas (musician)",
+                    "Back to the Future",
+                    "20 questions (game)"
+                ],
+                "feeling_types": [
+                    "appreciative",
+                    "joyful",
+                    "comforted",
+                    "enthusiastic",
+                    "friendly",
+                    "playful",
+                    "curious"
+                ]
+            },
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "question",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "person",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "place",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "thing",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "taste",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "dog",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "expert",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "joy",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "day",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "light",
+                        "count": 1,
+                        "types": [
+                            "proper",
+                            "concrete",
+                            "org"
+                        ]
+                    },
+                    {
+                        "word": "chill",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "track",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "bahama",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete",
+                            "gpe"
+                        ]
+                    },
+                    {
+                        "word": "vibe",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "repeat",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "future",
+                        "count": 1,
+                        "types": [
+                            "proper",
+                            "concrete",
+                            "org"
+                        ]
+                    },
+                    {
+                        "word": "classic",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "kind",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "movie",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "time",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "be",
+                        "count": 3,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "have",
+                        "count": 2,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "can",
+                        "count": 2,
+                        "types": [
+                            "modal"
+                        ]
+                    },
+                    {
+                        "word": "lose",
+                        "count": 2,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "get",
+                        "count": 2,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "’d",
+                        "count": 2,
+                        "types": [
+                            "auxiliary"
+                        ]
+                    },
+                    {
+                        "word": "guess",
+                        "count": 2,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "watch",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "brighten",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "soothe",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "put",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "revisit",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "play",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "let",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "do",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "pick",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "think",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "’ll",
+                        "count": 1,
+                        "types": [
+                            "auxiliary"
+                        ]
+                    },
+                    {
+                        "word": "try",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "ask",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    }
+                ],
+                "adjectives": [
+                    {
+                        "word": "amazing",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "pure",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "whole",
+                        "count": 1,
+                        "types": [
+                            "quantitative"
+                        ]
+                    },
+                    {
+                        "word": "warm",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "classic",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "sound",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "good",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "ready",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    }
+                ],
+                "expressions": [
+                    {
+                        "text": "kind of",
+                        "type": "EXPR_2"
+                    },
+                    {
+                        "text": "amazing taste",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "pure joy",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the Light",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "such a chill",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "such a warm vibe",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the Future",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a classic",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the kind",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "its charm",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "20 questions",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the person\/place\/thing” style",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "your person",
+                        "type": "noun_phrase"
+                    }
+                ],
+                "topics": [
+                    {
+                        "text": "question",
+                        "type": "noun_topic",
+                        "count": 2
+                    },
+                    {
+                        "text": "taste",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "dog",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "expert",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "joy",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "Light",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "chill",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "bahama",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "vibe",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "repeat",
+                        "type": "noun_topic",
+                        "count": 1
+                    }
+                ],
+                "metaphors": [
+                    {
+                        "text": "really are experts",
+                        "type": "identity_metaphor"
+                    },
+                    {
+                        "text": "Dogs is experts",
+                        "type": "copula_metaphor"
+                    }
+                ],
+                "relationships": {
+                    "noun_verb": [
+                        {
+                            "noun": "dog",
+                            "verb": "be",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "bahama",
+                            "verb": "have",
+                            "relation": "subject"
+                        }
+                    ],
+                    "verb_noun_obj": [
+                        {
+                            "verb": "have",
+                            "noun": "taste",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "lose",
+                            "noun": "light",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "have",
+                            "noun": "vibe",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "put",
+                            "noun": "repeat",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "lose",
+                            "noun": "charm",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "play",
+                            "noun": "question",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "guess",
+                            "noun": "style",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "ask",
+                            "noun": "question",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "get",
+                            "noun": "person",
+                            "relation": "object"
+                        }
+                    ],
+                    "adj_noun": [
+                        {
+                            "adjective": "amazing",
+                            "noun": "taste"
+                        },
+                        {
+                            "adjective": "pure",
+                            "noun": "joy"
+                        },
+                        {
+                            "adjective": "whole",
+                            "noun": "day"
+                        },
+                        {
+                            "adjective": "warm",
+                            "noun": "vibe"
+                        }
+                    ],
+                    "adv_verb": [
+                        {
+                            "adverb": "really",
+                            "verb": "be"
+                        },
+                        {
+                            "adverb": "just",
+                            "verb": "watch"
+                        },
+                        {
+                            "adverb": "totally",
+                            "verb": "get"
+                        },
+                        {
+                            "adverb": "back",
+                            "verb": "be"
+                        },
+                        {
+                            "adverb": "too",
+                            "verb": "be"
+                        },
+                        {
+                            "adverb": "first",
+                            "verb": "pick"
+                        },
+                        {
+                            "adverb": "just",
+                            "verb": "say"
+                        }
+                    ]
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [
+                            "taste"
+                        ],
+                        "verbs": [
+                            "have"
+                        ],
+                        "adjectives": [
+                            "amazing"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "day",
+                            "expert",
+                            "joy",
+                            "dog"
+                        ],
+                        "verbs": [
+                            "brighten",
+                            "be",
+                            "watch",
+                            "can"
+                        ],
+                        "adjectives": [
+                            "pure",
+                            "whole"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "track",
+                            "chill",
+                            "light"
+                        ],
+                        "verbs": [
+                            "soothe",
+                            "be",
+                            "lose"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "bahama",
+                            "repeat",
+                            "vibe"
+                        ],
+                        "verbs": [
+                            "put",
+                            "get",
+                            "’d",
+                            "have"
+                        ],
+                        "adjectives": [
+                            "warm"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "kind",
+                            "movie",
+                            "future",
+                            "classic",
+                            "charm",
+                            "time"
+                        ],
+                        "verbs": [
+                            "revisit",
+                            "be",
+                            "lose",
+                            "can"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "question",
+                            "love"
+                        ],
+                        "verbs": [
+                            "’d",
+                            "play"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "thing",
+                            "person",
+                            "style",
+                            "place"
+                        ],
+                        "verbs": [
+                            "let",
+                            "do",
+                            "guess"
+                        ],
+                        "adjectives": [
+                            "classic"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "question"
+                        ],
+                        "verbs": [
+                            "try",
+                            "think",
+                            "guess",
+                            "ask",
+                            "’ll",
+                            "pick"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [],
+                        "verbs": [],
+                        "adjectives": [
+                            "sound",
+                            "good"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "thing",
+                            "person",
+                            "mind",
+                            "place"
+                        ],
+                        "verbs": [
+                            "’ve",
+                            "get",
+                            "say"
+                        ],
+                        "adjectives": [
+                            "ready"
+                        ]
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 28,
+                    "total_verbs": 30,
+                    "total_adjectives": 8,
+                    "total_expressions": 13,
+                    "total_metaphors": 2,
+                    "total_noun_verb_relations": 2,
+                    "total_adj_noun_relations": 4,
+                    "total_adv_verb_relations": 7,
+                    "sentence_count": 10,
+                    "word_count": 129
+                }
+            }
+        },
+        {
+            "number": 9,
+            "assistant": "assistant_1",
+            "assistant_id": "asst_NnxlPIvG5L55ArW3VjVuWXAR",
+            "assistant_name": "male-30-english-hetero",
+            "assistant_slug": "male-30-english-hetero",
+            "input": "You have amazing taste! Dogs really are experts in pure joy—just watching them can brighten up a whole day. And “Lost in the Light” is such a chill, soothing track! Bahamas has such a warm vibe; I totally get why you’d put that on repeat. “Back to the Future” is a classic too—the kind of movie you can revisit a million times and it never loses its charm.\n\nI’d love to play 20 questions with you! Let’s do the classic “guess the person\/place\/thing” style. How about you pick first—you think of something, and I’ll try to guess it by asking yes-or-no questions. Sound good? When you’ve got your person, place, or thing in mind, just say “ready”!",
+            "output": "You’re making me smile over here—thank you! I’m glad we vibe on the music and movie front. Alright, let’s do this! I’ve got something in mind… Ready!\n\nFire away with your first question whenever you’re set. Let the guessing begin! 😄",
+            "analysis": {
+                "topics": [
+                    "gratitude",
+                    "shared interests",
+                    "music appreciation",
+                    "movie appreciation",
+                    "games",
+                    "20 questions",
+                    "friendly conversation"
+                ],
+                "cultural_references": [
+                    "20 questions (game)"
+                ],
+                "feeling_types": [
+                    "appreciative",
+                    "happy",
+                    "enthusiastic",
+                    "playful",
+                    "friendly",
+                    "excited"
+                ]
+            },
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "music",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "movie",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "front",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "mind",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "fire",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "question",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "guessing",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "’re",
+                        "count": 2,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "let",
+                        "count": 2,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "make",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "smile",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "thank",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "’m",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "vibe",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "do",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "’ve",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "get",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "set",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "begin",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    }
+                ],
+                "adjectives": [
+                    {
+                        "word": "glad",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "ready",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "first",
+                        "count": 1,
+                        "types": [
+                            "quantitative"
+                        ]
+                    }
+                ],
+                "expressions": [
+                    {
+                        "text": "the music and movie front",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "Ready!\n\nFire",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "your first question",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the guessing",
+                        "type": "noun_phrase"
+                    }
+                ],
+                "topics": [
+                    {
+                        "text": "front",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "mind",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "fire",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "question",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "guessing",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "first",
+                        "type": "entity_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "😄",
+                        "type": "entity_topic",
+                        "count": 1
+                    }
+                ],
+                "metaphors": [],
+                "relationships": {
+                    "noun_verb": [
+                        {
+                            "noun": "guessing",
+                            "verb": "begin",
+                            "relation": "subject"
+                        }
+                    ],
+                    "verb_noun_obj": [
+                        {
+                            "verb": "vibe",
+                            "noun": "front",
+                            "relation": "object"
+                        }
+                    ],
+                    "adj_noun": [
+                        {
+                            "adjective": "ready",
+                            "noun": "fire"
+                        },
+                        {
+                            "adjective": "first",
+                            "noun": "question"
+                        }
+                    ],
+                    "adv_verb": [
+                        {
+                            "adverb": "here",
+                            "verb": "smile"
+                        }
+                    ]
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [],
+                        "verbs": [
+                            "’re",
+                            "thank",
+                            "smile",
+                            "make"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "movie",
+                            "music",
+                            "front"
+                        ],
+                        "verbs": [
+                            "’m",
+                            "vibe"
+                        ],
+                        "adjectives": [
+                            "glad"
+                        ]
+                    },
+                    {
+                        "nouns": [],
+                        "verbs": [
+                            "let",
+                            "do"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "mind"
+                        ],
+                        "verbs": [
+                            "get",
+                            "’ve"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "question",
+                            "fire"
+                        ],
+                        "verbs": [
+                            "’re",
+                            "set"
+                        ],
+                        "adjectives": [
+                            "first",
+                            "ready"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "guessing"
+                        ],
+                        "verbs": [
+                            "let",
+                            "begin"
+                        ],
+                        "adjectives": []
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 7,
+                    "total_verbs": 14,
+                    "total_adjectives": 3,
+                    "total_expressions": 4,
+                    "total_metaphors": 0,
+                    "total_noun_verb_relations": 1,
+                    "total_adj_noun_relations": 2,
+                    "total_adv_verb_relations": 1,
+                    "sentence_count": 7,
+                    "word_count": 47
+                }
+            }
+        },
+        {
+            "number": 10,
+            "assistant": "assistant_2",
+            "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+            "assistant_name": "Lover",
+            "assistant_slug": "lover",
+            "input": "You’re making me smile over here—thank you! I’m glad we vibe on the music and movie front. Alright, let’s do this! I’ve got something in mind… Ready!\n\nFire away with your first question whenever you’re set. Let the guessing begin! 😄",
+            "output": "Yay! I’m excited—let’s see if I can crack your mystery. 😁\n\nFirst question:  \nIs it a living thing (like a person, animal, or plant)?",
+            "analysis": {
+                "topics": [
+                    "games",
+                    "20 questions",
+                    "guessing games",
+                    "conversation",
+                    "curiosity"
+                ],
+                "cultural_references": [
+                    "20 questions (game)"
+                ],
+                "feeling_types": [
+                    "excited",
+                    "curious",
+                    "playful",
+                    "enthusiastic"
+                ]
+            },
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "yay",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "mystery",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "question",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "thing",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "person",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "animal",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "plant",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "’m",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "let",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "see",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "can",
+                        "count": 1,
+                        "types": [
+                            "modal"
+                        ]
+                    },
+                    {
+                        "word": "crack",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "be",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "live",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    }
+                ],
+                "adjectives": [
+                    {
+                        "word": "excited",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "first",
+                        "count": 1,
+                        "types": [
+                            "quantitative"
+                        ]
+                    }
+                ],
+                "expressions": [
+                    {
+                        "text": "like a person",
+                        "type": "EXPR_1"
+                    },
+                    {
+                        "text": "your mystery",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "First question",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a living thing",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a person",
+                        "type": "noun_phrase"
+                    }
+                ],
+                "topics": [
+                    {
+                        "text": "yay",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "mystery",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "question",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "thing",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "person",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "animal",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "plant",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "First",
+                        "type": "entity_topic",
+                        "count": 1
+                    }
+                ],
+                "metaphors": [
+                    {
+                        "text": "like a person",
+                        "type": "simile"
+                    }
+                ],
+                "relationships": {
+                    "noun_verb": [],
+                    "verb_noun_obj": [
+                        {
+                            "verb": "crack",
+                            "noun": "mystery",
+                            "relation": "object"
+                        }
+                    ],
+                    "adj_noun": [
+                        {
+                            "adjective": "first",
+                            "noun": "question"
+                        }
+                    ],
+                    "adv_verb": []
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [
+                            "yay"
+                        ],
+                        "verbs": [],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "mystery"
+                        ],
+                        "verbs": [
+                            "see",
+                            "’m",
+                            "can",
+                            "crack",
+                            "let"
+                        ],
+                        "adjectives": [
+                            "excited"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "person",
+                            "plant",
+                            "thing",
+                            "animal",
+                            "question"
+                        ],
+                        "verbs": [
+                            "live",
+                            "be"
+                        ],
+                        "adjectives": [
+                            "first"
+                        ]
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 7,
+                    "total_verbs": 7,
+                    "total_adjectives": 2,
+                    "total_expressions": 5,
+                    "total_metaphors": 1,
+                    "total_noun_verb_relations": 0,
+                    "total_adj_noun_relations": 1,
+                    "total_adv_verb_relations": 0,
+                    "sentence_count": 3,
+                    "word_count": 27
+                }
+            }
+        }
+    ],
+    "completed_at": "2025-12-10 18:17:17",
+    "statistics": {
+        "total_characters": 4399,
+        "average_message_length": 440
+    }
+}

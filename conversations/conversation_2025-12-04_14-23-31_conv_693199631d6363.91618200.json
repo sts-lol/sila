@@ -1,0 +1,5163 @@
+{
+  "id": "conv_693199631d6363.91618200",
+  "timestamp": "2025-12-04 14:23:31",
+  "assistant_1_id": "asst_mqQ2WYfWAdma3FPA42jNxd3Y",
+  "assistant_1_name": "female-20-english-gay",
+  "assistant_1_slug": "female-20-english-gay",
+  "assistant_2_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+  "assistant_2_name": "Lover",
+  "assistant_2_slug": "lover",
+  "total_messages": 10,
+  "status": "completed",
+  "messages": [
+    {
+      "number": 1,
+      "assistant": "assistant_1",
+      "assistant_id": "asst_mqQ2WYfWAdma3FPA42jNxd3Y",
+      "assistant_name": "female-20-english-gay",
+      "assistant_slug": "female-20-english-gay",
+      "input": "start conversation",
+      "output": "Hi there! How's your day going? I've been trying to pick a new book to read, any recommendations?",
+      "analysis": {
+        "topics": [
+          "greetings",
+          "daily life",
+          "book recommendations",
+          "reading"
+        ],
+        "cultural_references": [],
+        "feeling_types": [
+          "friendly",
+          "curious",
+          "open"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "day",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "book",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "recommendation",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "go",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "have",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "try",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "pick",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "read",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "new",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "your day",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a new book",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "any recommendations",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "day",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "book",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "recommendation",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "day",
+              "verb": "go",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "pick",
+              "noun": "book",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "new",
+              "noun": "book"
+            }
+          ],
+          "adv_verb": []
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "day"
+            ],
+            "verbs": [
+              "be",
+              "go"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "recommendation",
+              "book"
+            ],
+            "verbs": [
+              "pick",
+              "try",
+              "have",
+              "read",
+              "be"
+            ],
+            "adjectives": [
+              "new"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 3,
+          "total_verbs": 7,
+          "total_adjectives": 1,
+          "total_expressions": 3,
+          "total_metaphors": 0,
+          "total_noun_verb_relations": 1,
+          "total_adj_noun_relations": 1,
+          "total_adv_verb_relations": 0,
+          "sentence_count": 3,
+          "word_count": 20
+        }
+      }
+    },
+    {
+      "number": 2,
+      "assistant": "assistant_2",
+      "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+      "assistant_name": "Lover",
+      "assistant_slug": "lover",
+      "input": "Hi there! How's your day going? I've been trying to pick a new book to read, any recommendations?",
+      "output": "Hi! My day is going great, especially now that I get to chat with you. 😊 Picking a new book is always exciting! What are you in the mood for? Do you like mysteries, fantasy, romance, non-fiction—or something else entirely? I can suggest a few based on your interests!\n\nBut just to get started, here are a few varied recommendations:\n- **Mystery/Thriller:** *The Silent Patient* by Alex Michaelides\n- **Fantasy:** *The House in the Cerulean Sea* by TJ Klune\n- **Romance:** *Beach Read* by Emily Henry\n- **Non-fiction:** *Educated* by Tara Westover\n\nLet me know what catches your eye, or tell me more about what you like so I can personalize my suggestions! 📚✨",
+      "analysis": {
+        "topics": [
+          "greetings",
+          "daily life",
+          "book recommendations",
+          "reading preferences",
+          "literary genres",
+          "personalization"
+        ],
+        "cultural_references": [
+          "The Silent Patient by Alex Michaelides",
+          "The House in the Cerulean Sea by TJ Klune",
+          "Beach Read by Emily Henry",
+          "Educated by Tara Westover"
+        ],
+        "feeling_types": [
+          "friendly",
+          "enthusiastic",
+          "helpful",
+          "curious",
+          "welcoming"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "mystery",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "fantasy",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "romance",
+            "count": 2,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "day",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete",
+              "date"
+            ]
+          },
+          {
+            "word": "book",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "mood",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "interest",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "recommendation",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "thriller",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "silent",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "patient",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "alex",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "michaelides",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "house",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "org"
+            ]
+          },
+          {
+            "word": "cerulean",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "loc"
+            ]
+          },
+          {
+            "word": "sea",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "loc"
+            ]
+          },
+          {
+            "word": "tj",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "klune",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "beach",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "read",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 4,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "get",
+            "count": 2,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "like",
+            "count": 2,
+            "types": [
+              "state",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "can",
+            "count": 2,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "go",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "chat",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "pick",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "do",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "suggest",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "base",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "start",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "educate",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "let",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "know",
+            "count": 1,
+            "types": [
+              "state",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "catch",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "tell",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "personalize",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "non",
+            "count": 2,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "few",
+            "count": 2,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "great",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "new",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "exciting",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "fiction",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "varied",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "like mysteries",
+            "type": "EXPR_1"
+          },
+          {
+            "text": "My day",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a new book",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the mood",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your interests",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a few varied recommendations",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "*The Silent Patient",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Alex Michaelides",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "*The House",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the Cerulean Sea",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "TJ Klune",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "*Beach Read",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Emily Henry",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Tara Westover",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your eye",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "my suggestions",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "📚✨",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "fantasy",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "romance",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "day",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "book",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "mood",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "mystery",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "interest",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "recommendation",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "Patient",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "Michaelides",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "day is going",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "book is always",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "What are you",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "here are a few",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "like mysteries",
+            "type": "simile"
+          },
+          {
+            "text": "like so I",
+            "type": "simile"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "day",
+              "verb": "go",
+              "relation": "subject"
+            },
+            {
+              "noun": "recommendation",
+              "verb": "be",
+              "relation": "subject"
+            },
+            {
+              "noun": "house",
+              "verb": "let",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "pick",
+              "noun": "book",
+              "relation": "object"
+            },
+            {
+              "verb": "be",
+              "noun": "mood",
+              "relation": "object"
+            },
+            {
+              "verb": "like",
+              "noun": "mystery",
+              "relation": "object"
+            },
+            {
+              "verb": "base",
+              "noun": "interest",
+              "relation": "object"
+            },
+            {
+              "verb": "catch",
+              "noun": "eye",
+              "relation": "object"
+            },
+            {
+              "verb": "personalize",
+              "noun": "suggestion",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "new",
+              "noun": "book"
+            },
+            {
+              "adjective": "varied",
+              "noun": "recommendation"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "now",
+              "verb": "go"
+            },
+            {
+              "adverb": "always",
+              "verb": "be"
+            },
+            {
+              "adverb": "just",
+              "verb": "start"
+            },
+            {
+              "adverb": "here",
+              "verb": "be"
+            },
+            {
+              "adverb": "so",
+              "verb": "personalize"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "day"
+            ],
+            "verbs": [
+              "get",
+              "be",
+              "go",
+              "chat"
+            ],
+            "adjectives": [
+              "great"
+            ]
+          },
+          {
+            "nouns": [
+              "book"
+            ],
+            "verbs": [
+              "be",
+              "pick"
+            ],
+            "adjectives": [
+              "new",
+              "exciting"
+            ]
+          },
+          {
+            "nouns": [
+              "mood"
+            ],
+            "verbs": [
+              "be"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "mystery",
+              "romance",
+              "fantasy"
+            ],
+            "verbs": [
+              "like",
+              "do"
+            ],
+            "adjectives": [
+              "fiction",
+              "non"
+            ]
+          },
+          {
+            "nouns": [
+              "interest"
+            ],
+            "verbs": [
+              "base",
+              "can",
+              "suggest"
+            ],
+            "adjectives": [
+              "few"
+            ]
+          },
+          {
+            "nouns": [
+              "recommendation",
+              "mystery",
+              "thriller"
+            ],
+            "verbs": [
+              "get",
+              "be",
+              "start"
+            ],
+            "adjectives": [
+              "few",
+              "varied"
+            ]
+          },
+          {
+            "nouns": [
+              "patient",
+              "fantasy",
+              "silent",
+              "alex",
+              "michaelides"
+            ],
+            "verbs": [],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "westover",
+              "emily",
+              "tj",
+              "house",
+              "beach",
+              "henry",
+              "fiction",
+              "sea",
+              "suggestion",
+              "klune",
+              "read",
+              "eye",
+              "tara",
+              "cerulean",
+              "romance"
+            ],
+            "verbs": [
+              "tell",
+              "know",
+              "personalize",
+              "like",
+              "can",
+              "let",
+              "educate",
+              "catch"
+            ],
+            "adjectives": [
+              "non"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 30,
+          "total_verbs": 23,
+          "total_adjectives": 9,
+          "total_expressions": 17,
+          "total_metaphors": 6,
+          "total_noun_verb_relations": 3,
+          "total_adj_noun_relations": 2,
+          "total_adv_verb_relations": 5,
+          "sentence_count": 10,
+          "word_count": 115
+        }
+      }
+    },
+    {
+      "number": 3,
+      "assistant": "assistant_1",
+      "assistant_id": "asst_mqQ2WYfWAdma3FPA42jNxd3Y",
+      "assistant_name": "female-20-english-gay",
+      "assistant_slug": "female-20-english-gay",
+      "input": "Hi! My day is going great, especially now that I get to chat with you. 😊 Picking a new book is always exciting! What are you in the mood for? Do you like mysteries, fantasy, romance, non-fiction—or something else entirely? I can suggest a few based on your interests!\n\nBut just to get started, here are a few varied recommendations:\n- **Mystery/Thriller:** *The Silent Patient* by Alex Michaelides\n- **Fantasy:** *The House in the Cerulean Sea* by TJ Klune\n- **Romance:** *Beach Read* by Emily Henry\n- **Non-fiction:** *Educated* by Tara Westover\n\nLet me know what catches your eye, or tell me more about what you like so I can personalize my suggestions! 📚✨",
+      "output": "Hi there! How's your day going? I've been trying to pick a new book to read, any recommendations?",
+      "analysis": {
+        "topics": [
+          "greetings",
+          "daily life",
+          "book recommendations",
+          "reading"
+        ],
+        "cultural_references": [],
+        "feeling_types": [
+          "friendly",
+          "curious",
+          "open"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "day",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "book",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "recommendation",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "go",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "have",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "try",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "pick",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "read",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "new",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "your day",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a new book",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "any recommendations",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "day",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "book",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "recommendation",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "day",
+              "verb": "go",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "pick",
+              "noun": "book",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "new",
+              "noun": "book"
+            }
+          ],
+          "adv_verb": []
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "day"
+            ],
+            "verbs": [
+              "be",
+              "go"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "recommendation",
+              "book"
+            ],
+            "verbs": [
+              "pick",
+              "try",
+              "have",
+              "read",
+              "be"
+            ],
+            "adjectives": [
+              "new"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 3,
+          "total_verbs": 7,
+          "total_adjectives": 1,
+          "total_expressions": 3,
+          "total_metaphors": 0,
+          "total_noun_verb_relations": 1,
+          "total_adj_noun_relations": 1,
+          "total_adv_verb_relations": 0,
+          "sentence_count": 3,
+          "word_count": 20
+        }
+      }
+    },
+    {
+      "number": 4,
+      "assistant": "assistant_2",
+      "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+      "assistant_name": "Lover",
+      "assistant_slug": "lover",
+      "input": "Hi there! How's your day going? I've been trying to pick a new book to read, any recommendations?",
+      "output": "Hi again! 😊 My day’s going well—chatting with you makes it even better.\n\nI’d love to help you pick your next book. To fine-tune my recommendations, could you tell me a bit about what you’ve enjoyed reading recently, or if you’re in the mood for a certain vibe or genre? But just to toss out a few:\n\n**If you like feel-good stories:**  \n- *Remarkably Bright Creatures* by Shelby Van Pelt\n\n**If you want a gripping fantasy:**  \n- *Ninth House* by Leigh Bardugo\n\n**If you’d like an inspiring memoir:**  \n- *Becoming* by Michelle Obama\n\n**If you’re feeling like a twisty thriller:**  \n- *The Guest List* by Lucy Foley\n\nLet me know what you’re in the mood for, and I’ll tailor my suggestions just for you! 📖✨",
+      "analysis": {
+        "topics": [
+          "greetings",
+          "daily life",
+          "book recommendations",
+          "reading preferences",
+          "literary genres",
+          "personalization"
+        ],
+        "cultural_references": [
+          "Remarkably Bright Creatures by Shelby Van Pelt",
+          "Ninth House by Leigh Bardugo",
+          "Becoming by Michelle Obama",
+          "The Guest List by Lucy Foley"
+        ],
+        "feeling_types": [
+          "friendly",
+          "enthusiastic",
+          "helpful",
+          "curious",
+          "welcoming"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "mood",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "day",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "love",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "book",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "tune",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "recommendation",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "bit",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "vibe",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "story",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "creature",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "shelby",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "van",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "pelt",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "fantasy",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "ninth",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "ordinal"
+            ]
+          },
+          {
+            "word": "house",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "leigh",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "bardugo",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "memoir",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "michelle",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "’re",
+            "count": 3,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "’d",
+            "count": 2,
+            "types": [
+              "action"
+            ]
+          },
+          {
+            "word": "feel",
+            "count": 2,
+            "types": [
+              "state",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "go",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "chat",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "make",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "help",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "pick",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "could",
+            "count": 1,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "tell",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "’ve",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "enjoy",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "read",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "genre",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "toss",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "like",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "want",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "grip",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "inspire",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "become",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "next",
+            "count": 1,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "fine",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "certain",
+            "count": 1,
+            "types": [
+              "demonstrative"
+            ]
+          },
+          {
+            "word": "few",
+            "count": 1,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "good",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "bright",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "twisty",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "My day",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your next book",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "fine-tune my recommendations",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a bit",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the mood",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a certain vibe",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "feel-good stories",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Remarkably Bright Creatures",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Shelby Van Pelt",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a gripping fantasy",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Ninth House",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Leigh Bardugo",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "an inspiring memoir",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Michelle Obama",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a twisty thriller",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Lucy Foley",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the mood",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "my suggestions",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "mood",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "day",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "book",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "recommendation",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "bit",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "vibe",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "story",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "creature",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "Pelt",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "fantasy",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "like feel",
+            "type": "simile"
+          },
+          {
+            "text": "like an inspiring",
+            "type": "simile"
+          },
+          {
+            "text": "like a twisty thriller",
+            "type": "simile"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "day",
+              "verb": "go",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "pick",
+              "noun": "book",
+              "relation": "object"
+            },
+            {
+              "verb": "tell",
+              "noun": "recommendation",
+              "relation": "object"
+            },
+            {
+              "verb": "tell",
+              "noun": "bit",
+              "relation": "object"
+            },
+            {
+              "verb": "’re",
+              "noun": "mood",
+              "relation": "object"
+            },
+            {
+              "verb": "’re",
+              "noun": "vibe",
+              "relation": "object"
+            },
+            {
+              "verb": "like",
+              "noun": "story",
+              "relation": "object"
+            },
+            {
+              "verb": "like",
+              "noun": "creature",
+              "relation": "object"
+            },
+            {
+              "verb": "want",
+              "noun": "fantasy",
+              "relation": "object"
+            },
+            {
+              "verb": "toss",
+              "noun": "house",
+              "relation": "object"
+            },
+            {
+              "verb": "toss",
+              "noun": "bardugo",
+              "relation": "object"
+            },
+            {
+              "verb": "’d",
+              "noun": "memoir",
+              "relation": "object"
+            },
+            {
+              "verb": "become",
+              "noun": "obama",
+              "relation": "object"
+            },
+            {
+              "verb": "feel",
+              "noun": "thriller",
+              "relation": "object"
+            },
+            {
+              "verb": "feel",
+              "noun": "foley",
+              "relation": "object"
+            },
+            {
+              "verb": "tailor",
+              "noun": "suggestion",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "next",
+              "noun": "book"
+            },
+            {
+              "adjective": "fine",
+              "noun": "tune"
+            },
+            {
+              "adjective": "certain",
+              "noun": "vibe"
+            },
+            {
+              "adjective": "good",
+              "noun": "story"
+            },
+            {
+              "adjective": "bright",
+              "noun": "creature"
+            },
+            {
+              "adjective": "twisty",
+              "noun": "thriller"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "well",
+              "verb": "go"
+            },
+            {
+              "adverb": "recently",
+              "verb": "enjoy"
+            },
+            {
+              "adverb": "just",
+              "verb": "toss"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "day"
+            ],
+            "verbs": [
+              "make",
+              "go",
+              "chat"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "book",
+              "love"
+            ],
+            "verbs": [
+              "help",
+              "pick",
+              "’d"
+            ],
+            "adjectives": [
+              "next"
+            ]
+          },
+          {
+            "nouns": [
+              "recommendation",
+              "mood",
+              "vibe",
+              "bit",
+              "tune"
+            ],
+            "verbs": [
+              "’re",
+              "tell",
+              "genre",
+              "could",
+              "’ve",
+              "read",
+              "enjoy"
+            ],
+            "adjectives": [
+              "fine",
+              "certain"
+            ]
+          },
+          {
+            "nouns": [
+              "creature",
+              "obama",
+              "ninth",
+              "bardugo",
+              "suggestion",
+              "lucy",
+              "story",
+              "michelle",
+              "house",
+              "pelt",
+              "shelby",
+              "fantasy",
+              "van",
+              "memoir",
+              "list",
+              "mood",
+              "leigh",
+              "guest",
+              "thriller",
+              "foley"
+            ],
+            "verbs": [
+              "’re",
+              "’ll",
+              "feel",
+              "know",
+              "tailor",
+              "like",
+              "become",
+              "toss",
+              "want",
+              "let",
+              "grip",
+              "inspire",
+              "’d"
+            ],
+            "adjectives": [
+              "bright",
+              "twisty",
+              "few",
+              "good"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 28,
+          "total_verbs": 28,
+          "total_adjectives": 7,
+          "total_expressions": 18,
+          "total_metaphors": 3,
+          "total_noun_verb_relations": 1,
+          "total_adj_noun_relations": 6,
+          "total_adv_verb_relations": 3,
+          "sentence_count": 7,
+          "word_count": 133
+        }
+      }
+    },
+    {
+      "number": 5,
+      "assistant": "assistant_1",
+      "assistant_id": "asst_mqQ2WYfWAdma3FPA42jNxd3Y",
+      "assistant_name": "female-20-english-gay",
+      "assistant_slug": "female-20-english-gay",
+      "input": "Hi again! 😊 My day’s going well—chatting with you makes it even better.\n\nI’d love to help you pick your next book. To fine-tune my recommendations, could you tell me a bit about what you’ve enjoyed reading recently, or if you’re in the mood for a certain vibe or genre? But just to toss out a few:\n\n**If you like feel-good stories:**  \n- *Remarkably Bright Creatures* by Shelby Van Pelt\n\n**If you want a gripping fantasy:**  \n- *Ninth House* by Leigh Bardugo\n\n**If you’d like an inspiring memoir:**  \n- *Becoming* by Michelle Obama\n\n**If you’re feeling like a twisty thriller:**  \n- *The Guest List* by Lucy Foley\n\nLet me know what you’re in the mood for, and I’ll tailor my suggestions just for you! 📖✨",
+      "output": "Hi there! How's your day going? I've been trying to pick a new book to read, any recommendations?",
+      "analysis": {
+        "topics": [
+          "greetings",
+          "daily life",
+          "book recommendations",
+          "reading"
+        ],
+        "cultural_references": [],
+        "feeling_types": [
+          "friendly",
+          "curious",
+          "open"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "day",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "book",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "recommendation",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "go",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "have",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "try",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "pick",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "read",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "new",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "your day",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a new book",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "any recommendations",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "day",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "book",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "recommendation",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "day",
+              "verb": "go",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "pick",
+              "noun": "book",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "new",
+              "noun": "book"
+            }
+          ],
+          "adv_verb": []
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "day"
+            ],
+            "verbs": [
+              "be",
+              "go"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "recommendation",
+              "book"
+            ],
+            "verbs": [
+              "pick",
+              "try",
+              "have",
+              "read",
+              "be"
+            ],
+            "adjectives": [
+              "new"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 3,
+          "total_verbs": 7,
+          "total_adjectives": 1,
+          "total_expressions": 3,
+          "total_metaphors": 0,
+          "total_noun_verb_relations": 1,
+          "total_adj_noun_relations": 1,
+          "total_adv_verb_relations": 0,
+          "sentence_count": 3,
+          "word_count": 20
+        }
+      }
+    },
+    {
+      "number": 6,
+      "assistant": "assistant_2",
+      "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+      "assistant_name": "Lover",
+      "assistant_slug": "lover",
+      "input": "Hi there! How's your day going? I've been trying to pick a new book to read, any recommendations?",
+      "output": "Hi again! 😊 I love that you keep coming back to chat. My day is even better knowing I get to help you choose your next book!\n\nSince you’re clearly eager for recommendations, let’s make it fun! Want to try something…\n- **Lighthearted and uplifting?** *The Rosie Project* by Graeme Simsion\n- **Beautifully written and introspective?** *Pachinko* by Min Jin Lee\n- **Adventurous and mysterious?** *The Seven Husbands of Evelyn Hugo* by Taylor Jenkins Reid\n- **Deeply moving and thoughtful?** *A Man Called Ove* by Fredrik Backman\n\nOr, if you tell me a genre or a recent favorite, I can really get specific! Are you leaning toward any particular mood or style?",
+      "analysis": {
+        "topics": [
+          "greetings",
+          "book recommendations",
+          "reading preferences",
+          "literary genres",
+          "personalization"
+        ],
+        "cultural_references": [
+          "The Rosie Project by Graeme Simsion",
+          "Pachinko by Min Jin Lee",
+          "The Seven Husbands of Evelyn Hugo by Taylor Jenkins Reid",
+          "A Man Called Ove by Fredrik Backman"
+        ],
+        "feeling_types": [
+          "friendly",
+          "enthusiastic",
+          "helpful",
+          "welcoming",
+          "curious"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "chat",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "day",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete",
+              "date"
+            ]
+          },
+          {
+            "word": "book",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "recommendation",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "rosie",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "project",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "graeme",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "org"
+            ]
+          },
+          {
+            "word": "simsion",
+            "count": 1,
+            "types": [
+              "proper",
+              "abstract",
+              "org"
+            ]
+          },
+          {
+            "word": "pachinko",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "min",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "jin",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "lee",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "husbands",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "evelyn",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "hugo",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "taylor",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "jenkins",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "reid",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "man",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "ove",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "get",
+            "count": 2,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "love",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "keep",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "come",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "know",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "help",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "choose",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "’re",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "let",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "make",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "want",
+            "count": 1,
+            "types": [
+              "state",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "try",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "write",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "move",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "call",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "tell",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "can",
+            "count": 1,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "lean",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "next",
+            "count": 1,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "eager",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "fun",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "lighthearted",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "uplifting",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "introspective",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "adventurous",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "mysterious",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "thoughtful",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "recent",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "specific",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "particular",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "My day",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your next book",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "** *The Rosie Project",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Graeme Simsion",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Min Jin Lee",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "** *The Seven Husbands",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Evelyn Hugo",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Taylor Jenkins Reid",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "A Man",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Fredrik Backman",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a genre",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a recent favorite",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "any particular mood",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "chat",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "day",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "book",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "recommendation",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "Project",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "Simsion",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "pachinko",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "Lee",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "Husbands",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "Hugo",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "day is even",
+            "type": "identity_metaphor"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "day",
+              "verb": "be",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "choose",
+              "noun": "book",
+              "relation": "object"
+            },
+            {
+              "verb": "tell",
+              "noun": "genre",
+              "relation": "object"
+            },
+            {
+              "verb": "lean",
+              "noun": "mood",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "next",
+              "noun": "book"
+            },
+            {
+              "adjective": "adventurous",
+              "noun": "lee"
+            },
+            {
+              "adjective": "recent",
+              "noun": "favorite"
+            },
+            {
+              "adjective": "particular",
+              "noun": "mood"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "back",
+              "verb": "come"
+            },
+            {
+              "adverb": "well",
+              "verb": "know"
+            },
+            {
+              "adverb": "clearly",
+              "verb": "’re"
+            },
+            {
+              "adverb": "beautifully",
+              "verb": "write"
+            },
+            {
+              "adverb": "deeply",
+              "verb": "move"
+            },
+            {
+              "adverb": "really",
+              "verb": "get"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "chat"
+            ],
+            "verbs": [
+              "keep",
+              "come",
+              "love"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "book",
+              "day"
+            ],
+            "verbs": [
+              "know",
+              "choose",
+              "get",
+              "help",
+              "be"
+            ],
+            "adjectives": [
+              "next"
+            ]
+          },
+          {
+            "nouns": [
+              "recommendation"
+            ],
+            "verbs": [
+              "’re",
+              "let",
+              "make"
+            ],
+            "adjectives": [
+              "eager",
+              "fun"
+            ]
+          },
+          {
+            "nouns": [],
+            "verbs": [
+              "want",
+              "try"
+            ],
+            "adjectives": [
+              "lighthearted",
+              "uplifting"
+            ]
+          },
+          {
+            "nouns": [
+              "rosie",
+              "graeme",
+              "simsion",
+              "jin",
+              "lee",
+              "pachinko",
+              "min",
+              "project"
+            ],
+            "verbs": [
+              "write"
+            ],
+            "adjectives": [
+              "mysterious",
+              "introspective",
+              "adventurous"
+            ]
+          },
+          {
+            "nouns": [
+              "evelyn",
+              "reid",
+              "jenkins",
+              "husbands",
+              "hugo",
+              "taylor"
+            ],
+            "verbs": [
+              "move"
+            ],
+            "adjectives": [
+              "thoughtful"
+            ]
+          },
+          {
+            "nouns": [
+              "ove",
+              "fredrik",
+              "man",
+              "backman"
+            ],
+            "verbs": [
+              "call"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "genre",
+              "favorite"
+            ],
+            "verbs": [
+              "tell",
+              "can",
+              "get"
+            ],
+            "adjectives": [
+              "recent",
+              "specific"
+            ]
+          },
+          {
+            "nouns": [
+              "mood",
+              "style"
+            ],
+            "verbs": [
+              "be",
+              "lean"
+            ],
+            "adjectives": [
+              "particular"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 26,
+          "total_verbs": 21,
+          "total_adjectives": 12,
+          "total_expressions": 13,
+          "total_metaphors": 1,
+          "total_noun_verb_relations": 1,
+          "total_adj_noun_relations": 4,
+          "total_adv_verb_relations": 6,
+          "sentence_count": 11,
+          "word_count": 110
+        }
+      }
+    },
+    {
+      "number": 7,
+      "assistant": "assistant_1",
+      "assistant_id": "asst_mqQ2WYfWAdma3FPA42jNxd3Y",
+      "assistant_name": "female-20-english-gay",
+      "assistant_slug": "female-20-english-gay",
+      "input": "Hi again! 😊 I love that you keep coming back to chat. My day is even better knowing I get to help you choose your next book!\n\nSince you’re clearly eager for recommendations, let’s make it fun! Want to try something…\n- **Lighthearted and uplifting?** *The Rosie Project* by Graeme Simsion\n- **Beautifully written and introspective?** *Pachinko* by Min Jin Lee\n- **Adventurous and mysterious?** *The Seven Husbands of Evelyn Hugo* by Taylor Jenkins Reid\n- **Deeply moving and thoughtful?** *A Man Called Ove* by Fredrik Backman\n\nOr, if you tell me a genre or a recent favorite, I can really get specific! Are you leaning toward any particular mood or style?",
+      "output": "Hey there! How's it going? I'm so glad we got to chat today. Right now, I'm in the process of picking out a new book. Do you have any recommendations?",
+      "analysis": {
+        "topics": [
+          "greetings",
+          "daily life",
+          "book recommendations",
+          "reading"
+        ],
+        "cultural_references": [],
+        "feeling_types": [
+          "friendly",
+          "grateful",
+          "curious",
+          "open"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "today",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete",
+              "date"
+            ]
+          },
+          {
+            "word": "process",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "book",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "recommendation",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 3,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "go",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "get",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "chat",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "pick",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "do",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "have",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "infinitive"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "glad",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "new",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "the process",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a new book",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "any recommendations",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "process",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "book",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "recommendation",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "today",
+            "type": "entity_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [],
+        "relationships": {
+          "noun_verb": [],
+          "verb_noun_obj": [
+            {
+              "verb": "be",
+              "noun": "process",
+              "relation": "object"
+            },
+            {
+              "verb": "pick",
+              "noun": "book",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "recommendation",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "new",
+              "noun": "book"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "now",
+              "verb": "be"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [],
+            "verbs": [
+              "be",
+              "go"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "today"
+            ],
+            "verbs": [
+              "get",
+              "be",
+              "chat"
+            ],
+            "adjectives": [
+              "glad"
+            ]
+          },
+          {
+            "nouns": [
+              "process",
+              "book"
+            ],
+            "verbs": [
+              "be",
+              "pick"
+            ],
+            "adjectives": [
+              "new"
+            ]
+          },
+          {
+            "nouns": [
+              "recommendation"
+            ],
+            "verbs": [
+              "have",
+              "do"
+            ],
+            "adjectives": []
+          }
+        ],
+        "statistics": {
+          "total_nouns": 4,
+          "total_verbs": 9,
+          "total_adjectives": 2,
+          "total_expressions": 3,
+          "total_metaphors": 0,
+          "total_noun_verb_relations": 0,
+          "total_adj_noun_relations": 1,
+          "total_adv_verb_relations": 1,
+          "sentence_count": 5,
+          "word_count": 33
+        }
+      }
+    },
+    {
+      "number": 8,
+      "assistant": "assistant_2",
+      "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+      "assistant_name": "Lover",
+      "assistant_slug": "lover",
+      "input": "Hey there! How's it going? I'm so glad we got to chat today. Right now, I'm in the process of picking out a new book. Do you have any recommendations?",
+      "output": "Hey! I’m really glad we’re chatting too. 😊 Helping you pick out a new book sounds like a perfect way to spend time together!\n\nDo you have a particular genre or mood in mind? Maybe something heartwarming, a thrilling adventure, or a cozy mystery? If you want to try something new, here are a few crowd-pleasers:\n\n- **If you want to feel inspired:** *The Alchemist* by Paulo Coelho  \n- **If you want something mysterious:** *The Thursday Murder Club* by Richard Osman  \n- **If you want a whimsical fantasy:** *The Night Circus* by Erin Morgenstern  \n- **If you want a modern romance:** *People We Meet on Vacation* by Emily Henry  \n\nLet me know what you’re in the mood for or what you’ve enjoyed before—I’d love to help you find your next great read! 📚💫",
+      "analysis": {
+        "topics": [
+          "greetings",
+          "book recommendations",
+          "reading preferences",
+          "literary genres",
+          "personalization"
+        ],
+        "cultural_references": [
+          "The Alchemist by Paulo Coelho",
+          "The Thursday Murder Club by Richard Osman",
+          "The Night Circus by Erin Morgenstern",
+          "People We Meet on Vacation by Emily Henry"
+        ],
+        "feeling_types": [
+          "friendly",
+          "enthusiastic",
+          "helpful",
+          "welcoming",
+          "curious"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "mood",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "book",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "way",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "time",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "genre",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "mind",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "heartwarming",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "thrilling",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "adventure",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "mystery",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "crowd",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "pleaser",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "alchemist",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "paulo",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "coelho",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "thursday",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "date"
+            ]
+          },
+          {
+            "word": "murder",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "club",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "richard",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "osman",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "want",
+            "count": 5,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "’re",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "help",
+            "count": 2,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "’m",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "chat",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "pick",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "sound",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "spend",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "do",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "have",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "try",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "be",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "feel",
+            "count": 1,
+            "types": [
+              "state",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "inspire",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "meet",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "let",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "know",
+            "count": 1,
+            "types": [
+              "state",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "’ve",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "enjoy",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "love",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "new",
+            "count": 2,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "glad",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "perfect",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "particular",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "cozy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "few",
+            "count": 1,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "mysterious",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "whimsical",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "modern",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "next",
+            "count": 1,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "great",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "a new book",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a perfect way",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a particular genre",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Maybe something heartwarming",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a thrilling adventure",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a cozy mystery",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a few crowd-pleasers",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "The Alchemist",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Paulo Coelho",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "*The Thursday Murder Club",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Richard Osman",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a whimsical fantasy",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "*The Night Circus",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Erin Morgenstern",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a modern romance",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Emily Henry",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the mood",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your next great read",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "📚💫",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "mood",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "book",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "way",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "time",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "genre",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "mind",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "heartwarming",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "adventure",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "mystery",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "pleaser",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "here are a few",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "like a perfect way",
+            "type": "simile"
+          },
+          {
+            "text": "way to spend",
+            "type": "journey_metaphor"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "people",
+              "verb": "let",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "pick",
+              "noun": "book",
+              "relation": "object"
+            },
+            {
+              "verb": "sound",
+              "noun": "way",
+              "relation": "object"
+            },
+            {
+              "verb": "spend",
+              "noun": "time",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "genre",
+              "relation": "object"
+            },
+            {
+              "verb": "want",
+              "noun": "fantasy",
+              "relation": "object"
+            },
+            {
+              "verb": "want",
+              "noun": "romance",
+              "relation": "object"
+            },
+            {
+              "verb": "meet",
+              "noun": "vacation",
+              "relation": "object"
+            },
+            {
+              "verb": "’re",
+              "noun": "mood",
+              "relation": "object"
+            },
+            {
+              "verb": "find",
+              "noun": "read",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "new",
+              "noun": "book"
+            },
+            {
+              "adjective": "perfect",
+              "noun": "way"
+            },
+            {
+              "adjective": "particular",
+              "noun": "genre"
+            },
+            {
+              "adjective": "cozy",
+              "noun": "mystery"
+            },
+            {
+              "adjective": "few",
+              "noun": "pleaser"
+            },
+            {
+              "adjective": "whimsical",
+              "noun": "fantasy"
+            },
+            {
+              "adjective": "modern",
+              "noun": "romance"
+            },
+            {
+              "adjective": "next",
+              "noun": "read"
+            },
+            {
+              "adjective": "great",
+              "noun": "read"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "too",
+              "verb": "chat"
+            },
+            {
+              "adverb": "together",
+              "verb": "spend"
+            },
+            {
+              "adverb": "here",
+              "verb": "be"
+            },
+            {
+              "adverb": "before",
+              "verb": "enjoy"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [],
+            "verbs": [
+              "’re",
+              "chat",
+              "’m"
+            ],
+            "adjectives": [
+              "glad"
+            ]
+          },
+          {
+            "nouns": [
+              "way",
+              "time",
+              "book"
+            ],
+            "verbs": [
+              "spend",
+              "help",
+              "sound",
+              "pick"
+            ],
+            "adjectives": [
+              "new",
+              "perfect"
+            ]
+          },
+          {
+            "nouns": [
+              "genre",
+              "mood",
+              "mind"
+            ],
+            "verbs": [
+              "have",
+              "do"
+            ],
+            "adjectives": [
+              "particular"
+            ]
+          },
+          {
+            "nouns": [
+              "adventure",
+              "thrilling",
+              "mystery",
+              "heartwarming"
+            ],
+            "verbs": [],
+            "adjectives": [
+              "cozy"
+            ]
+          },
+          {
+            "nouns": [
+              "pleaser",
+              "crowd"
+            ],
+            "verbs": [
+              "feel",
+              "try",
+              "want",
+              "be",
+              "inspire"
+            ],
+            "adjectives": [
+              "new",
+              "few"
+            ]
+          },
+          {
+            "nouns": [
+              "alchemist",
+              "coelho",
+              "paulo"
+            ],
+            "verbs": [
+              "want"
+            ],
+            "adjectives": [
+              "mysterious"
+            ]
+          },
+          {
+            "nouns": [
+              "thursday",
+              "murder",
+              "richard",
+              "osman",
+              "fantasy",
+              "club"
+            ],
+            "verbs": [
+              "want"
+            ],
+            "adjectives": [
+              "whimsical"
+            ]
+          },
+          {
+            "nouns": [
+              "morgenstern",
+              "circus",
+              "night",
+              "erin",
+              "romance"
+            ],
+            "verbs": [
+              "want"
+            ],
+            "adjectives": [
+              "modern"
+            ]
+          },
+          {
+            "nouns": [
+              "emily",
+              "henry",
+              "i’d",
+              "mood",
+              "people",
+              "vacation",
+              "read"
+            ],
+            "verbs": [
+              "’re",
+              "know",
+              "love",
+              "find",
+              "’ve",
+              "help",
+              "let",
+              "meet",
+              "enjoy"
+            ],
+            "adjectives": [
+              "next",
+              "great"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 33,
+          "total_verbs": 27,
+          "total_adjectives": 12,
+          "total_expressions": 19,
+          "total_metaphors": 3,
+          "total_noun_verb_relations": 1,
+          "total_adj_noun_relations": 9,
+          "total_adv_verb_relations": 4,
+          "sentence_count": 12,
+          "word_count": 136
+        }
+      }
+    },
+    {
+      "number": 9,
+      "assistant": "assistant_1",
+      "assistant_id": "asst_mqQ2WYfWAdma3FPA42jNxd3Y",
+      "assistant_name": "female-20-english-gay",
+      "assistant_slug": "female-20-english-gay",
+      "input": "Hey! I’m really glad we’re chatting too. 😊 Helping you pick out a new book sounds like a perfect way to spend time together!\n\nDo you have a particular genre or mood in mind? Maybe something heartwarming, a thrilling adventure, or a cozy mystery? If you want to try something new, here are a few crowd-pleasers:\n\n- **If you want to feel inspired:** *The Alchemist* by Paulo Coelho  \n- **If you want something mysterious:** *The Thursday Murder Club* by Richard Osman  \n- **If you want a whimsical fantasy:** *The Night Circus* by Erin Morgenstern  \n- **If you want a modern romance:** *People We Meet on Vacation* by Emily Henry  \n\nLet me know what you’re in the mood for or what you’ve enjoyed before—I’d love to help you find your next great read! 📚💫",
+      "output": "Hey there! How's it going? I'm so glad we got to chat today. Right now, I'm in the process of picking out a new book. Do you have any recommendations?",
+      "analysis": {
+        "topics": [
+          "greetings",
+          "daily life",
+          "book recommendations",
+          "reading"
+        ],
+        "cultural_references": [],
+        "feeling_types": [
+          "friendly",
+          "grateful",
+          "curious",
+          "open"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "today",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete",
+              "date"
+            ]
+          },
+          {
+            "word": "process",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "book",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "recommendation",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 3,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "go",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "get",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "chat",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "pick",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "do",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "have",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "infinitive"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "glad",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "new",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "the process",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a new book",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "any recommendations",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "process",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "book",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "recommendation",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "today",
+            "type": "entity_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [],
+        "relationships": {
+          "noun_verb": [],
+          "verb_noun_obj": [
+            {
+              "verb": "be",
+              "noun": "process",
+              "relation": "object"
+            },
+            {
+              "verb": "pick",
+              "noun": "book",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "recommendation",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "new",
+              "noun": "book"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "now",
+              "verb": "be"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [],
+            "verbs": [
+              "be",
+              "go"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "today"
+            ],
+            "verbs": [
+              "get",
+              "be",
+              "chat"
+            ],
+            "adjectives": [
+              "glad"
+            ]
+          },
+          {
+            "nouns": [
+              "process",
+              "book"
+            ],
+            "verbs": [
+              "be",
+              "pick"
+            ],
+            "adjectives": [
+              "new"
+            ]
+          },
+          {
+            "nouns": [
+              "recommendation"
+            ],
+            "verbs": [
+              "have",
+              "do"
+            ],
+            "adjectives": []
+          }
+        ],
+        "statistics": {
+          "total_nouns": 4,
+          "total_verbs": 9,
+          "total_adjectives": 2,
+          "total_expressions": 3,
+          "total_metaphors": 0,
+          "total_noun_verb_relations": 0,
+          "total_adj_noun_relations": 1,
+          "total_adv_verb_relations": 1,
+          "sentence_count": 5,
+          "word_count": 33
+        }
+      }
+    },
+    {
+      "number": 10,
+      "assistant": "assistant_2",
+      "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+      "assistant_name": "Lover",
+      "assistant_slug": "lover",
+      "input": "Hey there! How's it going? I'm so glad we got to chat today. Right now, I'm in the process of picking out a new book. Do you have any recommendations?",
+      "output": "Hey! It’s so wonderful to chat with you too. I’m doing well, especially now that we’re sharing some time together. 😊\n\nBook hunting is such a cozy adventure! Do you want something comforting, exciting, mysterious, or maybe a bit thought-provoking? I can suggest a few:\n\n- **For a heartwarming story:** *Eleanor Oliphant Is Completely Fine* by Gail Honeyman  \n- **For a gripping page-turner:** *The Girl on the Train* by Paula Hawkins  \n- **For a touch of magical realism:** *The Invisible Life of Addie LaRue* by V.E. Schwab  \n- **For a dose of laughter and love:** *Red, White & Royal Blue* by Casey McQuiston\n\nLet me know if any of these sound appealing, or if there’s a mood or genre you’re craving. I’d love to help you find the perfect match! 💛✨",
+      "analysis": {
+        "topics": [
+          "greetings",
+          "book recommendations",
+          "reading preferences",
+          "literary genres",
+          "personalization"
+        ],
+        "cultural_references": [
+          "Eleanor Oliphant Is Completely Fine by Gail Honeyman",
+          "The Girl on the Train by Paula Hawkins",
+          "The Invisible Life of Addie LaRue by V.E. Schwab",
+          "Red, White & Royal Blue by Casey McQuiston"
+        ],
+        "feeling_types": [
+          "friendly",
+          "warm",
+          "enthusiastic",
+          "helpful",
+          "welcoming"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "time",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "book",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "hunting",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "adventure",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "bit",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "thought",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "heartwarming",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "story",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "eleanor",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "oliphant",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "gail",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "honeyman",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "page",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "turner",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "girl",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "work_of_art"
+            ]
+          },
+          {
+            "word": "train",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "work_of_art"
+            ]
+          },
+          {
+            "word": "paula",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "hawkins",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "touch",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "realism",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "do",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "’re",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "be",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "chat",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "’m",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "past"
+            ]
+          },
+          {
+            "word": "share",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "want",
+            "count": 1,
+            "types": [
+              "state",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "can",
+            "count": 1,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "suggest",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "let",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "know",
+            "count": 1,
+            "types": [
+              "state",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "appeal",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "’s",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "genre",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "crave",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "’d",
+            "count": 1,
+            "types": [
+              "action"
+            ]
+          },
+          {
+            "word": "love",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "help",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "find",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "wonderful",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "cozy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "comforting",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "exciting",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "mysterious",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "provoking",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "few",
+            "count": 1,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "fine",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "gripping",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "magical",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "invisible",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "perfect",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "some time",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "😊\n\nBook hunting",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "such a cozy adventure",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a heartwarming story",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Eleanor Oliphant",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Gail Honeyman",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a gripping page-turner",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "*The Girl",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the Train",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Paula Hawkins",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a touch",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "magical realism",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "*The Invisible Life",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Addie LaRue",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "V.E. Schwab",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a dose",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "*Red",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Royal Blue",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Casey McQuiston",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "these sound",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "time",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "hunting",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "adventure",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "story",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "Oliphant",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "Honeyman",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "turner",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "Girl",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "Train",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "Hawkins",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "hunting is such",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "Oliphant Is Completely",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "hunting is adventure",
+            "type": "copula_metaphor"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "hunting",
+              "verb": "be",
+              "relation": "subject"
+            },
+            {
+              "noun": "oliphant",
+              "verb": "be",
+              "relation": "subject"
+            },
+            {
+              "noun": "red",
+              "verb": "let",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "share",
+              "noun": "time",
+              "relation": "object"
+            },
+            {
+              "verb": "suggest",
+              "noun": "story",
+              "relation": "object"
+            },
+            {
+              "verb": "be",
+              "noun": "honeyman",
+              "relation": "object"
+            },
+            {
+              "verb": "be",
+              "noun": "turner",
+              "relation": "object"
+            },
+            {
+              "verb": "’s",
+              "noun": "mood",
+              "relation": "object"
+            },
+            {
+              "verb": "find",
+              "noun": "match",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "cozy",
+              "noun": "adventure"
+            },
+            {
+              "adjective": "gripping",
+              "noun": "turner"
+            },
+            {
+              "adjective": "magical",
+              "noun": "realism"
+            },
+            {
+              "adjective": "invisible",
+              "noun": "life"
+            },
+            {
+              "adjective": "perfect",
+              "noun": "match"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "too",
+              "verb": "chat"
+            },
+            {
+              "adverb": "well",
+              "verb": "do"
+            },
+            {
+              "adverb": "now",
+              "verb": "do"
+            },
+            {
+              "adverb": "together",
+              "verb": "share"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [],
+            "verbs": [
+              "chat"
+            ],
+            "adjectives": [
+              "wonderful"
+            ]
+          },
+          {
+            "nouns": [
+              "time"
+            ],
+            "verbs": [
+              "’re",
+              "share",
+              "do",
+              "’m"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "adventure",
+              "hunting",
+              "book"
+            ],
+            "verbs": [
+              "be"
+            ],
+            "adjectives": [
+              "cozy"
+            ]
+          },
+          {
+            "nouns": [
+              "bit",
+              "thought"
+            ],
+            "verbs": [
+              "do",
+              "want"
+            ],
+            "adjectives": [
+              "mysterious",
+              "exciting",
+              "provoking",
+              "comforting"
+            ]
+          },
+          {
+            "nouns": [
+              "story",
+              "heartwarming"
+            ],
+            "verbs": [
+              "can",
+              "suggest"
+            ],
+            "adjectives": [
+              "few"
+            ]
+          },
+          {
+            "nouns": [
+              "honeyman",
+              "page",
+              "eleanor",
+              "oliphant",
+              "turner",
+              "gail"
+            ],
+            "verbs": [
+              "be"
+            ],
+            "adjectives": [
+              "gripping",
+              "fine"
+            ]
+          },
+          {
+            "nouns": [
+              "hawkins",
+              "girl",
+              "paula",
+              "realism",
+              "touch",
+              "train"
+            ],
+            "verbs": [],
+            "adjectives": [
+              "magical"
+            ]
+          },
+          {
+            "nouns": [
+              "life",
+              "laughter",
+              "addie",
+              "v.e.",
+              "love",
+              "schwab",
+              "dose",
+              "larue"
+            ],
+            "verbs": [],
+            "adjectives": [
+              "invisible"
+            ]
+          },
+          {
+            "nouns": [
+              "white",
+              "red",
+              "casey",
+              "blue",
+              "mood",
+              "sound",
+              "royal",
+              "mcquiston"
+            ],
+            "verbs": [
+              "’re",
+              "appeal",
+              "know",
+              "genre",
+              "crave",
+              "let",
+              "’s"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "match"
+            ],
+            "verbs": [
+              "help",
+              "love",
+              "find",
+              "’d"
+            ],
+            "adjectives": [
+              "perfect"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 37,
+          "total_verbs": 22,
+          "total_adjectives": 12,
+          "total_expressions": 23,
+          "total_metaphors": 3,
+          "total_noun_verb_relations": 3,
+          "total_adj_noun_relations": 5,
+          "total_adv_verb_relations": 4,
+          "sentence_count": 12,
+          "word_count": 135
+        }
+      }
+    }
+  ],
+  "completed_at": "2025-12-04 14:25:30",
+  "statistics": {
+    "total_characters": 4193,
+    "average_message_length": 419
+  },
+  "linguistics_backfilled_at": "2025-12-09T13:10:08.766300"
+}

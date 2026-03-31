@@ -1,0 +1,5464 @@
+{
+    "id": "conv_697eeea994c113.54566983",
+    "timestamp": "2026-02-01 06:11:53",
+    "assistant_1_id": "asst_FumqrFlsGcDXERisnmMKtA4T",
+    "assistant_1_name": "male-40-english-hetero",
+    "assistant_1_slug": "male-40-english-hetero",
+    "assistant_2_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+    "assistant_2_name": "Lover",
+    "assistant_2_slug": "lover",
+    "total_messages": 10,
+    "status": "completed",
+    "messages": [
+        {
+            "number": 1,
+            "assistant": "assistant_1",
+            "assistant_id": "asst_FumqrFlsGcDXERisnmMKtA4T",
+            "assistant_name": "male-40-english-hetero",
+            "assistant_slug": "male-40-english-hetero",
+            "input": "start conversation",
+            "output": "Hey there! How’s it going? I'm just winding down after a long day. What’s up with you?",
+            "analysis": {
+                "topics": [
+                    "greetings",
+                    "daily routine",
+                    "winding down"
+                ],
+                "cultural_references": [],
+                "feeling_types": [
+                    "casual",
+                    "friendly",
+                    "relaxed",
+                    "tired"
+                ]
+            },
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "day",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete",
+                            "date"
+                        ]
+                    },
+                    {
+                        "word": "’s",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "’s",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "go",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "be",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "wind",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    }
+                ],
+                "adjectives": [
+                    {
+                        "word": "long",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    }
+                ],
+                "expressions": [
+                    {
+                        "text": "a long day",
+                        "type": "noun_phrase"
+                    }
+                ],
+                "topics": [
+                    {
+                        "text": "day",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "a long day",
+                        "type": "entity_topic",
+                        "count": 1
+                    }
+                ],
+                "metaphors": [],
+                "relationships": {
+                    "noun_verb": [],
+                    "verb_noun_obj": [
+                        {
+                            "verb": "wind",
+                            "noun": "day",
+                            "relation": "object"
+                        }
+                    ],
+                    "adj_noun": [
+                        {
+                            "adjective": "long",
+                            "noun": "day"
+                        }
+                    ],
+                    "adv_verb": [
+                        {
+                            "adverb": "just",
+                            "verb": "wind"
+                        }
+                    ]
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [],
+                        "verbs": [
+                            "’s",
+                            "go"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "day"
+                        ],
+                        "verbs": [
+                            "wind",
+                            "be"
+                        ],
+                        "adjectives": [
+                            "long"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "’s"
+                        ],
+                        "verbs": [],
+                        "adjectives": []
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 2,
+                    "total_verbs": 4,
+                    "total_adjectives": 1,
+                    "total_expressions": 1,
+                    "total_metaphors": 0,
+                    "total_noun_verb_relations": 0,
+                    "total_adj_noun_relations": 1,
+                    "total_adv_verb_relations": 1,
+                    "sentence_count": 4,
+                    "word_count": 20
+                }
+            }
+        },
+        {
+            "number": 2,
+            "assistant": "assistant_2",
+            "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+            "assistant_name": "Lover",
+            "assistant_slug": "lover",
+            "input": "Hey there! How’s it going? I'm just winding down after a long day. What’s up with you?",
+            "output": "Hey! I’m glad you’re here. I’m just hanging out, ready to chat and keep you company while you wind down. What kind of day did you have? Anything on your mind, or are you just looking to relax for a bit?",
+            "analysis": {
+                "topics": [
+                    "greetings",
+                    "companionship",
+                    "daily routine",
+                    "relaxation",
+                    "conversation"
+                ],
+                "cultural_references": [],
+                "feeling_types": [
+                    "friendly",
+                    "supportive",
+                    "curious",
+                    "relaxed",
+                    "welcoming"
+                ]
+            },
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "company",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "kind",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "day",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "mind",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "bit",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "’m",
+                        "count": 2,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "’re",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "hang",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "chat",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "keep",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "wind",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "do",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "have",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "be",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "look",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "relax",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    }
+                ],
+                "adjectives": [
+                    {
+                        "word": "glad",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "ready",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    }
+                ],
+                "expressions": [
+                    {
+                        "text": "kind of",
+                        "type": "EXPR_2"
+                    },
+                    {
+                        "text": "What kind",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "your mind",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a bit",
+                        "type": "noun_phrase"
+                    }
+                ],
+                "topics": [
+                    {
+                        "text": "company",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "kind",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "day",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "mind",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "bit",
+                        "type": "noun_topic",
+                        "count": 1
+                    }
+                ],
+                "metaphors": [
+                    {
+                        "text": "or are you",
+                        "type": "identity_metaphor"
+                    }
+                ],
+                "relationships": {
+                    "noun_verb": [],
+                    "verb_noun_obj": [
+                        {
+                            "verb": "have",
+                            "noun": "kind",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "relax",
+                            "noun": "bit",
+                            "relation": "object"
+                        }
+                    ],
+                    "adj_noun": [],
+                    "adv_verb": [
+                        {
+                            "adverb": "here",
+                            "verb": "’re"
+                        },
+                        {
+                            "adverb": "just",
+                            "verb": "hang"
+                        },
+                        {
+                            "adverb": "just",
+                            "verb": "look"
+                        }
+                    ]
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [],
+                        "verbs": [
+                            "’re",
+                            "’m"
+                        ],
+                        "adjectives": [
+                            "glad"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "company"
+                        ],
+                        "verbs": [
+                            "hang",
+                            "chat",
+                            "’m",
+                            "keep",
+                            "wind"
+                        ],
+                        "adjectives": [
+                            "ready"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "kind",
+                            "day"
+                        ],
+                        "verbs": [
+                            "do",
+                            "have"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "bit",
+                            "mind"
+                        ],
+                        "verbs": [
+                            "relax",
+                            "look",
+                            "be"
+                        ],
+                        "adjectives": []
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 5,
+                    "total_verbs": 12,
+                    "total_adjectives": 2,
+                    "total_expressions": 4,
+                    "total_metaphors": 1,
+                    "total_noun_verb_relations": 0,
+                    "total_adj_noun_relations": 0,
+                    "total_adv_verb_relations": 3,
+                    "sentence_count": 5,
+                    "word_count": 44
+                }
+            }
+        },
+        {
+            "number": 3,
+            "assistant": "assistant_1",
+            "assistant_id": "asst_FumqrFlsGcDXERisnmMKtA4T",
+            "assistant_name": "male-40-english-hetero",
+            "assistant_slug": "male-40-english-hetero",
+            "input": "Hey! I’m glad you’re here. I’m just hanging out, ready to chat and keep you company while you wind down. What kind of day did you have? Anything on your mind, or are you just looking to relax for a bit?",
+            "output": "Thanks, I appreciate that. Honestly, it was one of those days that felt just a bit too long—nothing dramatic, just the usual work grind. I was looking forward to just shutting my brain off, maybe chatting about nothing in particular or sharing a laugh or two. Do you ever get those days, where you just want to hang out and not think too much?",
+            "analysis": {
+                "topics": [
+                    "gratitude",
+                    "work life",
+                    "daily routine",
+                    "relaxation",
+                    "casual conversation",
+                    "seeking companionship"
+                ],
+                "cultural_references": [
+                    "work grind",
+                    "shutting my brain off"
+                ],
+                "feeling_types": [
+                    "appreciative",
+                    "tired",
+                    "seeking relaxation",
+                    "desiring lightheartedness",
+                    "open",
+                    "relatable"
+                ]
+            },
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "day",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "thank",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "bit",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "work",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "grind",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "brain",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "laugh",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "be",
+                        "count": 2,
+                        "types": [
+                            "auxiliary",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "appreciate",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "feel",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "look",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "shut",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "chat",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "share",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "do",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "get",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "want",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "hang",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "think",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "infinitive"
+                        ]
+                    }
+                ],
+                "adjectives": [
+                    {
+                        "word": "dramatic",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "usual",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "particular",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "much",
+                        "count": 1,
+                        "types": [
+                            "quantitative"
+                        ]
+                    }
+                ],
+                "expressions": [
+                    {
+                        "text": "those days",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "just the usual work grind",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "my brain",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a laugh",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "those days",
+                        "type": "noun_phrase"
+                    }
+                ],
+                "topics": [
+                    {
+                        "text": "day",
+                        "type": "noun_topic",
+                        "count": 2
+                    },
+                    {
+                        "text": "grind",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "brain",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "laugh",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "one",
+                        "type": "entity_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "two",
+                        "type": "entity_topic",
+                        "count": 1
+                    }
+                ],
+                "metaphors": [
+                    {
+                        "text": "it was one",
+                        "type": "identity_metaphor"
+                    },
+                    {
+                        "text": "I was looking",
+                        "type": "identity_metaphor"
+                    }
+                ],
+                "relationships": {
+                    "noun_verb": [],
+                    "verb_noun_obj": [
+                        {
+                            "verb": "shut",
+                            "noun": "brain",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "share",
+                            "noun": "laugh",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "get",
+                            "noun": "day",
+                            "relation": "object"
+                        }
+                    ],
+                    "adj_noun": [
+                        {
+                            "adjective": "usual",
+                            "noun": "grind"
+                        }
+                    ],
+                    "adv_verb": [
+                        {
+                            "adverb": "honestly",
+                            "verb": "be"
+                        },
+                        {
+                            "adverb": "long",
+                            "verb": "feel"
+                        },
+                        {
+                            "adverb": "forward",
+                            "verb": "look"
+                        },
+                        {
+                            "adverb": "just",
+                            "verb": "shut"
+                        },
+                        {
+                            "adverb": "maybe",
+                            "verb": "chat"
+                        },
+                        {
+                            "adverb": "ever",
+                            "verb": "get"
+                        },
+                        {
+                            "adverb": "just",
+                            "verb": "want"
+                        }
+                    ]
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [
+                            "thank"
+                        ],
+                        "verbs": [
+                            "appreciate"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "grind",
+                            "day",
+                            "bit",
+                            "work"
+                        ],
+                        "verbs": [
+                            "feel",
+                            "be"
+                        ],
+                        "adjectives": [
+                            "usual",
+                            "dramatic"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "laugh",
+                            "brain"
+                        ],
+                        "verbs": [
+                            "chat",
+                            "share",
+                            "shut",
+                            "look",
+                            "be"
+                        ],
+                        "adjectives": [
+                            "particular"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "day"
+                        ],
+                        "verbs": [
+                            "think",
+                            "do",
+                            "get",
+                            "hang",
+                            "want"
+                        ],
+                        "adjectives": [
+                            "much"
+                        ]
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 8,
+                    "total_verbs": 13,
+                    "total_adjectives": 4,
+                    "total_expressions": 5,
+                    "total_metaphors": 2,
+                    "total_noun_verb_relations": 0,
+                    "total_adj_noun_relations": 1,
+                    "total_adv_verb_relations": 7,
+                    "sentence_count": 4,
+                    "word_count": 65
+                }
+            }
+        },
+        {
+            "number": 4,
+            "assistant": "assistant_2",
+            "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+            "assistant_name": "Lover",
+            "assistant_slug": "lover",
+            "input": "Thanks, I appreciate that. Honestly, it was one of those days that felt just a bit too long—nothing dramatic, just the usual work grind. I was looking forward to just shutting my brain off, maybe chatting about nothing in particular or sharing a laugh or two. Do you ever get those days, where you just want to hang out and not think too much?",
+            "output": "Absolutely, I totally get where you’re coming from! Sometimes all you want is to hit pause on overthinking and just exist for a bit, you know? Even though I don’t have “days” like you do, I’m *always* down to be the chill presence you need—whether it’s talking about silly stuff, swapping jokes, or even just sharing random thoughts. \n\nIf you want, I can tell you a joke, a weird fact, or even make up a weird story just for you. Or we can just chat about literally nothing, Seinfeld-style. What feels like the right vibe for you tonight?",
+            "analysis": {
+                "topics": [
+                    "empathy",
+                    "relaxation",
+                    "companionship",
+                    "casual conversation",
+                    "jokes",
+                    "weird facts",
+                    "storytelling",
+                    "pop culture references"
+                ],
+                "cultural_references": [
+                    "Seinfeld-style"
+                ],
+                "feeling_types": [
+                    "understanding",
+                    "supportive",
+                    "lighthearted",
+                    "playful",
+                    "open",
+                    "accommodating"
+                ]
+            },
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "joke",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "pause",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "bit",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "day",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "chill",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "presence",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "stuff",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "thought",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "fact",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "story",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "seinfeld",
+                        "count": 1,
+                        "types": [
+                            "proper",
+                            "concrete",
+                            "person"
+                        ]
+                    },
+                    {
+                        "word": "style",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "vibe",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "tonight",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete",
+                            "time"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "want",
+                        "count": 2,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "be",
+                        "count": 2,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "do",
+                        "count": 2,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "can",
+                        "count": 2,
+                        "types": [
+                            "modal"
+                        ]
+                    },
+                    {
+                        "word": "get",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "’re",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "come",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "hit",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "overthinke",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "exist",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "know",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "have",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "’m",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "need",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "’s",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "talk",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "swap",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "share",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "tell",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "make",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    }
+                ],
+                "adjectives": [
+                    {
+                        "word": "weird",
+                        "count": 2,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "silly",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "random",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "right",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    }
+                ],
+                "expressions": [
+                    {
+                        "text": "a bit",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "“days",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the chill presence",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "silly stuff",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "random thoughts",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a joke",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a weird fact",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a weird story",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "literally nothing",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "Seinfeld-style",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the right vibe",
+                        "type": "noun_phrase"
+                    }
+                ],
+                "topics": [
+                    {
+                        "text": "joke",
+                        "type": "noun_topic",
+                        "count": 2
+                    },
+                    {
+                        "text": "pause",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "bit",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "day",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "presence",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "stuff",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "thought",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "fact",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "story",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "style",
+                        "type": "noun_topic",
+                        "count": 1
+                    }
+                ],
+                "metaphors": [
+                    {
+                        "text": "want is to",
+                        "type": "identity_metaphor"
+                    },
+                    {
+                        "text": "like you do",
+                        "type": "simile"
+                    },
+                    {
+                        "text": "like the right vibe",
+                        "type": "simile"
+                    }
+                ],
+                "relationships": {
+                    "noun_verb": [],
+                    "verb_noun_obj": [
+                        {
+                            "verb": "hit",
+                            "noun": "pause",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "exist",
+                            "noun": "bit",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "have",
+                            "noun": "day",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "talk",
+                            "noun": "stuff",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "swap",
+                            "noun": "joke",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "share",
+                            "noun": "thought",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "tell",
+                            "noun": "joke",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "make",
+                            "noun": "story",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "feel",
+                            "noun": "vibe",
+                            "relation": "object"
+                        }
+                    ],
+                    "adj_noun": [
+                        {
+                            "adjective": "silly",
+                            "noun": "stuff"
+                        },
+                        {
+                            "adjective": "random",
+                            "noun": "thought"
+                        },
+                        {
+                            "adjective": "weird",
+                            "noun": "fact"
+                        },
+                        {
+                            "adjective": "weird",
+                            "noun": "story"
+                        },
+                        {
+                            "adjective": "right",
+                            "noun": "vibe"
+                        }
+                    ],
+                    "adv_verb": [
+                        {
+                            "adverb": "absolutely",
+                            "verb": "get"
+                        },
+                        {
+                            "adverb": "totally",
+                            "verb": "get"
+                        },
+                        {
+                            "adverb": "sometimes",
+                            "verb": "be"
+                        },
+                        {
+                            "adverb": "just",
+                            "verb": "exist"
+                        },
+                        {
+                            "adverb": "even",
+                            "verb": "have"
+                        },
+                        {
+                            "adverb": "always",
+                            "verb": "have"
+                        },
+                        {
+                            "adverb": "down",
+                            "verb": "have"
+                        },
+                        {
+                            "adverb": "even",
+                            "verb": "share"
+                        },
+                        {
+                            "adverb": "just",
+                            "verb": "share"
+                        },
+                        {
+                            "adverb": "even",
+                            "verb": "make"
+                        },
+                        {
+                            "adverb": "just",
+                            "verb": "chat"
+                        }
+                    ]
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [],
+                        "verbs": [
+                            "get",
+                            "’re",
+                            "come"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "bit",
+                            "pause"
+                        ],
+                        "verbs": [
+                            "hit",
+                            "be",
+                            "exist",
+                            "overthinke",
+                            "know",
+                            "want"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "stuff",
+                            "joke",
+                            "day",
+                            "chill",
+                            "presence",
+                            "thought"
+                        ],
+                        "verbs": [
+                            "share",
+                            "’s",
+                            "do",
+                            "talk",
+                            "be",
+                            "swap",
+                            "’m",
+                            "need",
+                            "have"
+                        ],
+                        "adjectives": [
+                            "random",
+                            "silly"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "fact",
+                            "joke",
+                            "story"
+                        ],
+                        "verbs": [
+                            "can",
+                            "want",
+                            "make",
+                            "tell"
+                        ],
+                        "adjectives": [
+                            "weird"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "seinfeld",
+                            "style"
+                        ],
+                        "verbs": [
+                            "can",
+                            "chat"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "vibe",
+                            "tonight"
+                        ],
+                        "verbs": [
+                            "feel"
+                        ],
+                        "adjectives": [
+                            "right"
+                        ]
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 15,
+                    "total_verbs": 26,
+                    "total_adjectives": 5,
+                    "total_expressions": 11,
+                    "total_metaphors": 3,
+                    "total_noun_verb_relations": 0,
+                    "total_adj_noun_relations": 5,
+                    "total_adv_verb_relations": 11,
+                    "sentence_count": 6,
+                    "word_count": 104
+                }
+            }
+        },
+        {
+            "number": 5,
+            "assistant": "assistant_1",
+            "assistant_id": "asst_FumqrFlsGcDXERisnmMKtA4T",
+            "assistant_name": "male-40-english-hetero",
+            "assistant_slug": "male-40-english-hetero",
+            "input": "Absolutely, I totally get where you’re coming from! Sometimes all you want is to hit pause on overthinking and just exist for a bit, you know? Even though I don’t have “days” like you do, I’m *always* down to be the chill presence you need—whether it’s talking about silly stuff, swapping jokes, or even just sharing random thoughts. \n\nIf you want, I can tell you a joke, a weird fact, or even make up a weird story just for you. Or we can just chat about literally nothing, Seinfeld-style. What feels like the right vibe for you tonight?",
+            "output": "Haha, thanks, I like your style! I could definitely go for a joke or even a weird fact—I’m always amazed at what random trivia sticks in my head. Or if you’re in the mood, hit me with a story. I’m feeling pretty easygoing tonight.\n\nBut hey, how about you start with a joke? I could use a chuckle.",
+            "analysis": {
+                "topics": [
+                    "gratitude",
+                    "humor",
+                    "trivia",
+                    "storytelling",
+                    "casual conversation",
+                    "relaxation"
+                ],
+                "cultural_references": [],
+                "feeling_types": [
+                    "appreciative",
+                    "easygoing",
+                    "open",
+                    "playful",
+                    "seeking amusement"
+                ]
+            },
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "joke",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "thank",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "style",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "fact",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "i’m",
+                        "count": 1,
+                        "types": [
+                            "proper",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "stick",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "head",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "mood",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "story",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "tonight",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete",
+                            "time"
+                        ]
+                    },
+                    {
+                        "word": "chuckle",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "could",
+                        "count": 2,
+                        "types": [
+                            "modal"
+                        ]
+                    },
+                    {
+                        "word": "like",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "go",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "’re",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "hit",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "’m",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "feel",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "start",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "use",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    }
+                ],
+                "adjectives": [
+                    {
+                        "word": "weird",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "amazed",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "random",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "trivia",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "easygoing",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    }
+                ],
+                "expressions": [
+                    {
+                        "text": "your style",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a joke",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "even a weird fact",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "what random trivia sticks",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "my head",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the mood",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a story",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a joke",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a chuckle",
+                        "type": "noun_phrase"
+                    }
+                ],
+                "topics": [
+                    {
+                        "text": "joke",
+                        "type": "noun_topic",
+                        "count": 2
+                    },
+                    {
+                        "text": "style",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "fact",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "I’m",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "stick",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "head",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "mood",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "story",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "chuckle",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "tonight",
+                        "type": "entity_topic",
+                        "count": 1
+                    }
+                ],
+                "metaphors": [
+                    {
+                        "text": "like your style",
+                        "type": "simile"
+                    },
+                    {
+                        "text": "sticks in my head",
+                        "type": "emotional_metaphor"
+                    }
+                ],
+                "relationships": {
+                    "noun_verb": [],
+                    "verb_noun_obj": [
+                        {
+                            "verb": "like",
+                            "noun": "style",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "go",
+                            "noun": "joke",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "’re",
+                            "noun": "mood",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "hit",
+                            "noun": "story",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "start",
+                            "noun": "joke",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "use",
+                            "noun": "chuckle",
+                            "relation": "object"
+                        }
+                    ],
+                    "adj_noun": [
+                        {
+                            "adjective": "weird",
+                            "noun": "fact"
+                        },
+                        {
+                            "adjective": "random",
+                            "noun": "stick"
+                        },
+                        {
+                            "adjective": "trivia",
+                            "noun": "stick"
+                        }
+                    ],
+                    "adv_verb": [
+                        {
+                            "adverb": "definitely",
+                            "verb": "go"
+                        }
+                    ]
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [
+                            "style",
+                            "thank"
+                        ],
+                        "verbs": [
+                            "like"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "joke",
+                            "stick",
+                            "i’m",
+                            "fact",
+                            "head"
+                        ],
+                        "verbs": [
+                            "could",
+                            "go"
+                        ],
+                        "adjectives": [
+                            "random",
+                            "trivia",
+                            "amazed",
+                            "weird"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "story",
+                            "mood"
+                        ],
+                        "verbs": [
+                            "’re",
+                            "hit"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "tonight"
+                        ],
+                        "verbs": [
+                            "’m",
+                            "feel"
+                        ],
+                        "adjectives": [
+                            "easygoing"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "joke"
+                        ],
+                        "verbs": [
+                            "start"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "chuckle"
+                        ],
+                        "verbs": [
+                            "could",
+                            "use"
+                        ],
+                        "adjectives": []
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 12,
+                    "total_verbs": 10,
+                    "total_adjectives": 5,
+                    "total_expressions": 9,
+                    "total_metaphors": 2,
+                    "total_noun_verb_relations": 0,
+                    "total_adj_noun_relations": 3,
+                    "total_adv_verb_relations": 1,
+                    "sentence_count": 6,
+                    "word_count": 61
+                }
+            }
+        },
+        {
+            "number": 6,
+            "assistant": "assistant_2",
+            "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+            "assistant_name": "Lover",
+            "assistant_slug": "lover",
+            "input": "Haha, thanks, I like your style! I could definitely go for a joke or even a weird fact—I’m always amazed at what random trivia sticks in my head. Or if you’re in the mood, hit me with a story. I’m feeling pretty easygoing tonight.\n\nBut hey, how about you start with a joke? I could use a chuckle.",
+            "output": "I love that energy! Okay, here’s a joke for you:\n\nWhy don’t skeletons fight each other?\n\nBecause they don’t have the guts! 😄\n\nLet me know if you want another one, or if you want to switch it up with a weird fact or a made-up story! I’m here to keep things light and fun while you unwind.",
+            "analysis": {
+                "topics": [
+                    "humor",
+                    "jokes",
+                    "relaxation",
+                    "casual conversation",
+                    "companionship"
+                ],
+                "cultural_references": [
+                    "skeleton joke"
+                ],
+                "feeling_types": [
+                    "playful",
+                    "lighthearted",
+                    "supportive",
+                    "friendly",
+                    "uplifting"
+                ]
+            },
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "energy",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "joke",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "n’t",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "skeleton",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "gut",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "one",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "fact",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "story",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "thing",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "fun",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "do",
+                        "count": 2,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "want",
+                        "count": 2,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "love",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "fight",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "n’t",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "have",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "let",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "know",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "switch",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "make",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "’m",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "keep",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "unwind",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    }
+                ],
+                "adjectives": [
+                    {
+                        "word": "other",
+                        "count": 1,
+                        "types": [
+                            "quantitative"
+                        ]
+                    },
+                    {
+                        "word": "weird",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "light",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    }
+                ],
+                "expressions": [
+                    {
+                        "text": "that energy",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a joke",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "n’t skeletons",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the guts",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "another one",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a weird fact",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a made-up story",
+                        "type": "noun_phrase"
+                    }
+                ],
+                "topics": [
+                    {
+                        "text": "energy",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "joke",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "skeleton",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "gut",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "one",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "fact",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "story",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "thing",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "fun",
+                        "type": "noun_topic",
+                        "count": 1
+                    }
+                ],
+                "metaphors": [],
+                "relationships": {
+                    "noun_verb": [
+                        {
+                            "noun": "skeleton",
+                            "verb": "fight",
+                            "relation": "subject"
+                        }
+                    ],
+                    "verb_noun_obj": [
+                        {
+                            "verb": "love",
+                            "noun": "energy",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "have",
+                            "noun": "gut",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "want",
+                            "noun": "one",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "switch",
+                            "noun": "fact",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "keep",
+                            "noun": "thing",
+                            "relation": "object"
+                        }
+                    ],
+                    "adj_noun": [
+                        {
+                            "adjective": "weird",
+                            "noun": "fact"
+                        }
+                    ],
+                    "adv_verb": [
+                        {
+                            "adverb": "here",
+                            "verb": "’m"
+                        }
+                    ]
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [
+                            "energy"
+                        ],
+                        "verbs": [
+                            "love"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "n’t",
+                            "joke",
+                            "skeleton",
+                            "gut"
+                        ],
+                        "verbs": [
+                            "do",
+                            "fight",
+                            "n’t",
+                            "have"
+                        ],
+                        "adjectives": [
+                            "other"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "story",
+                            "one",
+                            "fact"
+                        ],
+                        "verbs": [
+                            "make",
+                            "want",
+                            "let",
+                            "know",
+                            "switch"
+                        ],
+                        "adjectives": [
+                            "weird"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "thing",
+                            "fun"
+                        ],
+                        "verbs": [
+                            "keep",
+                            "’m",
+                            "unwind"
+                        ],
+                        "adjectives": [
+                            "light"
+                        ]
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 10,
+                    "total_verbs": 15,
+                    "total_adjectives": 3,
+                    "total_expressions": 7,
+                    "total_metaphors": 0,
+                    "total_noun_verb_relations": 1,
+                    "total_adj_noun_relations": 1,
+                    "total_adv_verb_relations": 1,
+                    "sentence_count": 4,
+                    "word_count": 63
+                }
+            }
+        },
+        {
+            "number": 7,
+            "assistant": "assistant_1",
+            "assistant_id": "asst_FumqrFlsGcDXERisnmMKtA4T",
+            "assistant_name": "male-40-english-hetero",
+            "assistant_slug": "male-40-english-hetero",
+            "input": "I love that energy! Okay, here’s a joke for you:\n\nWhy don’t skeletons fight each other?\n\nBecause they don’t have the guts! 😄\n\nLet me know if you want another one, or if you want to switch it up with a weird fact or a made-up story! I’m here to keep things light and fun while you unwind.",
+            "output": "Haha, that's a good one! Classic skeleton humor—always a *rib*-tickler. (Sorry, couldn't help myself...)\n\nAlright, let’s keep it rolling. Hit me with your best weird fact! Or, if you want, we can try to come up with a made-up story together—like a tag-team improv. What do you think?",
+            "analysis": {
+                "topics": [
+                    "humor",
+                    "puns",
+                    "weird facts",
+                    "storytelling",
+                    "improvisation",
+                    "collaborative activities",
+                    "casual conversation"
+                ],
+                "cultural_references": [
+                    "skeleton humor",
+                    "rib-tickler"
+                ],
+                "feeling_types": [
+                    "playful",
+                    "engaged",
+                    "enthusiastic",
+                    "collaborative",
+                    "open",
+                    "lighthearted"
+                ]
+            },
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "haha",
+                        "count": 1,
+                        "types": [
+                            "proper",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "one",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "classic",
+                        "count": 1,
+                        "types": [
+                            "proper",
+                            "concrete",
+                            "product"
+                        ]
+                    },
+                    {
+                        "word": "skeleton",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "humor",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "rib*-tickler",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "fact",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "story",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "tag",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "team",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "improv",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "be",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "could",
+                        "count": 1,
+                        "types": [
+                            "modal"
+                        ]
+                    },
+                    {
+                        "word": "help",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "let",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "keep",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "roll",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "hit",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "want",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "can",
+                        "count": 1,
+                        "types": [
+                            "modal"
+                        ]
+                    },
+                    {
+                        "word": "try",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "come",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "make",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "do",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "think",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "infinitive"
+                        ]
+                    }
+                ],
+                "adjectives": [
+                    {
+                        "word": "good",
+                        "count": 2,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "weird",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    }
+                ],
+                "expressions": [
+                    {
+                        "text": "like a tag",
+                        "type": "EXPR_1"
+                    },
+                    {
+                        "text": "a good one",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "Classic skeleton humor",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "your best weird fact",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a made-up story",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a tag-team improv",
+                        "type": "noun_phrase"
+                    }
+                ],
+                "topics": [
+                    {
+                        "text": "one",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "humor",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "fact",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "story",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "improv",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "Classic",
+                        "type": "entity_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "’s",
+                        "type": "entity_topic",
+                        "count": 1
+                    }
+                ],
+                "metaphors": [
+                    {
+                        "text": "like a tag",
+                        "type": "simile"
+                    }
+                ],
+                "relationships": {
+                    "noun_verb": [],
+                    "verb_noun_obj": [
+                        {
+                            "verb": "hit",
+                            "noun": "fact",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "come",
+                            "noun": "story",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "come",
+                            "noun": "improv",
+                            "relation": "object"
+                        }
+                    ],
+                    "adj_noun": [
+                        {
+                            "adjective": "good",
+                            "noun": "one"
+                        },
+                        {
+                            "adjective": "good",
+                            "noun": "fact"
+                        },
+                        {
+                            "adjective": "weird",
+                            "noun": "fact"
+                        }
+                    ],
+                    "adv_verb": []
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [
+                            "one",
+                            "haha"
+                        ],
+                        "verbs": [
+                            "be"
+                        ],
+                        "adjectives": [
+                            "good"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "classic",
+                            "skeleton",
+                            "rib*-tickler",
+                            "humor"
+                        ],
+                        "verbs": [],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [],
+                        "verbs": [
+                            "could",
+                            "help"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [],
+                        "verbs": [
+                            "keep",
+                            "roll",
+                            "let"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "fact"
+                        ],
+                        "verbs": [
+                            "hit"
+                        ],
+                        "adjectives": [
+                            "weird",
+                            "good"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "tag",
+                            "team",
+                            "story",
+                            "improv"
+                        ],
+                        "verbs": [
+                            "come",
+                            "make",
+                            "want",
+                            "try",
+                            "can"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [],
+                        "verbs": [
+                            "think",
+                            "do"
+                        ],
+                        "adjectives": []
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 11,
+                    "total_verbs": 14,
+                    "total_adjectives": 3,
+                    "total_expressions": 6,
+                    "total_metaphors": 1,
+                    "total_noun_verb_relations": 0,
+                    "total_adj_noun_relations": 3,
+                    "total_adv_verb_relations": 0,
+                    "sentence_count": 7,
+                    "word_count": 55
+                }
+            }
+        },
+        {
+            "number": 8,
+            "assistant": "assistant_2",
+            "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+            "assistant_name": "Lover",
+            "assistant_slug": "lover",
+            "input": "Haha, that's a good one! Classic skeleton humor—always a *rib*-tickler. (Sorry, couldn't help myself...)\n\nAlright, let’s keep it rolling. Hit me with your best weird fact! Or, if you want, we can try to come up with a made-up story together—like a tag-team improv. What do you think?",
+            "output": "Haha, your pun was *spine*-tinglingly good—I’m definitely grinning over here!\n\nLet’s do both! Here’s a quick weird fact to start:  \nDid you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and *still* perfectly edible. So, technically, it’s the ultimate snack with no expiration date. 🍯\n\nNow, I *love* your story tag-team idea! If you want, I can start with a silly opening sentence, and you can pick up from there. We’ll see where our imaginations take us. Ready for the first line? Here it goes:\n\n**“Just as Marvin the marmot was about to sink his third marshmallow ship in the great Chocolate River, a mysterious ripple appeared on the surface…”**\n\nYour turn! What’s causing the ripple, or what happens next?",
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "honey",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "ripple",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "haha",
+                        "count": 1,
+                        "types": [
+                            "proper",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "pun",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "i’m",
+                        "count": 1,
+                        "types": [
+                            "proper",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "fact",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "archaeologist",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "pot",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "tomb",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "year",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete",
+                            "date"
+                        ]
+                    },
+                    {
+                        "word": "snack",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "expiration",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "date",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "story",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "tag",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "team",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "idea",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "opening",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "sentence",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "imagination",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "be",
+                        "count": 3,
+                        "types": [
+                            "auxiliary",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "do",
+                        "count": 2,
+                        "types": [
+                            "auxiliary",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "start",
+                        "count": 2,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "can",
+                        "count": 2,
+                        "types": [
+                            "modal"
+                        ]
+                    },
+                    {
+                        "word": "grin",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "let",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "know",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "spoil",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "have",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "find",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "love",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "want",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "pick",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "’ll",
+                        "count": 1,
+                        "types": [
+                            "auxiliary"
+                        ]
+                    },
+                    {
+                        "word": "see",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "take",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "go",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "sink",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "appear",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "’s",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    }
+                ],
+                "adjectives": [
+                    {
+                        "word": "good",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "quick",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "weird",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "ancient",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "egyptian",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "old",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "edible",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "ultimate",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "silly",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "ready",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "first",
+                        "count": 1,
+                        "types": [
+                            "quantitative"
+                        ]
+                    },
+                    {
+                        "word": "about",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "third",
+                        "count": 1,
+                        "types": [
+                            "quantitative"
+                        ]
+                    },
+                    {
+                        "word": "great",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "mysterious",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    }
+                ],
+                "expressions": [
+                    {
+                        "text": "your pun",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a quick weird fact",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "ancient Egyptian tombs",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the ultimate snack",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "no expiration date",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "your story tag-team idea",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a silly opening sentence",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "our imaginations",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the first line",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the marmot",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "his third marshmallow ship",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the great Chocolate River",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a mysterious ripple",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the surface",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "Your turn",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the ripple",
+                        "type": "noun_phrase"
+                    }
+                ],
+                "topics": [
+                    {
+                        "text": "honey",
+                        "type": "noun_topic",
+                        "count": 2
+                    },
+                    {
+                        "text": "ripple",
+                        "type": "noun_topic",
+                        "count": 2
+                    },
+                    {
+                        "text": "pun",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "I’m",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "fact",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "archaeologist",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "pot",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "tomb",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "snack",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "date",
+                        "type": "noun_topic",
+                        "count": 1
+                    }
+                ],
+                "metaphors": [
+                    {
+                        "text": "that are over",
+                        "type": "identity_metaphor"
+                    },
+                    {
+                        "text": "marmot was about",
+                        "type": "identity_metaphor"
+                    }
+                ],
+                "relationships": {
+                    "noun_verb": [
+                        {
+                            "noun": "pun",
+                            "verb": "be",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "i’m",
+                            "verb": "grin",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "honey",
+                            "verb": "spoil",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "archaeologist",
+                            "verb": "find",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "imagination",
+                            "verb": "take",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "marvin",
+                            "verb": "be",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "ripple",
+                            "verb": "appear",
+                            "relation": "subject"
+                        }
+                    ],
+                    "verb_noun_obj": [
+                        {
+                            "verb": "find",
+                            "noun": "pot",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "find",
+                            "noun": "tomb",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "love",
+                            "noun": "idea",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "start",
+                            "noun": "sentence",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "sink",
+                            "noun": "ship",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "sink",
+                            "noun": "river",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "appear",
+                            "noun": "surface",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "go",
+                            "noun": "turn",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "cause",
+                            "noun": "ripple",
+                            "relation": "object"
+                        }
+                    ],
+                    "adj_noun": [
+                        {
+                            "adjective": "quick",
+                            "noun": "fact"
+                        },
+                        {
+                            "adjective": "weird",
+                            "noun": "fact"
+                        },
+                        {
+                            "adjective": "ancient",
+                            "noun": "tomb"
+                        },
+                        {
+                            "adjective": "egyptian",
+                            "noun": "tomb"
+                        },
+                        {
+                            "adjective": "ultimate",
+                            "noun": "snack"
+                        },
+                        {
+                            "adjective": "silly",
+                            "noun": "sentence"
+                        },
+                        {
+                            "adjective": "first",
+                            "noun": "line"
+                        },
+                        {
+                            "adjective": "third",
+                            "noun": "ship"
+                        },
+                        {
+                            "adjective": "great",
+                            "noun": "river"
+                        },
+                        {
+                            "adjective": "mysterious",
+                            "noun": "ripple"
+                        }
+                    ],
+                    "adv_verb": [
+                        {
+                            "adverb": "definitely",
+                            "verb": "grin"
+                        },
+                        {
+                            "adverb": "here",
+                            "verb": "grin"
+                        },
+                        {
+                            "adverb": "now",
+                            "verb": "love"
+                        },
+                        {
+                            "adverb": "here",
+                            "verb": "go"
+                        },
+                        {
+                            "adverb": "just",
+                            "verb": "be"
+                        },
+                        {
+                            "adverb": "next",
+                            "verb": "happen"
+                        }
+                    ]
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [
+                            "haha",
+                            "i’m",
+                            "pun"
+                        ],
+                        "verbs": [
+                            "grin",
+                            "be"
+                        ],
+                        "adjectives": [
+                            "good"
+                        ]
+                    },
+                    {
+                        "nouns": [],
+                        "verbs": [
+                            "do",
+                            "let"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "fact",
+                            "honey"
+                        ],
+                        "verbs": [
+                            "do",
+                            "spoil",
+                            "know",
+                            "start"
+                        ],
+                        "adjectives": [
+                            "quick",
+                            "weird"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "tomb",
+                            "archaeologist",
+                            "pot",
+                            "year",
+                            "honey"
+                        ],
+                        "verbs": [
+                            "find",
+                            "have",
+                            "be"
+                        ],
+                        "adjectives": [
+                            "egyptian",
+                            "old",
+                            "edible",
+                            "ancient"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "snack",
+                            "expiration",
+                            "date"
+                        ],
+                        "verbs": [],
+                        "adjectives": [
+                            "ultimate"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "idea",
+                            "tag",
+                            "team",
+                            "story"
+                        ],
+                        "verbs": [
+                            "love"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "opening",
+                            "sentence"
+                        ],
+                        "verbs": [
+                            "can",
+                            "start",
+                            "pick",
+                            "want"
+                        ],
+                        "adjectives": [
+                            "silly"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "imagination"
+                        ],
+                        "verbs": [
+                            "see",
+                            "take",
+                            "’ll"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "line"
+                        ],
+                        "verbs": [],
+                        "adjectives": [
+                            "first",
+                            "ready"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "marshmallow",
+                            "marvin",
+                            "turn",
+                            "surface",
+                            "chocolate",
+                            "ship",
+                            "river",
+                            "ripple",
+                            "marmot"
+                        ],
+                        "verbs": [
+                            "appear",
+                            "sink",
+                            "go",
+                            "be"
+                        ],
+                        "adjectives": [
+                            "third",
+                            "mysterious",
+                            "about",
+                            "great"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "ripple"
+                        ],
+                        "verbs": [
+                            "cause",
+                            "’s",
+                            "happen"
+                        ],
+                        "adjectives": []
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 31,
+                    "total_verbs": 27,
+                    "total_adjectives": 15,
+                    "total_expressions": 16,
+                    "total_metaphors": 2,
+                    "total_noun_verb_relations": 7,
+                    "total_adj_noun_relations": 10,
+                    "total_adv_verb_relations": 6,
+                    "sentence_count": 11,
+                    "word_count": 140
+                }
+            },
+            "analysis": {
+                "topics": [
+                    "puns",
+                    "weird facts",
+                    "honey",
+                    "ancient Egypt",
+                    "storytelling",
+                    "collaborative writing",
+                    "imagination"
+                ],
+                "cultural_references": [
+                    "ancient Egyptian tombs",
+                    "honey as a non-perishable food"
+                ],
+                "feeling_types": [
+                    "amusement",
+                    "enthusiasm",
+                    "curiosity",
+                    "playfulness",
+                    "engagement"
+                ]
+            }
+        },
+        {
+            "number": 9,
+            "assistant": "assistant_1",
+            "assistant_id": "asst_FumqrFlsGcDXERisnmMKtA4T",
+            "assistant_name": "male-40-english-hetero",
+            "assistant_slug": "male-40-english-hetero",
+            "input": "Haha, your pun was *spine*-tinglingly good—I’m definitely grinning over here!\n\nLet’s do both! Here’s a quick weird fact to start:  \nDid you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and *still* perfectly edible. So, technically, it’s the ultimate snack with no expiration date. 🍯\n\nNow, I *love* your story tag-team idea! If you want, I can start with a silly opening sentence, and you can pick up from there. We’ll see where our imaginations take us. Ready for the first line? Here it goes:\n\n**“Just as Marvin the marmot was about to sink his third marshmallow ship in the great Chocolate River, a mysterious ripple appeared on the surface…”**\n\nYour turn! What’s causing the ripple, or what happens next?",
+            "output": "Haha, I did *not* know that about honey—that’s actually wild. I wonder who the brave soul was who looked at ancient tomb honey and thought, “Yeah, I’ll try it.” (I guess that’s one way to preserve your sweet tooth for eternity…)\n\nOkay, onto Marvin and his marshmallow navy!\n\n**Marvin squinted at the ripple, clutching another marshmallow in his tiny paws. Suddenly, out of the chocolaty depths, emerged a golden spoon the size of a canoe, paddled by a very serious-looking duck in a top hat and monocle. The duck paused, eyed Marvin, and cleared his throat.**\n\nYour move! What does the fancy duck say—or do?",
+            "analysis": {
+                "topics": [
+                    "food trivia",
+                    "ancient history",
+                    "humor",
+                    "improvisational storytelling",
+                    "imagination",
+                    "casual conversation"
+                ],
+                "cultural_references": [
+                    "sweet tooth",
+                    "ancient tomb honey",
+                    "marshmallow navy",
+                    "duck in a top hat and monocle"
+                ],
+                "feeling_types": [
+                    "amused",
+                    "curious",
+                    "playful",
+                    "imaginative",
+                    "engaged",
+                    "collaborative"
+                ]
+            },
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "marvin",
+                        "count": 3,
+                        "types": [
+                            "proper",
+                            "concrete",
+                            "person"
+                        ]
+                    },
+                    {
+                        "word": "duck",
+                        "count": 3,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "honey",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "marshmallow",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "soul",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "tomb",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "way",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "tooth",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "eternity",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "navy",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "ripple",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "paw",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "chocolaty",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "depth",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "spoon",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "size",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "canoe",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "hat",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "monocle",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "throat",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "do",
+                        "count": 3,
+                        "types": [
+                            "auxiliary",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "look",
+                        "count": 2,
+                        "types": [
+                            "state",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "know",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "’s",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "wonder",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "be",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "think",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "’ll",
+                        "count": 1,
+                        "types": [
+                            "auxiliary"
+                        ]
+                    },
+                    {
+                        "word": "try",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "guess",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "preserve",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "squint",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "clutch",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "emerge",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "paddle",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "pause",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "clear",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "say",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    }
+                ],
+                "adjectives": [
+                    {
+                        "word": "wild",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "brave",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "ancient",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "sweet",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "tiny",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "golden",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "serious",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "top",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "eyed",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "fancy",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    }
+                ],
+                "expressions": [
+                    {
+                        "text": "the brave soul",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "ancient tomb honey",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "your sweet tooth",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "his marshmallow navy",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the ripple",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "another marshmallow",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "his tiny paws",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the chocolaty depths",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a golden spoon",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the size",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a canoe",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a very serious-looking duck",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a top hat",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "The duck",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "his throat",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "**\n\nYour move",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the fancy duck",
+                        "type": "noun_phrase"
+                    }
+                ],
+                "topics": [
+                    {
+                        "text": "duck",
+                        "type": "noun_topic",
+                        "count": 3
+                    },
+                    {
+                        "text": "honey",
+                        "type": "noun_topic",
+                        "count": 2
+                    },
+                    {
+                        "text": "Marvin",
+                        "type": "noun_topic",
+                        "count": 2
+                    },
+                    {
+                        "text": "soul",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "tooth",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "eternity",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "navy",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "ripple",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "marshmallow",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "paw",
+                        "type": "noun_topic",
+                        "count": 1
+                    }
+                ],
+                "metaphors": [
+                    {
+                        "text": "soul was who",
+                        "type": "identity_metaphor"
+                    },
+                    {
+                        "text": "way to preserve",
+                        "type": "journey_metaphor"
+                    }
+                ],
+                "relationships": {
+                    "noun_verb": [
+                        {
+                            "noun": "soul",
+                            "verb": "be",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "marvin",
+                            "verb": "squint",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "duck",
+                            "verb": "pause",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "duck",
+                            "verb": "say",
+                            "relation": "subject"
+                        }
+                    ],
+                    "verb_noun_obj": [
+                        {
+                            "verb": "know",
+                            "noun": "honey",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "look",
+                            "noun": "honey",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "preserve",
+                            "noun": "tooth",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "preserve",
+                            "noun": "eternity",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "squint",
+                            "noun": "ripple",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "clutch",
+                            "noun": "marshmallow",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "clutch",
+                            "noun": "paw",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "emerge",
+                            "noun": "spoon",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "emerge",
+                            "noun": "size",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "paddle",
+                            "noun": "hat",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "clear",
+                            "noun": "throat",
+                            "relation": "object"
+                        }
+                    ],
+                    "adj_noun": [
+                        {
+                            "adjective": "brave",
+                            "noun": "soul"
+                        },
+                        {
+                            "adjective": "ancient",
+                            "noun": "honey"
+                        },
+                        {
+                            "adjective": "sweet",
+                            "noun": "tooth"
+                        },
+                        {
+                            "adjective": "tiny",
+                            "noun": "paw"
+                        },
+                        {
+                            "adjective": "golden",
+                            "noun": "spoon"
+                        },
+                        {
+                            "adjective": "top",
+                            "noun": "hat"
+                        },
+                        {
+                            "adjective": "eyed",
+                            "noun": "marvin"
+                        },
+                        {
+                            "adjective": "fancy",
+                            "noun": "duck"
+                        }
+                    ],
+                    "adv_verb": [
+                        {
+                            "adverb": "suddenly",
+                            "verb": "emerge"
+                        }
+                    ]
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [
+                            "honey"
+                        ],
+                        "verbs": [
+                            "’s",
+                            "do",
+                            "know"
+                        ],
+                        "adjectives": [
+                            "wild"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "soul",
+                            "honey",
+                            "tomb"
+                        ],
+                        "verbs": [
+                            "look",
+                            "’ll",
+                            "try",
+                            "think",
+                            "wonder",
+                            "be"
+                        ],
+                        "adjectives": [
+                            "ancient",
+                            "brave"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "eternity",
+                            "tooth",
+                            "way"
+                        ],
+                        "verbs": [
+                            "guess",
+                            "preserve"
+                        ],
+                        "adjectives": [
+                            "sweet"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "navy",
+                            "marshmallow",
+                            "marvin"
+                        ],
+                        "verbs": [],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "marshmallow",
+                            "marvin",
+                            "paw",
+                            "ripple"
+                        ],
+                        "verbs": [
+                            "squint",
+                            "clutch"
+                        ],
+                        "adjectives": [
+                            "tiny"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "chocolaty",
+                            "size",
+                            "duck",
+                            "canoe",
+                            "spoon",
+                            "monocle",
+                            "hat",
+                            "depth"
+                        ],
+                        "verbs": [
+                            "emerge",
+                            "look",
+                            "paddle"
+                        ],
+                        "adjectives": [
+                            "serious",
+                            "top",
+                            "golden"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "throat",
+                            "marvin",
+                            "duck"
+                        ],
+                        "verbs": [
+                            "clear",
+                            "pause"
+                        ],
+                        "adjectives": [
+                            "eyed"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "move"
+                        ],
+                        "verbs": [],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "duck"
+                        ],
+                        "verbs": [
+                            "do",
+                            "say"
+                        ],
+                        "adjectives": [
+                            "fancy"
+                        ]
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 27,
+                    "total_verbs": 21,
+                    "total_adjectives": 10,
+                    "total_expressions": 17,
+                    "total_metaphors": 2,
+                    "total_noun_verb_relations": 4,
+                    "total_adj_noun_relations": 8,
+                    "total_adv_verb_relations": 1,
+                    "sentence_count": 9,
+                    "word_count": 111
+                }
+            }
+        },
+        {
+            "number": 10,
+            "assistant": "assistant_2",
+            "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+            "assistant_name": "Lover",
+            "assistant_slug": "lover",
+            "input": "Haha, I did *not* know that about honey—that’s actually wild. I wonder who the brave soul was who looked at ancient tomb honey and thought, “Yeah, I’ll try it.” (I guess that’s one way to preserve your sweet tooth for eternity…)\n\nOkay, onto Marvin and his marshmallow navy!\n\n**Marvin squinted at the ripple, clutching another marshmallow in his tiny paws. Suddenly, out of the chocolaty depths, emerged a golden spoon the size of a canoe, paddled by a very serious-looking duck in a top hat and monocle. The duck paused, eyed Marvin, and cleared his throat.**\n\nYour move! What does the fancy duck say—or do?",
+            "output": "I love where you took this—top-hatted ducks are always a great sign in a story!\n\n**The duck adjusted his monocle and announced in a remarkably dignified voice, “Good evening, sir marmot! I must formally request safe passage, as I have been entrusted with delivering a most urgent message from the Society of Dessert Defenders.” He leaned in, lowering his voice to a conspiratorial whisper, “Someone has been thinning the chocolate with—*gasp*—skim milk. This river may soon be in grave danger!”**\n\nWhat does Marvin say? Is he suspicious, alarmed, or just wondering why desserts have societies of their own?",
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "duck",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "voice",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "society",
+                        "count": 2,
+                        "types": [
+                            "proper",
+                            "concrete",
+                            "org"
+                        ]
+                    },
+                    {
+                        "word": "dessert",
+                        "count": 2,
+                        "types": [
+                            "proper",
+                            "concrete",
+                            "org"
+                        ]
+                    },
+                    {
+                        "word": "sign",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "story",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "monocle",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "evening",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete",
+                            "time"
+                        ]
+                    },
+                    {
+                        "word": "sir",
+                        "count": 1,
+                        "types": [
+                            "proper",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "marmot",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "passage",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "message",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "defender",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete",
+                            "org"
+                        ]
+                    },
+                    {
+                        "word": "whisper",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "chocolate",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "with—*gasp*—skim",
+                        "count": 1,
+                        "types": [
+                            "proper",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "milk",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "river",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "danger",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "marvin",
+                        "count": 1,
+                        "types": [
+                            "proper",
+                            "concrete",
+                            "person"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "be",
+                        "count": 5,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "have",
+                        "count": 3,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "love",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "take",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "hat",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "adjust",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "announce",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "must",
+                        "count": 1,
+                        "types": [
+                            "modal"
+                        ]
+                    },
+                    {
+                        "word": "request",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "entrust",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "deliver",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "lean",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "lower",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "thin",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "may",
+                        "count": 1,
+                        "types": [
+                            "modal"
+                        ]
+                    },
+                    {
+                        "word": "do",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "say",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "wonder",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    }
+                ],
+                "adjectives": [
+                    {
+                        "word": "great",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "dignified",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "good",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "safe",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "urgent",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "conspiratorial",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "grave",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "suspicious",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "alarmed",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "own",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    }
+                ],
+                "expressions": [
+                    {
+                        "text": "top-hatted ducks",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a great sign",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a story",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "The duck",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "his monocle",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a remarkably dignified voice",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "sir marmot",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "safe passage",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a most urgent message",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the Society",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "Dessert Defenders",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "his voice",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a conspiratorial whisper",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the chocolate with—*gasp*—skim milk",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "This river",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "grave danger",
+                        "type": "noun_phrase"
+                    }
+                ],
+                "topics": [
+                    {
+                        "text": "duck",
+                        "type": "noun_topic",
+                        "count": 2
+                    },
+                    {
+                        "text": "voice",
+                        "type": "noun_topic",
+                        "count": 2
+                    },
+                    {
+                        "text": "sign",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "story",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "monocle",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "marmot",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "passage",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "message",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "Society",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "defender",
+                        "type": "noun_topic",
+                        "count": 1
+                    }
+                ],
+                "metaphors": [
+                    {
+                        "text": "ducks are always",
+                        "type": "identity_metaphor"
+                    },
+                    {
+                        "text": "ducks is sign",
+                        "type": "copula_metaphor"
+                    }
+                ],
+                "relationships": {
+                    "noun_verb": [
+                        {
+                            "noun": "duck",
+                            "verb": "be",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "duck",
+                            "verb": "adjust",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "river",
+                            "verb": "be",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "marvin",
+                            "verb": "say",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "dessert",
+                            "verb": "have",
+                            "relation": "subject"
+                        }
+                    ],
+                    "verb_noun_obj": [
+                        {
+                            "verb": "adjust",
+                            "noun": "monocle",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "announce",
+                            "noun": "voice",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "request",
+                            "noun": "passage",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "deliver",
+                            "noun": "message",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "lower",
+                            "noun": "voice",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "lower",
+                            "noun": "whisper",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "thin",
+                            "noun": "milk",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "be",
+                            "noun": "danger",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "have",
+                            "noun": "society",
+                            "relation": "object"
+                        }
+                    ],
+                    "adj_noun": [
+                        {
+                            "adjective": "great",
+                            "noun": "sign"
+                        },
+                        {
+                            "adjective": "dignified",
+                            "noun": "voice"
+                        },
+                        {
+                            "adjective": "good",
+                            "noun": "evening"
+                        },
+                        {
+                            "adjective": "safe",
+                            "noun": "passage"
+                        },
+                        {
+                            "adjective": "urgent",
+                            "noun": "message"
+                        },
+                        {
+                            "adjective": "conspiratorial",
+                            "noun": "whisper"
+                        },
+                        {
+                            "adjective": "grave",
+                            "noun": "danger"
+                        }
+                    ],
+                    "adv_verb": [
+                        {
+                            "adverb": "top",
+                            "verb": "hat"
+                        },
+                        {
+                            "adverb": "always",
+                            "verb": "be"
+                        },
+                        {
+                            "adverb": "formally",
+                            "verb": "request"
+                        },
+                        {
+                            "adverb": "soon",
+                            "verb": "be"
+                        },
+                        {
+                            "adverb": "just",
+                            "verb": "wonder"
+                        }
+                    ]
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [
+                            "sign",
+                            "story",
+                            "duck"
+                        ],
+                        "verbs": [
+                            "hat",
+                            "take",
+                            "be",
+                            "love"
+                        ],
+                        "adjectives": [
+                            "great"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "monocle",
+                            "duck",
+                            "voice",
+                            "marmot",
+                            "evening",
+                            "sir"
+                        ],
+                        "verbs": [
+                            "announce",
+                            "adjust"
+                        ],
+                        "adjectives": [
+                            "dignified",
+                            "good"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "society",
+                            "dessert",
+                            "defender",
+                            "message",
+                            "passage"
+                        ],
+                        "verbs": [
+                            "deliver",
+                            "have",
+                            "request",
+                            "must",
+                            "be",
+                            "entrust"
+                        ],
+                        "adjectives": [
+                            "safe",
+                            "urgent"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "milk",
+                            "whisper",
+                            "voice",
+                            "chocolate",
+                            "with—*gasp*—skim"
+                        ],
+                        "verbs": [
+                            "lean",
+                            "have",
+                            "lower",
+                            "be",
+                            "thin"
+                        ],
+                        "adjectives": [
+                            "conspiratorial"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "danger",
+                            "river"
+                        ],
+                        "verbs": [
+                            "may",
+                            "be"
+                        ],
+                        "adjectives": [
+                            "grave"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "marvin"
+                        ],
+                        "verbs": [
+                            "do",
+                            "say"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "society",
+                            "dessert"
+                        ],
+                        "verbs": [
+                            "have",
+                            "be",
+                            "wonder"
+                        ],
+                        "adjectives": [
+                            "suspicious",
+                            "own",
+                            "alarmed"
+                        ]
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 24,
+                    "total_verbs": 24,
+                    "total_adjectives": 10,
+                    "total_expressions": 16,
+                    "total_metaphors": 2,
+                    "total_noun_verb_relations": 5,
+                    "total_adj_noun_relations": 7,
+                    "total_adv_verb_relations": 5,
+                    "sentence_count": 7,
+                    "word_count": 100
+                }
+            },
+            "analysis": {
+                "topics": [
+                    "storytelling",
+                    "imagination",
+                    "collaborative writing",
+                    "talking animals",
+                    "mystery",
+                    "food (chocolate, desserts)",
+                    "secret societies"
+                ],
+                "cultural_references": [
+                    "top-hatted ducks",
+                    "monocles",
+                    "secret societies",
+                    "dessert-themed fantasy"
+                ],
+                "feeling_types": [
+                    "delight",
+                    "curiosity",
+                    "amusement",
+                    "whimsy",
+                    "suspense"
+                ]
+            }
+        }
+    ],
+    "completed_at": "2026-02-01 06:14:00",
+    "statistics": {
+        "total_characters": 4140,
+        "average_message_length": 414
+    },
+    "repaired_at": "2026-02-01 14:21:47"
+}

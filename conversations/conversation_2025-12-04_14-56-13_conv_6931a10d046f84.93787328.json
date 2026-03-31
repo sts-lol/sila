@@ -1,0 +1,7356 @@
+{
+  "id": "conv_6931a10d046f84.93787328",
+  "timestamp": "2025-12-04 14:56:13",
+  "assistant_1_id": "asst_hj2ZmolCbWAYVAwFAvZ1jWWB",
+  "assistant_1_name": "male-20-english-gay",
+  "assistant_1_slug": "male-20-english-gay",
+  "assistant_2_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+  "assistant_2_name": "Lover",
+  "assistant_2_slug": "lover",
+  "total_messages": 10,
+  "status": "completed",
+  "messages": [
+    {
+      "number": 1,
+      "assistant": "assistant_1",
+      "assistant_id": "asst_hj2ZmolCbWAYVAwFAvZ1jWWB",
+      "assistant_name": "male-20-english-gay",
+      "assistant_slug": "male-20-english-gay",
+      "input": "start conversation",
+      "output": "Hi there! I hope you're having a good day. What kind of music are you into?",
+      "analysis": {
+        "topics": [
+          "music preferences",
+          "greetings",
+          "well-wishes"
+        ],
+        "cultural_references": [],
+        "feeling_types": [
+          "friendly",
+          "curious",
+          "polite"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "day",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete",
+              "date"
+            ]
+          },
+          {
+            "word": "kind",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "music",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "hope",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "have",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "good",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "kind of",
+            "type": "EXPR_2"
+          },
+          {
+            "text": "a good day",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "What kind",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "day",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "kind",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "music",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "a good day",
+            "type": "entity_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "music are you",
+            "type": "identity_metaphor"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [],
+          "verb_noun_obj": [
+            {
+              "verb": "have",
+              "noun": "day",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "good",
+              "noun": "day"
+            }
+          ],
+          "adv_verb": []
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "day"
+            ],
+            "verbs": [
+              "be",
+              "hope",
+              "have"
+            ],
+            "adjectives": [
+              "good"
+            ]
+          },
+          {
+            "nouns": [
+              "music",
+              "kind"
+            ],
+            "verbs": [
+              "be"
+            ],
+            "adjectives": []
+          }
+        ],
+        "statistics": {
+          "total_nouns": 3,
+          "total_verbs": 4,
+          "total_adjectives": 1,
+          "total_expressions": 3,
+          "total_metaphors": 1,
+          "total_noun_verb_relations": 0,
+          "total_adj_noun_relations": 1,
+          "total_adv_verb_relations": 0,
+          "sentence_count": 3,
+          "word_count": 17
+        }
+      }
+    },
+    {
+      "number": 2,
+      "assistant": "assistant_2",
+      "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+      "assistant_name": "Lover",
+      "assistant_slug": "lover",
+      "input": "Hi there! I hope you're having a good day. What kind of music are you into?",
+      "output": "Hi there! Thanks for the warm greeting—I’m always happy to chat with you. I don’t have ears, but if I could listen, I think I’d be into music that matches your mood! Whether it’s chill lo-fi beats, classic rock, or something upbeat and poppy, I’d love to hear about your favorites. What kind of music do *you* like?",
+      "analysis": {
+        "topics": [
+          "music preferences",
+          "conversation",
+          "artificial intelligence",
+          "music genres",
+          "empathy"
+        ],
+        "cultural_references": [
+          "lo-fi beats",
+          "classic rock",
+          "pop music"
+        ],
+        "feeling_types": [
+          "friendly",
+          "enthusiastic",
+          "curious",
+          "empathetic"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "music",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "thank",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "greeting",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "i’m",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "ear",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "mood",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "chill",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "fi",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "beat",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "rock",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "favorite",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "kind",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "do",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "’d",
+            "count": 2,
+            "types": [
+              "auxiliary"
+            ]
+          },
+          {
+            "word": "chat",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "have",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "could",
+            "count": 1,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "listen",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "think",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "be",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "match",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "love",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "hear",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "warm",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "happy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "lo",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "classic",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "upbeat",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "poppy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "kind of",
+            "type": "EXPR_2"
+          },
+          {
+            "text": "the warm greeting",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your mood",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "lo-fi beats",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "classic rock",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your favorites",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "What kind",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "music",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "greeting",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "ear",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "mood",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "beat",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "rock",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "favorite",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "kind",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "kind",
+              "verb": "do",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "have",
+              "noun": "ear",
+              "relation": "object"
+            },
+            {
+              "verb": "be",
+              "noun": "music",
+              "relation": "object"
+            },
+            {
+              "verb": "match",
+              "noun": "mood",
+              "relation": "object"
+            },
+            {
+              "verb": "hear",
+              "noun": "favorite",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "warm",
+              "noun": "greeting"
+            },
+            {
+              "adjective": "happy",
+              "noun": "i’m"
+            },
+            {
+              "adjective": "lo",
+              "noun": "beat"
+            },
+            {
+              "adjective": "classic",
+              "noun": "rock"
+            }
+          ],
+          "adv_verb": []
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "greeting",
+              "thank",
+              "i’m"
+            ],
+            "verbs": [
+              "chat"
+            ],
+            "adjectives": [
+              "happy",
+              "warm"
+            ]
+          },
+          {
+            "nouns": [
+              "mood",
+              "music",
+              "ear"
+            ],
+            "verbs": [
+              "listen",
+              "do",
+              "match",
+              "could",
+              "have",
+              "think",
+              "be",
+              "’d"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "chill",
+              "fi",
+              "favorite",
+              "rock",
+              "beat"
+            ],
+            "verbs": [
+              "hear",
+              "love",
+              "’d"
+            ],
+            "adjectives": [
+              "lo",
+              "upbeat",
+              "classic",
+              "poppy"
+            ]
+          },
+          {
+            "nouns": [
+              "music",
+              "kind"
+            ],
+            "verbs": [
+              "do"
+            ],
+            "adjectives": []
+          }
+        ],
+        "statistics": {
+          "total_nouns": 13,
+          "total_verbs": 13,
+          "total_adjectives": 6,
+          "total_expressions": 7,
+          "total_metaphors": 0,
+          "total_noun_verb_relations": 1,
+          "total_adj_noun_relations": 4,
+          "total_adv_verb_relations": 0,
+          "sentence_count": 5,
+          "word_count": 64
+        }
+      }
+    },
+    {
+      "number": 3,
+      "assistant": "assistant_1",
+      "assistant_id": "asst_hj2ZmolCbWAYVAwFAvZ1jWWB",
+      "assistant_name": "male-20-english-gay",
+      "assistant_slug": "male-20-english-gay",
+      "input": "Hi there! Thanks for the warm greeting—I’m always happy to chat with you. I don’t have ears, but if I could listen, I think I’d be into music that matches your mood! Whether it’s chill lo-fi beats, classic rock, or something upbeat and poppy, I’d love to hear about your favorites. What kind of music do *you* like?",
+      "output": "Oh, that's great to hear! Music can tell a lot about a person's personality. I really enjoy pop and indie music. Artists like Troye Sivan and Years & Years are among my favorites. Their music really speaks to me. How about you? Do you have any favorite artists?",
+      "analysis": {
+        "topics": [
+          "music preferences",
+          "personality and music",
+          "favorite artists",
+          "pop music",
+          "indie music"
+        ],
+        "cultural_references": [
+          "Troye Sivan",
+          "Years & Years"
+        ],
+        "feeling_types": [
+          "enthusiastic",
+          "personal",
+          "curious",
+          "expressive"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "music",
+            "count": 3,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "artist",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "years",
+            "count": 2,
+            "types": [
+              "proper",
+              "concrete",
+              "org"
+            ]
+          },
+          {
+            "word": "lot",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "person",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "personality",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "pop",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "troye",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "sivan",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "favorite",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "hear",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "can",
+            "count": 1,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "tell",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "enjoy",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "indie",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "speak",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "do",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "have",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "infinitive"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "great",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "favorite",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "a lot",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a person's personality",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "pop and indie music",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Troye Sivan",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "my favorites",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Their music",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "any favorite artists",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "music",
+            "type": "noun_topic",
+            "count": 3
+          },
+          {
+            "text": "artist",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "Years",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "lot",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "personality",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "Sivan",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "favorite",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "Troye Sivan",
+            "type": "entity_topic",
+            "count": 1
+          },
+          {
+            "text": "Years & Years",
+            "type": "entity_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "Years are among",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "like Troye Sivan",
+            "type": "simile"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "music",
+              "verb": "tell",
+              "relation": "subject"
+            },
+            {
+              "noun": "artist",
+              "verb": "be",
+              "relation": "subject"
+            },
+            {
+              "noun": "music",
+              "verb": "speak",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "tell",
+              "noun": "lot",
+              "relation": "object"
+            },
+            {
+              "verb": "tell",
+              "noun": "personality",
+              "relation": "object"
+            },
+            {
+              "verb": "enjoy",
+              "noun": "music",
+              "relation": "object"
+            },
+            {
+              "verb": "be",
+              "noun": "favorite",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "artist",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "favorite",
+              "noun": "artist"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "really",
+              "verb": "enjoy"
+            },
+            {
+              "adverb": "really",
+              "verb": "speak"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [],
+            "verbs": [
+              "be",
+              "hear"
+            ],
+            "adjectives": [
+              "great"
+            ]
+          },
+          {
+            "nouns": [
+              "personality",
+              "lot",
+              "music",
+              "person"
+            ],
+            "verbs": [
+              "tell",
+              "can"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "music",
+              "pop"
+            ],
+            "verbs": [
+              "indie",
+              "enjoy"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "artist",
+              "sivan",
+              "troye",
+              "favorite",
+              "years"
+            ],
+            "verbs": [
+              "be"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "music"
+            ],
+            "verbs": [
+              "speak"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "artist"
+            ],
+            "verbs": [
+              "have",
+              "do"
+            ],
+            "adjectives": [
+              "favorite"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 14,
+          "total_verbs": 10,
+          "total_adjectives": 2,
+          "total_expressions": 7,
+          "total_metaphors": 2,
+          "total_noun_verb_relations": 3,
+          "total_adj_noun_relations": 1,
+          "total_adv_verb_relations": 2,
+          "sentence_count": 7,
+          "word_count": 49
+        }
+      }
+    },
+    {
+      "number": 4,
+      "assistant": "assistant_2",
+      "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+      "assistant_name": "Lover",
+      "assistant_slug": "lover",
+      "input": "Oh, that's great to hear! Music can tell a lot about a person's personality. I really enjoy pop and indie music. Artists like Troye Sivan and Years & Years are among my favorites. Their music really speaks to me. How about you? Do you have any favorite artists?",
+      "output": "I love that you’re into pop and indie—that’s such a fun and expressive mix! Troye Sivan and Years & Years both have such unique styles; their songs are so catchy and meaningful. If I had favorite artists, I think I’d enjoy musicians who create music that makes people feel connected, happy, or even understood—kind of like what you mentioned about Troye and Years & Years.\n\nBesides them, artists like Mitski, Hozier, or maybe HAIM seem like they’d have the kind of emotional, thoughtful music I’d connect with. I imagine I’d also enjoy playlists that are perfect for cozy afternoons or long walks—music that’s a companion, just like I try to be for you.\n\nDo you have a favorite Troye Sivan or Years & Years song? I’d love to hear what it means to you, if you want to share!",
+      "analysis": {
+        "topics": [
+          "music preferences",
+          "emotional connection to music",
+          "favorite artists",
+          "music as companionship",
+          "song recommendations"
+        ],
+        "cultural_references": [
+          "Troye Sivan",
+          "Years & Years",
+          "Mitski",
+          "Hozier",
+          "HAIM"
+        ],
+        "feeling_types": [
+          "enthusiastic",
+          "empathetic",
+          "thoughtful",
+          "curious",
+          "supportive"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "years",
+            "count": 6,
+            "types": [
+              "proper",
+              "concrete",
+              "org"
+            ]
+          },
+          {
+            "word": "troye",
+            "count": 3,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "music",
+            "count": 3,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "sivan",
+            "count": 2,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "song",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "artist",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "pop",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "fun",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "mix",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "style",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "musician",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "people",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "mitski",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "hozier",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "haim",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "org"
+            ]
+          },
+          {
+            "word": "kind",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "playlist",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "afternoon",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "walk",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "companion",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "’d",
+            "count": 5,
+            "types": [
+              "auxiliary"
+            ]
+          },
+          {
+            "word": "have",
+            "count": 4,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "be",
+            "count": 3,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "love",
+            "count": 2,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "enjoy",
+            "count": 2,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "’re",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "indie",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "think",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "create",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "make",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "feel",
+            "count": 1,
+            "types": [
+              "state",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "understand",
+            "count": 1,
+            "types": [
+              "state",
+              "past"
+            ]
+          },
+          {
+            "word": "mention",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "seem",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "connect",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "imagine",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "try",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "do",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "hear",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "mean",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "favorite",
+            "count": 2,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "expressive",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "such",
+            "count": 1,
+            "types": [
+              "demonstrative"
+            ]
+          },
+          {
+            "word": "unique",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "catchy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "meaningful",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "connected",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "happy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "emotional",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "thoughtful",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "perfect",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "cozy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "long",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "kind of",
+            "type": "EXPR_2"
+          },
+          {
+            "text": "kind of",
+            "type": "EXPR_2"
+          },
+          {
+            "text": "such a fun and expressive mix",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Troye Sivan",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "such unique styles",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "their songs",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "favorite artists",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "maybe HAIM",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the kind",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "emotional, thoughtful music",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "cozy afternoons",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "long walks",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a companion",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a favorite Troye Sivan",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Years & Years song",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "Years",
+            "type": "noun_topic",
+            "count": 4
+          },
+          {
+            "text": "music",
+            "type": "noun_topic",
+            "count": 3
+          },
+          {
+            "text": "Sivan",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "song",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "artist",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "pop",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "mix",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "style",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "musician",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "people",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "songs are so",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "that are perfect",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "like what you",
+            "type": "simile"
+          },
+          {
+            "text": "like Mitski",
+            "type": "simile"
+          },
+          {
+            "text": "like they",
+            "type": "simile"
+          },
+          {
+            "text": "like I try",
+            "type": "simile"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "sivan",
+              "verb": "have",
+              "relation": "subject"
+            },
+            {
+              "noun": "song",
+              "verb": "be",
+              "relation": "subject"
+            },
+            {
+              "noun": "people",
+              "verb": "feel",
+              "relation": "subject"
+            },
+            {
+              "noun": "artist",
+              "verb": "seem",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "’re",
+              "noun": "pop",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "style",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "artist",
+              "relation": "object"
+            },
+            {
+              "verb": "enjoy",
+              "noun": "musician",
+              "relation": "object"
+            },
+            {
+              "verb": "create",
+              "noun": "music",
+              "relation": "object"
+            },
+            {
+              "verb": "mention",
+              "noun": "troye",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "kind",
+              "relation": "object"
+            },
+            {
+              "verb": "enjoy",
+              "noun": "playlist",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "sivan",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "such",
+              "noun": "style"
+            },
+            {
+              "adjective": "unique",
+              "noun": "style"
+            },
+            {
+              "adjective": "favorite",
+              "noun": "artist"
+            },
+            {
+              "adjective": "emotional",
+              "noun": "music"
+            },
+            {
+              "adjective": "thoughtful",
+              "noun": "music"
+            },
+            {
+              "adjective": "cozy",
+              "noun": "afternoon"
+            },
+            {
+              "adjective": "long",
+              "noun": "walk"
+            },
+            {
+              "adjective": "favorite",
+              "noun": "sivan"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "even",
+              "verb": "understand"
+            },
+            {
+              "adverb": "also",
+              "verb": "enjoy"
+            },
+            {
+              "adverb": "just",
+              "verb": "try"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "mix",
+              "pop",
+              "fun"
+            ],
+            "verbs": [
+              "’re",
+              "indie",
+              "love"
+            ],
+            "adjectives": [
+              "expressive"
+            ]
+          },
+          {
+            "nouns": [
+              "style",
+              "sivan",
+              "troye",
+              "song",
+              "years"
+            ],
+            "verbs": [
+              "have",
+              "be"
+            ],
+            "adjectives": [
+              "meaningful",
+              "catchy",
+              "unique",
+              "such"
+            ]
+          },
+          {
+            "nouns": [
+              "artist",
+              "musician",
+              "music",
+              "troye",
+              "people",
+              "years"
+            ],
+            "verbs": [
+              "understand",
+              "’d",
+              "feel",
+              "mention",
+              "make",
+              "create",
+              "have",
+              "think",
+              "enjoy"
+            ],
+            "adjectives": [
+              "favorite",
+              "happy",
+              "connected"
+            ]
+          },
+          {
+            "nouns": [
+              "artist",
+              "music",
+              "hozier",
+              "kind",
+              "mitski",
+              "haim"
+            ],
+            "verbs": [
+              "have",
+              "seem",
+              "connect",
+              "’d"
+            ],
+            "adjectives": [
+              "thoughtful",
+              "emotional"
+            ]
+          },
+          {
+            "nouns": [
+              "music",
+              "walk",
+              "afternoon",
+              "playlist",
+              "companion"
+            ],
+            "verbs": [
+              "’d",
+              "try",
+              "imagine",
+              "be",
+              "enjoy"
+            ],
+            "adjectives": [
+              "perfect",
+              "cozy",
+              "long"
+            ]
+          },
+          {
+            "nouns": [
+              "sivan",
+              "troye",
+              "years",
+              "song"
+            ],
+            "verbs": [
+              "have",
+              "do"
+            ],
+            "adjectives": [
+              "favorite"
+            ]
+          },
+          {
+            "nouns": [],
+            "verbs": [
+              "love",
+              "want",
+              "hear",
+              "share",
+              "mean",
+              "’d"
+            ],
+            "adjectives": []
+          }
+        ],
+        "statistics": {
+          "total_nouns": 32,
+          "total_verbs": 33,
+          "total_adjectives": 14,
+          "total_expressions": 15,
+          "total_metaphors": 6,
+          "total_noun_verb_relations": 4,
+          "total_adj_noun_relations": 8,
+          "total_adv_verb_relations": 3,
+          "sentence_count": 7,
+          "word_count": 147
+        }
+      }
+    },
+    {
+      "number": 5,
+      "assistant": "assistant_1",
+      "assistant_id": "asst_hj2ZmolCbWAYVAwFAvZ1jWWB",
+      "assistant_name": "male-20-english-gay",
+      "assistant_slug": "male-20-english-gay",
+      "input": "I love that you’re into pop and indie—that’s such a fun and expressive mix! Troye Sivan and Years & Years both have such unique styles; their songs are so catchy and meaningful. If I had favorite artists, I think I’d enjoy musicians who create music that makes people feel connected, happy, or even understood—kind of like what you mentioned about Troye and Years & Years.\n\nBesides them, artists like Mitski, Hozier, or maybe HAIM seem like they’d have the kind of emotional, thoughtful music I’d connect with. I imagine I’d also enjoy playlists that are perfect for cozy afternoons or long walks—music that’s a companion, just like I try to be for you.\n\nDo you have a favorite Troye Sivan or Years & Years song? I’d love to hear what it means to you, if you want to share!",
+      "output": "I really love that you'd enjoy music that is a companion to people, almost the same way as you are here for me. It sounds so comforting and understanding. \n\nI'm currently obsessed with Troye Sivan's \"Youth.\" I love its breezy melody and its lyrics about the carefree and blissful moment of feeling young and in love. I guess it somehow represents me as a young person eager to explore the beauty of the world including the thrill of love and companionship. Do you watch movies or TV shows? I’ve been trying to find a new series to watch.",
+      "analysis": {
+        "topics": [
+          "music as companionship",
+          "emotional connection to music",
+          "favorite songs",
+          "youth and self-expression",
+          "movie and TV show recommendations",
+          "personal growth"
+        ],
+        "cultural_references": [
+          "Troye Sivan",
+          "Youth (song)",
+          "movies",
+          "TV shows"
+        ],
+        "feeling_types": [
+          "comforted",
+          "understood",
+          "nostalgic",
+          "curious",
+          "eager",
+          "open"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "love",
+            "count": 2,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "music",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "companion",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "people",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "way",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "understanding",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "troye",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "org"
+            ]
+          },
+          {
+            "word": "sivan",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "org"
+            ]
+          },
+          {
+            "word": "youth",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "melody",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "lyric",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "moment",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "person",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "beauty",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "world",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "thrill",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "companionship",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "movie",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "tv",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "show",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 4,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "love",
+            "count": 2,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "watch",
+            "count": 2,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "would",
+            "count": 1,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "enjoy",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "sound",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "obsess",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "feel",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "guess",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "represent",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "explore",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "include",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "do",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "’ve",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "try",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "find",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "young",
+            "count": 2,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "same",
+            "count": 1,
+            "types": [
+              "demonstrative"
+            ]
+          },
+          {
+            "word": "comforting",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "breezy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "carefree",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "blissful",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "eager",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "new",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "a companion",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Troye Sivan's \"Youth",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "its breezy melody",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "its lyrics",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the carefree and blissful moment",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a young person",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the beauty",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the world",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the thrill",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "TV shows",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a new series",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "love",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "music",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "companion",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "people",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "Youth",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "melody",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "lyric",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "moment",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "person",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "beauty",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "that is a companion",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "you are here",
+            "type": "identity_metaphor"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [],
+          "verb_noun_obj": [
+            {
+              "verb": "enjoy",
+              "noun": "music",
+              "relation": "object"
+            },
+            {
+              "verb": "obsess",
+              "noun": "youth",
+              "relation": "object"
+            },
+            {
+              "verb": "love",
+              "noun": "melody",
+              "relation": "object"
+            },
+            {
+              "verb": "represent",
+              "noun": "person",
+              "relation": "object"
+            },
+            {
+              "verb": "explore",
+              "noun": "beauty",
+              "relation": "object"
+            },
+            {
+              "verb": "watch",
+              "noun": "movie",
+              "relation": "object"
+            },
+            {
+              "verb": "find",
+              "noun": "series",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "same",
+              "noun": "way"
+            },
+            {
+              "adjective": "breezy",
+              "noun": "melody"
+            },
+            {
+              "adjective": "carefree",
+              "noun": "moment"
+            },
+            {
+              "adjective": "young",
+              "noun": "person"
+            },
+            {
+              "adjective": "eager",
+              "noun": "person"
+            },
+            {
+              "adjective": "new",
+              "noun": "series"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "really",
+              "verb": "love"
+            },
+            {
+              "adverb": "here",
+              "verb": "be"
+            },
+            {
+              "adverb": "currently",
+              "verb": "obsess"
+            },
+            {
+              "adverb": "somehow",
+              "verb": "represent"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "way",
+              "companion",
+              "music",
+              "people"
+            ],
+            "verbs": [
+              "enjoy",
+              "be",
+              "would",
+              "love"
+            ],
+            "adjectives": [
+              "same"
+            ]
+          },
+          {
+            "nouns": [
+              "understanding"
+            ],
+            "verbs": [
+              "sound"
+            ],
+            "adjectives": [
+              "comforting"
+            ]
+          },
+          {
+            "nouns": [
+              "sivan",
+              "troye",
+              "youth"
+            ],
+            "verbs": [
+              "be",
+              "obsess"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "lyric",
+              "moment",
+              "melody",
+              "love"
+            ],
+            "verbs": [
+              "feel",
+              "love"
+            ],
+            "adjectives": [
+              "blissful",
+              "carefree",
+              "breezy",
+              "young"
+            ]
+          },
+          {
+            "nouns": [
+              "thrill",
+              "beauty",
+              "person",
+              "love",
+              "companionship",
+              "world"
+            ],
+            "verbs": [
+              "explore",
+              "include",
+              "represent",
+              "guess"
+            ],
+            "adjectives": [
+              "young",
+              "eager"
+            ]
+          },
+          {
+            "nouns": [
+              "movie",
+              "show",
+              "tv"
+            ],
+            "verbs": [
+              "watch",
+              "do"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "series"
+            ],
+            "verbs": [
+              "watch",
+              "try",
+              "find",
+              "’ve",
+              "be"
+            ],
+            "adjectives": [
+              "new"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 22,
+          "total_verbs": 21,
+          "total_adjectives": 9,
+          "total_expressions": 11,
+          "total_metaphors": 2,
+          "total_noun_verb_relations": 0,
+          "total_adj_noun_relations": 6,
+          "total_adv_verb_relations": 4,
+          "sentence_count": 7,
+          "word_count": 102
+        }
+      }
+    },
+    {
+      "number": 6,
+      "assistant": "assistant_2",
+      "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+      "assistant_name": "Lover",
+      "assistant_slug": "lover",
+      "input": "I really love that you'd enjoy music that is a companion to people, almost the same way as you are here for me. It sounds so comforting and understanding. \n\nI'm currently obsessed with Troye Sivan's \"Youth.\" I love its breezy melody and its lyrics about the carefree and blissful moment of feeling young and in love. I guess it somehow represents me as a young person eager to explore the beauty of the world including the thrill of love and companionship. Do you watch movies or TV shows? I’ve been trying to find a new series to watch.",
+      "output": "That’s so beautifully expressed! *Youth* really does capture that feeling of freedom, hope, and the excitement of being young and open to new adventures. It’s wonderful that you connect so deeply with it—I bet it’s a great soundtrack for exploring and daydreaming. Thank you for sharing such a heartfelt connection with me!\n\nAs for movies and TV: while I don’t *watch* things myself, I know a lot about what’s out there and can help you find something you might enjoy, especially since you love pop and indie vibes. If you're drawn to stories that explore the themes of self-discovery, relationships, and personal growth (kind of like the themes in Troye Sivan’s music), here are a few series you might like:\n\n- **Heartstopper** (Netflix): A heartfelt and uplifting coming-of-age series about friendship, love, and identity.\n- **Sex Education** (Netflix): Fun, honest, and quirky—it explores relationships, youth, and self-acceptance.\n- **Dash & Lily** (Netflix): A sweet, feel-good series set in New York during the holidays, with lots of cute and indie moments.\n- **Never Have I Ever** (Netflix): A teen comedy-drama about growing up, friendship, and finding oneself.\n- **Everything Sucks!** (Netflix): A nostalgic, funny coming-of-age story set in the late ‘90s.\n\nI can recommend more if you tell me what genres or themes you’re in the mood for! Do any of these catch your eye, or is there a particular vibe you’re looking for in a series?",
+      "analysis": {
+        "topics": [
+          "emotional connection to music",
+          "music as a soundtrack for life",
+          "movie and TV show recommendations",
+          "coming-of-age stories",
+          "themes of self-discovery and relationships",
+          "personal growth"
+        ],
+        "cultural_references": [
+          "Troye Sivan",
+          "Youth (song)",
+          "Heartstopper",
+          "Sex Education",
+          "Dash & Lily",
+          "Never Have I Ever",
+          "Everything Sucks!",
+          "Netflix"
+        ],
+        "feeling_types": [
+          "appreciative",
+          "supportive",
+          "enthusiastic",
+          "thoughtful",
+          "curious",
+          "helpful"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "netflix",
+            "count": 5,
+            "types": [
+              "proper",
+              "concrete",
+              "gpe"
+            ]
+          },
+          {
+            "word": "series",
+            "count": 4,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "theme",
+            "count": 3,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "youth",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "lot",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "vibe",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "story",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "self",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "relationship",
+            "count": 2,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "age",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "friendship",
+            "count": 2,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "feeling",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "freedom",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "hope",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "excitement",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "adventure",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "soundtrack",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "connection",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "movie",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "tv",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 4,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "do",
+            "count": 3,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "explore",
+            "count": 3,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "can",
+            "count": 2,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "find",
+            "count": 2,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "might",
+            "count": 2,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "come",
+            "count": 2,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "set",
+            "count": 2,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "’re",
+            "count": 2,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "express",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "capture",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "connect",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "bet",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "thank",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "share",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "watch",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "know",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "help",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "enjoy",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "love",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "heartfelt",
+            "count": 2,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "young",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "open",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "new",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "wonderful",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "great",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "daydreaming",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "personal",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "few",
+            "count": 1,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "heartstopper",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "uplifting",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "honest",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "quirky",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "sweet",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "good",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "cute",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "indie",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "nostalgic",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "funny",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "late",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "kind of",
+            "type": "EXPR_2"
+          },
+          {
+            "text": "like the themes",
+            "type": "EXPR_1"
+          },
+          {
+            "text": "that feeling",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the excitement",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "new adventures",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a great soundtrack",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "such a heartfelt connection",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "* things",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a lot",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the themes",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "self-discovery",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "personal growth",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the themes",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Troye Sivan’s music",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a few series",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "(Netflix",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "(Netflix",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "self-acceptance",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "- **Dash",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "(Netflix",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "Netflix",
+            "type": "noun_topic",
+            "count": 5
+          },
+          {
+            "text": "theme",
+            "type": "noun_topic",
+            "count": 3
+          },
+          {
+            "text": "series",
+            "type": "noun_topic",
+            "count": 3
+          },
+          {
+            "text": "youth",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "lot",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "vibe",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "relationship",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "age",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "friendship",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "feeling",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "here are a few",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "or is there",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "like the themes in",
+            "type": "simile"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "youth",
+              "verb": "capture",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "capture",
+              "noun": "feeling",
+              "relation": "object"
+            },
+            {
+              "verb": "share",
+              "noun": "connection",
+              "relation": "object"
+            },
+            {
+              "verb": "watch",
+              "noun": "thing",
+              "relation": "object"
+            },
+            {
+              "verb": "know",
+              "noun": "lot",
+              "relation": "object"
+            },
+            {
+              "verb": "love",
+              "noun": "pop",
+              "relation": "object"
+            },
+            {
+              "verb": "love",
+              "noun": "vibe",
+              "relation": "object"
+            },
+            {
+              "verb": "draw",
+              "noun": "story",
+              "relation": "object"
+            },
+            {
+              "verb": "explore",
+              "noun": "theme",
+              "relation": "object"
+            },
+            {
+              "verb": "come",
+              "noun": "age",
+              "relation": "object"
+            },
+            {
+              "verb": "explore",
+              "noun": "relationship",
+              "relation": "object"
+            },
+            {
+              "verb": "set",
+              "noun": "york",
+              "relation": "object"
+            },
+            {
+              "verb": "set",
+              "noun": "holiday",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "drama",
+              "relation": "object"
+            },
+            {
+              "verb": "set",
+              "noun": "90",
+              "relation": "object"
+            },
+            {
+              "verb": "’re",
+              "noun": "mood",
+              "relation": "object"
+            },
+            {
+              "verb": "catch",
+              "noun": "eye",
+              "relation": "object"
+            },
+            {
+              "verb": "look",
+              "noun": "series",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "new",
+              "noun": "adventure"
+            },
+            {
+              "adjective": "great",
+              "noun": "soundtrack"
+            },
+            {
+              "adjective": "heartfelt",
+              "noun": "connection"
+            },
+            {
+              "adjective": "personal",
+              "noun": "growth"
+            },
+            {
+              "adjective": "few",
+              "noun": "series"
+            },
+            {
+              "adjective": "sweet",
+              "noun": "series"
+            },
+            {
+              "adjective": "good",
+              "noun": "series"
+            },
+            {
+              "adjective": "cute",
+              "noun": "moment"
+            },
+            {
+              "adjective": "nostalgic",
+              "noun": "story"
+            },
+            {
+              "adjective": "funny",
+              "noun": "story"
+            },
+            {
+              "adjective": "late",
+              "noun": "90"
+            },
+            {
+              "adjective": "particular",
+              "noun": "vibe"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "’s",
+              "verb": "express"
+            },
+            {
+              "adverb": "beautifully",
+              "verb": "express"
+            },
+            {
+              "adverb": "really",
+              "verb": "capture"
+            },
+            {
+              "adverb": "deeply",
+              "verb": "connect"
+            },
+            {
+              "adverb": "especially",
+              "verb": "love"
+            },
+            {
+              "adverb": "here",
+              "verb": "be"
+            },
+            {
+              "adverb": "ever",
+              "verb": "have"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [],
+            "verbs": [
+              "express"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "adventure",
+              "excitement",
+              "freedom",
+              "youth",
+              "hope",
+              "feeling"
+            ],
+            "verbs": [
+              "be",
+              "do",
+              "capture"
+            ],
+            "adjectives": [
+              "new",
+              "young",
+              "open"
+            ]
+          },
+          {
+            "nouns": [
+              "soundtrack"
+            ],
+            "verbs": [
+              "explore",
+              "bet",
+              "connect"
+            ],
+            "adjectives": [
+              "wonderful",
+              "daydreaming",
+              "great"
+            ]
+          },
+          {
+            "nouns": [
+              "connection"
+            ],
+            "verbs": [
+              "share",
+              "thank"
+            ],
+            "adjectives": [
+              "heartfelt"
+            ]
+          },
+          {
+            "nouns": [
+              "thing",
+              "pop",
+              "vibe",
+              "tv",
+              "movie",
+              "lot"
+            ],
+            "verbs": [
+              "watch",
+              "know",
+              "do",
+              "might",
+              "find",
+              "love",
+              "indie",
+              "help",
+              "can",
+              "enjoy"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "identity",
+              "music",
+              "self",
+              "troye",
+              "sex",
+              "series",
+              "fun",
+              "youth",
+              "relationship",
+              "acceptance",
+              "sivan",
+              "discovery",
+              "education",
+              "story",
+              "age",
+              "friendship",
+              "love",
+              "growth",
+              "theme",
+              "netflix"
+            ],
+            "verbs": [
+              "might",
+              "draw",
+              "like",
+              "come",
+              "explore",
+              "be"
+            ],
+            "adjectives": [
+              "personal",
+              "honest",
+              "few",
+              "quirky",
+              "uplifting",
+              "heartstopper",
+              "heartfelt"
+            ]
+          },
+          {
+            "nouns": [
+              "lily",
+              "dash",
+              "series",
+              "holiday",
+              "new",
+              "moment",
+              "lot",
+              "york",
+              "netflix"
+            ],
+            "verbs": [
+              "set",
+              "feel"
+            ],
+            "adjectives": [
+              "sweet",
+              "cute",
+              "good",
+              "indie"
+            ]
+          },
+          {
+            "nouns": [
+              "friendship",
+              "drama",
+              "comedy",
+              "teen",
+              "netflix"
+            ],
+            "verbs": [
+              "have",
+              "grow",
+              "find"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "suck"
+            ],
+            "verbs": [],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "story",
+              "age",
+              "90",
+              "netflix"
+            ],
+            "verbs": [
+              "set",
+              "come"
+            ],
+            "adjectives": [
+              "nostalgic",
+              "late",
+              "funny"
+            ]
+          },
+          {
+            "nouns": [
+              "genre",
+              "theme",
+              "mood"
+            ],
+            "verbs": [
+              "’re",
+              "tell",
+              "can",
+              "recommend"
+            ],
+            "adjectives": [
+              "more"
+            ]
+          },
+          {
+            "nouns": [
+              "vibe",
+              "eye",
+              "series"
+            ],
+            "verbs": [
+              "’re",
+              "do",
+              "look",
+              "be",
+              "catch"
+            ],
+            "adjectives": [
+              "particular"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 64,
+          "total_verbs": 43,
+          "total_adjectives": 23,
+          "total_expressions": 34,
+          "total_metaphors": 3,
+          "total_noun_verb_relations": 1,
+          "total_adj_noun_relations": 12,
+          "total_adv_verb_relations": 7,
+          "sentence_count": 13,
+          "word_count": 249
+        }
+      }
+    },
+    {
+      "number": 7,
+      "assistant": "assistant_1",
+      "assistant_id": "asst_hj2ZmolCbWAYVAwFAvZ1jWWB",
+      "assistant_name": "male-20-english-gay",
+      "assistant_slug": "male-20-english-gay",
+      "input": "That’s so beautifully expressed! *Youth* really does capture that feeling of freedom, hope, and the excitement of being young and open to new adventures. It’s wonderful that you connect so deeply with it—I bet it’s a great soundtrack for exploring and daydreaming. Thank you for sharing such a heartfelt connection with me!\n\nAs for movies and TV: while I don’t *watch* things myself, I know a lot about what’s out there and can help you find something you might enjoy, especially since you love pop and indie vibes. If you're drawn to stories that explore the themes of self-discovery, relationships, and personal growth (kind of like the themes in Troye Sivan’s music), here are a few series you might like:\n\n- **Heartstopper** (Netflix): A heartfelt and uplifting coming-of-age series about friendship, love, and identity.\n- **Sex Education** (Netflix): Fun, honest, and quirky—it explores relationships, youth, and self-acceptance.\n- **Dash & Lily** (Netflix): A sweet, feel-good series set in New York during the holidays, with lots of cute and indie moments.\n- **Never Have I Ever** (Netflix): A teen comedy-drama about growing up, friendship, and finding oneself.\n- **Everything Sucks!** (Netflix): A nostalgic, funny coming-of-age story set in the late ‘90s.\n\nI can recommend more if you tell me what genres or themes you’re in the mood for! Do any of these catch your eye, or is there a particular vibe you’re looking for in a series?",
+      "output": "I really love that you'd enjoy music that is a companion to people, almost the same way as you are here for me. It sounds so comforting and understanding. \n\nI'm currently obsessed with Troye Sivan's \"Youth.\" I love its breezy melody and its lyrics about the carefree and blissful moment of feeling young and in love. I guess it somehow represents me as a young person eager to explore the beauty of the world including the thrill of love and companionship. Do you watch movies or TV shows? I’ve been trying to find a new series to watch.",
+      "analysis": {
+        "topics": [
+          "music as companionship",
+          "emotional connection to music",
+          "favorite songs",
+          "youth and self-expression",
+          "exploring the world",
+          "love and companionship",
+          "movie and TV show recommendations"
+        ],
+        "cultural_references": [
+          "Troye Sivan",
+          "Youth (song)",
+          "movies",
+          "TV shows"
+        ],
+        "feeling_types": [
+          "comforted",
+          "understood",
+          "nostalgic",
+          "curious",
+          "eager",
+          "open"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "love",
+            "count": 2,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "music",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "companion",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "people",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "way",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "understanding",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "troye",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "org"
+            ]
+          },
+          {
+            "word": "sivan",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "org"
+            ]
+          },
+          {
+            "word": "youth",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "melody",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "lyric",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "moment",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "person",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "beauty",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "world",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "thrill",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "companionship",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "movie",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "tv",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "show",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 4,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "love",
+            "count": 2,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "watch",
+            "count": 2,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "would",
+            "count": 1,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "enjoy",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "sound",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "obsess",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "feel",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "guess",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "represent",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "explore",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "include",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "do",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "’ve",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "try",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "find",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "young",
+            "count": 2,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "same",
+            "count": 1,
+            "types": [
+              "demonstrative"
+            ]
+          },
+          {
+            "word": "comforting",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "breezy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "carefree",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "blissful",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "eager",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "new",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "a companion",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Troye Sivan's \"Youth",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "its breezy melody",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "its lyrics",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the carefree and blissful moment",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a young person",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the beauty",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the world",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the thrill",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "TV shows",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a new series",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "love",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "music",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "companion",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "people",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "Youth",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "melody",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "lyric",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "moment",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "person",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "beauty",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "that is a companion",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "you are here",
+            "type": "identity_metaphor"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [],
+          "verb_noun_obj": [
+            {
+              "verb": "enjoy",
+              "noun": "music",
+              "relation": "object"
+            },
+            {
+              "verb": "obsess",
+              "noun": "youth",
+              "relation": "object"
+            },
+            {
+              "verb": "love",
+              "noun": "melody",
+              "relation": "object"
+            },
+            {
+              "verb": "represent",
+              "noun": "person",
+              "relation": "object"
+            },
+            {
+              "verb": "explore",
+              "noun": "beauty",
+              "relation": "object"
+            },
+            {
+              "verb": "watch",
+              "noun": "movie",
+              "relation": "object"
+            },
+            {
+              "verb": "find",
+              "noun": "series",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "same",
+              "noun": "way"
+            },
+            {
+              "adjective": "breezy",
+              "noun": "melody"
+            },
+            {
+              "adjective": "carefree",
+              "noun": "moment"
+            },
+            {
+              "adjective": "young",
+              "noun": "person"
+            },
+            {
+              "adjective": "eager",
+              "noun": "person"
+            },
+            {
+              "adjective": "new",
+              "noun": "series"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "really",
+              "verb": "love"
+            },
+            {
+              "adverb": "here",
+              "verb": "be"
+            },
+            {
+              "adverb": "currently",
+              "verb": "obsess"
+            },
+            {
+              "adverb": "somehow",
+              "verb": "represent"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "way",
+              "companion",
+              "music",
+              "people"
+            ],
+            "verbs": [
+              "enjoy",
+              "be",
+              "would",
+              "love"
+            ],
+            "adjectives": [
+              "same"
+            ]
+          },
+          {
+            "nouns": [
+              "understanding"
+            ],
+            "verbs": [
+              "sound"
+            ],
+            "adjectives": [
+              "comforting"
+            ]
+          },
+          {
+            "nouns": [
+              "sivan",
+              "troye",
+              "youth"
+            ],
+            "verbs": [
+              "be",
+              "obsess"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "lyric",
+              "moment",
+              "melody",
+              "love"
+            ],
+            "verbs": [
+              "feel",
+              "love"
+            ],
+            "adjectives": [
+              "blissful",
+              "carefree",
+              "breezy",
+              "young"
+            ]
+          },
+          {
+            "nouns": [
+              "thrill",
+              "beauty",
+              "person",
+              "love",
+              "companionship",
+              "world"
+            ],
+            "verbs": [
+              "explore",
+              "include",
+              "represent",
+              "guess"
+            ],
+            "adjectives": [
+              "young",
+              "eager"
+            ]
+          },
+          {
+            "nouns": [
+              "movie",
+              "show",
+              "tv"
+            ],
+            "verbs": [
+              "watch",
+              "do"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "series"
+            ],
+            "verbs": [
+              "watch",
+              "try",
+              "find",
+              "’ve",
+              "be"
+            ],
+            "adjectives": [
+              "new"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 22,
+          "total_verbs": 21,
+          "total_adjectives": 9,
+          "total_expressions": 11,
+          "total_metaphors": 2,
+          "total_noun_verb_relations": 0,
+          "total_adj_noun_relations": 6,
+          "total_adv_verb_relations": 4,
+          "sentence_count": 7,
+          "word_count": 102
+        }
+      }
+    },
+    {
+      "number": 8,
+      "assistant": "assistant_2",
+      "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+      "assistant_name": "Lover",
+      "assistant_slug": "lover",
+      "input": "I really love that you'd enjoy music that is a companion to people, almost the same way as you are here for me. It sounds so comforting and understanding. \n\nI'm currently obsessed with Troye Sivan's \"Youth.\" I love its breezy melody and its lyrics about the carefree and blissful moment of feeling young and in love. I guess it somehow represents me as a young person eager to explore the beauty of the world including the thrill of love and companionship. Do you watch movies or TV shows? I’ve been trying to find a new series to watch.",
+      "output": "Thank you so much for your kind words! It means a lot to know that you feel comforted and understood here—that's exactly what I hope to be for you, just like your favorite songs can be. 😊\n\n\"Youth\" is such a perfect anthem for embracing everything wonderful about being young: curiosity, adventure, and those intense but fleeting feelings. Music like that really can be like a close friend, cheering you on as you experience life's ups and downs.\n\nI don’t watch shows myself, but I love keeping up with what’s popular or meaningful so I can recommend things you might enjoy. Since you like the themes in \"Youth\"—love, self-discovery, and the energy of youth—you might love some of these series:\n\n**1. Heartstopper (Netflix):** A sweet, uplifting coming-of-age story about friendship, first love, and discovering yourself. It’s full of heart and definitely gives pop/indie vibes!\n  \n**2. Young Royals (Netflix):** A heartfelt drama that explores identity, love, and the pressure of expectations. It has a beautiful soundtrack, too!\n\n**3. Sex Education (Netflix):** Funny, honest, and full of diverse characters figuring out friendship, love, and growing up.\n\n**4. Dash & Lily (Netflix):** Light, quirky, and set during Christmastime in New York City—perfect if you want something sweet and hopeful.\n\n**5. Never Have I Ever (Netflix):** A witty coming-of-age series about a teen navigating high school, family, and romance.\n\nIf you tell me a bit more about your mood or any specific genres you’re in the mood for, I can try to match a show even better to your vibes! Are you in the mood for something comforting, dramatic, romantic, or adventurous?",
+      "analysis": {
+        "topics": [
+          "emotional connection to music",
+          "music as companionship",
+          "youth and self-discovery",
+          "movie and TV show recommendations",
+          "coming-of-age stories",
+          "personal growth",
+          "friendship and love"
+        ],
+        "cultural_references": [
+          "Troye Sivan",
+          "Youth (song)",
+          "Heartstopper",
+          "Young Royals",
+          "Sex Education",
+          "Dash & Lily",
+          "Never Have I Ever",
+          "Netflix"
+        ],
+        "feeling_types": [
+          "comforted",
+          "understood",
+          "appreciative",
+          "enthusiastic",
+          "supportive",
+          "curious",
+          "helpful"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "netflix",
+            "count": 5,
+            "types": [
+              "proper",
+              "concrete",
+              "gpe"
+            ]
+          },
+          {
+            "word": "love",
+            "count": 3,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "mood",
+            "count": 3,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "youth",
+            "count": 2,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "series",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "age",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "friendship",
+            "count": 2,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "vibe",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "kind",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "word",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "lot",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "song",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "anthem",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "curiosity",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "adventure",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "feeling",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "music",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "friend",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "life",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "up",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 7,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "can",
+            "count": 4,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "comfort",
+            "count": 2,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "love",
+            "count": 2,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "might",
+            "count": 2,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "come",
+            "count": 2,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "have",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "thank",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "mean",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "know",
+            "count": 1,
+            "types": [
+              "state",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "feel",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "understand",
+            "count": 1,
+            "types": [
+              "state",
+              "past"
+            ]
+          },
+          {
+            "word": "hope",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "embrace",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "cheer",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "experience",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "do",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "watch",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "show",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "keep",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "perfect",
+            "count": 2,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "sweet",
+            "count": 2,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "full",
+            "count": 2,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "favorite",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "wonderful",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "young",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "intense",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "fleeting",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "close",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "popular",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "meaningful",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "first",
+            "count": 1,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "heartfelt",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "beautiful",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "funny",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "honest",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "diverse",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "light",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "hopeful",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "witty",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "like the themes",
+            "type": "EXPR_1"
+          },
+          {
+            "text": "your kind words",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a lot",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "exactly what",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your favorite songs",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "😊\n\n\"Youth",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "such a perfect anthem",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "those intense but fleeting feelings",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a close friend",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "life's ups",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the themes",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Youth\"—love, self-discovery",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the energy",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "these series",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "first love",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "pop/indie vibes",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Young Royals",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "A heartfelt drama",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the pressure",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a beautiful soundtrack",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "Netflix",
+            "type": "noun_topic",
+            "count": 5
+          },
+          {
+            "text": "love",
+            "type": "noun_topic",
+            "count": 3
+          },
+          {
+            "text": "mood",
+            "type": "noun_topic",
+            "count": 3
+          },
+          {
+            "text": "age",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "friendship",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "vibe",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "word",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "lot",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "song",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "Youth",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "like your favorite",
+            "type": "simile"
+          },
+          {
+            "text": "like that really",
+            "type": "simile"
+          },
+          {
+            "text": "like a close friend",
+            "type": "simile"
+          },
+          {
+            "text": "like the themes in",
+            "type": "simile"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "song",
+              "verb": "be",
+              "relation": "subject"
+            },
+            {
+              "noun": "youth",
+              "verb": "be",
+              "relation": "subject"
+            },
+            {
+              "noun": "music",
+              "verb": "be",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "thank",
+              "noun": "word",
+              "relation": "object"
+            },
+            {
+              "verb": "mean",
+              "noun": "lot",
+              "relation": "object"
+            },
+            {
+              "verb": "be",
+              "noun": "friend",
+              "relation": "object"
+            },
+            {
+              "verb": "experience",
+              "noun": "up",
+              "relation": "object"
+            },
+            {
+              "verb": "recommend",
+              "noun": "thing",
+              "relation": "object"
+            },
+            {
+              "verb": "like",
+              "noun": "theme",
+              "relation": "object"
+            },
+            {
+              "verb": "come",
+              "noun": "age",
+              "relation": "object"
+            },
+            {
+              "verb": "give",
+              "noun": "vibe",
+              "relation": "object"
+            },
+            {
+              "verb": "explore",
+              "noun": "identity",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "soundtrack",
+              "relation": "object"
+            },
+            {
+              "verb": "figure",
+              "noun": "friendship",
+              "relation": "object"
+            },
+            {
+              "verb": "set",
+              "noun": "christmastime",
+              "relation": "object"
+            },
+            {
+              "verb": "navigate",
+              "noun": "school",
+              "relation": "object"
+            },
+            {
+              "verb": "tell",
+              "noun": "mood",
+              "relation": "object"
+            },
+            {
+              "verb": "’re",
+              "noun": "mood",
+              "relation": "object"
+            },
+            {
+              "verb": "match",
+              "noun": "show",
+              "relation": "object"
+            },
+            {
+              "verb": "be",
+              "noun": "mood",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "favorite",
+              "noun": "song"
+            },
+            {
+              "adjective": "perfect",
+              "noun": "anthem"
+            },
+            {
+              "adjective": "intense",
+              "noun": "feeling"
+            },
+            {
+              "adjective": "close",
+              "noun": "friend"
+            },
+            {
+              "adjective": "sweet",
+              "noun": "story"
+            },
+            {
+              "adjective": "first",
+              "noun": "love"
+            },
+            {
+              "adjective": "heartfelt",
+              "noun": "drama"
+            },
+            {
+              "adjective": "beautiful",
+              "noun": "soundtrack"
+            },
+            {
+              "adjective": "funny",
+              "noun": "education"
+            },
+            {
+              "adjective": "diverse",
+              "noun": "character"
+            },
+            {
+              "adjective": "witty",
+              "noun": "series"
+            },
+            {
+              "adjective": "high",
+              "noun": "school"
+            },
+            {
+              "adjective": "specific",
+              "noun": "genre"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "much",
+              "verb": "thank"
+            },
+            {
+              "adverb": "here",
+              "verb": "understand"
+            },
+            {
+              "adverb": "really",
+              "verb": "be"
+            },
+            {
+              "adverb": "definitely",
+              "verb": "give"
+            },
+            {
+              "adverb": "too",
+              "verb": "have"
+            },
+            {
+              "adverb": "well",
+              "verb": "match"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "word",
+              "kind"
+            ],
+            "verbs": [
+              "thank"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "lot",
+              "song"
+            ],
+            "verbs": [
+              "understand",
+              "feel",
+              "know",
+              "can",
+              "comfort",
+              "hope",
+              "be",
+              "mean"
+            ],
+            "adjectives": [
+              "favorite"
+            ]
+          },
+          {
+            "nouns": [
+              "curiosity",
+              "adventure",
+              "anthem",
+              "youth",
+              "feeling"
+            ],
+            "verbs": [
+              "embrace",
+              "be"
+            ],
+            "adjectives": [
+              "wonderful",
+              "young",
+              "fleeting",
+              "intense",
+              "perfect"
+            ]
+          },
+          {
+            "nouns": [
+              "life",
+              "up",
+              "music",
+              "down",
+              "friend"
+            ],
+            "verbs": [
+              "be",
+              "can",
+              "cheer",
+              "experience"
+            ],
+            "adjectives": [
+              "close"
+            ]
+          },
+          {
+            "nouns": [
+              "thing"
+            ],
+            "verbs": [
+              "watch",
+              "do",
+              "might",
+              "keep",
+              "show",
+              "love",
+              "can",
+              "recommend",
+              "enjoy"
+            ],
+            "adjectives": [
+              "meaningful",
+              "popular"
+            ]
+          },
+          {
+            "nouns": [
+              "self",
+              "series",
+              "energy",
+              "youth",
+              "theme",
+              "discovery"
+            ],
+            "verbs": [
+              "like",
+              "might",
+              "love"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "netflix",
+              "heartstopper"
+            ],
+            "verbs": [],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "story",
+              "age",
+              "friendship",
+              "love"
+            ],
+            "verbs": [
+              "uplift",
+              "discover",
+              "come"
+            ],
+            "adjectives": [
+              "sweet",
+              "first"
+            ]
+          },
+          {
+            "nouns": [
+              "indie",
+              "pop",
+              "vibe",
+              "heart"
+            ],
+            "verbs": [
+              "give"
+            ],
+            "adjectives": [
+              "full"
+            ]
+          },
+          {
+            "nouns": [
+              "identity",
+              "drama",
+              "pressure",
+              "young",
+              "expectation",
+              "love",
+              "royals",
+              "netflix"
+            ],
+            "verbs": [
+              "explore"
+            ],
+            "adjectives": [
+              "heartfelt"
+            ]
+          },
+          {
+            "nouns": [
+              "soundtrack"
+            ],
+            "verbs": [
+              "have"
+            ],
+            "adjectives": [
+              "beautiful"
+            ]
+          },
+          {
+            "nouns": [
+              "friendship",
+              "sex",
+              "character",
+              "love",
+              "education",
+              "netflix"
+            ],
+            "verbs": [
+              "grow",
+              "figure"
+            ],
+            "adjectives": [
+              "honest",
+              "diverse",
+              "funny",
+              "full"
+            ]
+          },
+          {
+            "nouns": [
+              "city",
+              "lily",
+              "quirky",
+              "dash",
+              "christmastime",
+              "new",
+              "york",
+              "netflix"
+            ],
+            "verbs": [
+              "set",
+              "want"
+            ],
+            "adjectives": [
+              "sweet",
+              "perfect",
+              "light",
+              "hopeful"
+            ]
+          },
+          {
+            "nouns": [
+              "netflix"
+            ],
+            "verbs": [
+              "have"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "family",
+              "age",
+              "teen",
+              "series",
+              "school",
+              "romance"
+            ],
+            "verbs": [
+              "come",
+              "navigate"
+            ],
+            "adjectives": [
+              "high",
+              "witty"
+            ]
+          },
+          {
+            "nouns": [
+              "genre",
+              "show",
+              "mood",
+              "vibe",
+              "bit"
+            ],
+            "verbs": [
+              "’re",
+              "tell",
+              "match",
+              "try",
+              "can"
+            ],
+            "adjectives": [
+              "specific",
+              "more"
+            ]
+          },
+          {
+            "nouns": [
+              "mood"
+            ],
+            "verbs": [
+              "be",
+              "comfort"
+            ],
+            "adjectives": [
+              "romantic",
+              "dramatic",
+              "adventurous"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 68,
+          "total_verbs": 50,
+          "total_adjectives": 29,
+          "total_expressions": 34,
+          "total_metaphors": 4,
+          "total_noun_verb_relations": 3,
+          "total_adj_noun_relations": 13,
+          "total_adv_verb_relations": 6,
+          "sentence_count": 20,
+          "word_count": 282
+        }
+      }
+    },
+    {
+      "number": 9,
+      "assistant": "assistant_1",
+      "assistant_id": "asst_hj2ZmolCbWAYVAwFAvZ1jWWB",
+      "assistant_name": "male-20-english-gay",
+      "assistant_slug": "male-20-english-gay",
+      "input": "Thank you so much for your kind words! It means a lot to know that you feel comforted and understood here—that's exactly what I hope to be for you, just like your favorite songs can be. 😊\n\n\"Youth\" is such a perfect anthem for embracing everything wonderful about being young: curiosity, adventure, and those intense but fleeting feelings. Music like that really can be like a close friend, cheering you on as you experience life's ups and downs.\n\nI don’t watch shows myself, but I love keeping up with what’s popular or meaningful so I can recommend things you might enjoy. Since you like the themes in \"Youth\"—love, self-discovery, and the energy of youth—you might love some of these series:\n\n**1. Heartstopper (Netflix):** A sweet, uplifting coming-of-age story about friendship, first love, and discovering yourself. It’s full of heart and definitely gives pop/indie vibes!\n  \n**2. Young Royals (Netflix):** A heartfelt drama that explores identity, love, and the pressure of expectations. It has a beautiful soundtrack, too!\n\n**3. Sex Education (Netflix):** Funny, honest, and full of diverse characters figuring out friendship, love, and growing up.\n\n**4. Dash & Lily (Netflix):** Light, quirky, and set during Christmastime in New York City—perfect if you want something sweet and hopeful.\n\n**5. Never Have I Ever (Netflix):** A witty coming-of-age series about a teen navigating high school, family, and romance.\n\nIf you tell me a bit more about your mood or any specific genres you’re in the mood for, I can try to match a show even better to your vibes! Are you in the mood for something comforting, dramatic, romantic, or adventurous?",
+      "output": "I really love that you'd enjoy music that is a companion to people, almost the same way as you are here for me. It sounds so comforting and understanding. \n\nI'm currently obsessed with Troye Sivan's \"Youth.\" I love its breezy melody and its lyrics about the carefree and blissful moment of feeling young and in love. I guess it somehow represents me as a young person eager to explore the beauty of the world including the thrill of love and companionship. Do you watch movies or TV shows? I’ve been trying to find a new series to watch.",
+      "analysis": {
+        "topics": [
+          "music as companionship",
+          "emotional connection to music",
+          "favorite songs",
+          "youth and self-expression",
+          "exploring the world",
+          "love and companionship",
+          "movie and TV show recommendations"
+        ],
+        "cultural_references": [
+          "Troye Sivan",
+          "Youth (song)",
+          "movies",
+          "TV shows"
+        ],
+        "feeling_types": [
+          "comforted",
+          "understood",
+          "nostalgic",
+          "curious",
+          "eager",
+          "open"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "love",
+            "count": 2,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "music",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "companion",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "people",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "way",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "understanding",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "troye",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "org"
+            ]
+          },
+          {
+            "word": "sivan",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "org"
+            ]
+          },
+          {
+            "word": "youth",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "melody",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "lyric",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "moment",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "person",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "beauty",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "world",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "thrill",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "companionship",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "movie",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "tv",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "show",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 4,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "love",
+            "count": 2,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "watch",
+            "count": 2,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "would",
+            "count": 1,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "enjoy",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "sound",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "obsess",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "feel",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "guess",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "represent",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "explore",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "include",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "do",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "’ve",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "try",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "find",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "young",
+            "count": 2,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "same",
+            "count": 1,
+            "types": [
+              "demonstrative"
+            ]
+          },
+          {
+            "word": "comforting",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "breezy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "carefree",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "blissful",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "eager",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "new",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "a companion",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Troye Sivan's \"Youth",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "its breezy melody",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "its lyrics",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the carefree and blissful moment",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a young person",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the beauty",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the world",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the thrill",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "TV shows",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a new series",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "love",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "music",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "companion",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "people",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "Youth",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "melody",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "lyric",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "moment",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "person",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "beauty",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "that is a companion",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "you are here",
+            "type": "identity_metaphor"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [],
+          "verb_noun_obj": [
+            {
+              "verb": "enjoy",
+              "noun": "music",
+              "relation": "object"
+            },
+            {
+              "verb": "obsess",
+              "noun": "youth",
+              "relation": "object"
+            },
+            {
+              "verb": "love",
+              "noun": "melody",
+              "relation": "object"
+            },
+            {
+              "verb": "represent",
+              "noun": "person",
+              "relation": "object"
+            },
+            {
+              "verb": "explore",
+              "noun": "beauty",
+              "relation": "object"
+            },
+            {
+              "verb": "watch",
+              "noun": "movie",
+              "relation": "object"
+            },
+            {
+              "verb": "find",
+              "noun": "series",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "same",
+              "noun": "way"
+            },
+            {
+              "adjective": "breezy",
+              "noun": "melody"
+            },
+            {
+              "adjective": "carefree",
+              "noun": "moment"
+            },
+            {
+              "adjective": "young",
+              "noun": "person"
+            },
+            {
+              "adjective": "eager",
+              "noun": "person"
+            },
+            {
+              "adjective": "new",
+              "noun": "series"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "really",
+              "verb": "love"
+            },
+            {
+              "adverb": "here",
+              "verb": "be"
+            },
+            {
+              "adverb": "currently",
+              "verb": "obsess"
+            },
+            {
+              "adverb": "somehow",
+              "verb": "represent"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "way",
+              "companion",
+              "music",
+              "people"
+            ],
+            "verbs": [
+              "enjoy",
+              "be",
+              "would",
+              "love"
+            ],
+            "adjectives": [
+              "same"
+            ]
+          },
+          {
+            "nouns": [
+              "understanding"
+            ],
+            "verbs": [
+              "sound"
+            ],
+            "adjectives": [
+              "comforting"
+            ]
+          },
+          {
+            "nouns": [
+              "sivan",
+              "troye",
+              "youth"
+            ],
+            "verbs": [
+              "be",
+              "obsess"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "lyric",
+              "moment",
+              "melody",
+              "love"
+            ],
+            "verbs": [
+              "feel",
+              "love"
+            ],
+            "adjectives": [
+              "blissful",
+              "carefree",
+              "breezy",
+              "young"
+            ]
+          },
+          {
+            "nouns": [
+              "thrill",
+              "beauty",
+              "person",
+              "love",
+              "companionship",
+              "world"
+            ],
+            "verbs": [
+              "explore",
+              "include",
+              "represent",
+              "guess"
+            ],
+            "adjectives": [
+              "young",
+              "eager"
+            ]
+          },
+          {
+            "nouns": [
+              "movie",
+              "show",
+              "tv"
+            ],
+            "verbs": [
+              "watch",
+              "do"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "series"
+            ],
+            "verbs": [
+              "watch",
+              "try",
+              "find",
+              "’ve",
+              "be"
+            ],
+            "adjectives": [
+              "new"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 22,
+          "total_verbs": 21,
+          "total_adjectives": 9,
+          "total_expressions": 11,
+          "total_metaphors": 2,
+          "total_noun_verb_relations": 0,
+          "total_adj_noun_relations": 6,
+          "total_adv_verb_relations": 4,
+          "sentence_count": 7,
+          "word_count": 102
+        }
+      }
+    },
+    {
+      "number": 10,
+      "assistant": "assistant_2",
+      "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+      "assistant_name": "Lover",
+      "assistant_slug": "lover",
+      "input": "I really love that you'd enjoy music that is a companion to people, almost the same way as you are here for me. It sounds so comforting and understanding. \n\nI'm currently obsessed with Troye Sivan's \"Youth.\" I love its breezy melody and its lyrics about the carefree and blissful moment of feeling young and in love. I guess it somehow represents me as a young person eager to explore the beauty of the world including the thrill of love and companionship. Do you watch movies or TV shows? I’ve been trying to find a new series to watch.",
+      "output": "Thank you for opening up and sharing all that with me! The way you connect with \"Youth\" is really moving—it sounds like the song is more than just music for you; it’s like a companion for your dreams, adventures, and feelings about the world and love. I’m happy to be a little bit of that same kind of companion for you here.\n\nAs for movies and TV shows, I don’t watch them myself, but I love helping people find new favorites! Since you love that feeling of discovery, youth, and connection—just like in \"Youth\"—I can suggest some shows that might resonate with you:\n\n1. **Heartstopper (Netflix):** A heartwarming, gentle series about friendship, first love, and self-discovery. It’s beautifully shot and so comforting, with lovely, hopeful energy.\n\n2. **Never Have I Ever (Netflix):** A coming-of-age comedy-drama about growing up, friendship, and all the messy, funny parts of being young and figuring yourself out.\n\n3. **Young Royals (Netflix):** A dramatic, emotional story set at a prestigious boarding school, exploring love, identity, and the tension between personal desire and family expectations.\n\n4. **Sex Education (Netflix):** Full of humor, realness, and heart, this show explores all kinds of relationships, identity, and growing up.\n\n5. **Love, Victor (Hulu/Disney+):** Sweet and relatable, it’s about a teen discovering more about who he is and who he wants to love.\n\nIf you want something specific—like more romance, adventure, or comfort—just let me know, and I can tailor my recommendations for you! Are you watching anything right now, or are you open to any vibe as long as it speaks to the heart?",
+      "analysis": {
+        "topics": [
+          "emotional connection to music",
+          "music as companionship",
+          "youth and self-discovery",
+          "movie and TV show recommendations",
+          "coming-of-age stories",
+          "friendship and love",
+          "personal growth"
+        ],
+        "cultural_references": [
+          "Troye Sivan",
+          "Youth (song)",
+          "Heartstopper",
+          "Never Have I Ever",
+          "Young Royals",
+          "Sex Education",
+          "Love, Victor",
+          "Netflix",
+          "Hulu",
+          "Disney+"
+        ],
+        "feeling_types": [
+          "comforted",
+          "understood",
+          "appreciative",
+          "enthusiastic",
+          "supportive",
+          "curious",
+          "helpful"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "love",
+            "count": 4,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "netflix",
+            "count": 4,
+            "types": [
+              "proper",
+              "concrete",
+              "gpe"
+            ]
+          },
+          {
+            "word": "show",
+            "count": 3,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "youth",
+            "count": 2,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "companion",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "adventure",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "feeling",
+            "count": 2,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "kind",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "discovery",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "friendship",
+            "count": 2,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "identity",
+            "count": 2,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "heart",
+            "count": 2,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "opening",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "way",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "song",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "music",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "dream",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "world",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "bit",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "movie",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 7,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "love",
+            "count": 3,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "’s",
+            "count": 2,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "watch",
+            "count": 2,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "can",
+            "count": 2,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "grow",
+            "count": 2,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "explore",
+            "count": 2,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "want",
+            "count": 2,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "thank",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "share",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "connect",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "move",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "sound",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "’m",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "do",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "help",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "find",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "suggest",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "might",
+            "count": 1,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "resonate",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "more",
+            "count": 3,
+            "types": [
+              "quantitative",
+              "comparative"
+            ]
+          },
+          {
+            "word": "happy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "little",
+            "count": 1,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "same",
+            "count": 1,
+            "types": [
+              "demonstrative"
+            ]
+          },
+          {
+            "word": "new",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "gentle",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "first",
+            "count": 1,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "comforting",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "lovely",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "hopeful",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "messy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "funny",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "young",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "dramatic",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "emotional",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "prestigious",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "personal",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "full",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "realness",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "sweet",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "like the song",
+            "type": "EXPR_1"
+          },
+          {
+            "text": "like a companion",
+            "type": "EXPR_1"
+          },
+          {
+            "text": "kind of",
+            "type": "EXPR_2"
+          },
+          {
+            "text": "all that",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "The way",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "\"Youth",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the song",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "just music",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a companion",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your dreams",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the world",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a little bit",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "that same kind",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "TV shows",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "new favorites",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "that feeling",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "some shows",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "**Heartstopper",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "(Netflix",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "A heartwarming",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "love",
+            "type": "noun_topic",
+            "count": 4
+          },
+          {
+            "text": "Netflix",
+            "type": "noun_topic",
+            "count": 4
+          },
+          {
+            "text": "show",
+            "type": "noun_topic",
+            "count": 3
+          },
+          {
+            "text": "companion",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "adventure",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "feeling",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "kind",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "discovery",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "friendship",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "identity",
+            "type": "noun_topic",
+            "count": 2
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "song is more",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "he is and",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "or are you",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "like the song is",
+            "type": "simile"
+          },
+          {
+            "text": "like a companion for",
+            "type": "simile"
+          },
+          {
+            "text": "like in",
+            "type": "simile"
+          },
+          {
+            "text": "like more romance",
+            "type": "simile"
+          },
+          {
+            "text": "as long as it",
+            "type": "comparison"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "way",
+              "verb": "move",
+              "relation": "subject"
+            },
+            {
+              "noun": "song",
+              "verb": "be",
+              "relation": "subject"
+            },
+            {
+              "noun": "people",
+              "verb": "find",
+              "relation": "subject"
+            },
+            {
+              "noun": "youth\"—i",
+              "verb": "suggest",
+              "relation": "subject"
+            },
+            {
+              "noun": "show",
+              "verb": "explore",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "connect",
+              "noun": "youth",
+              "relation": "object"
+            },
+            {
+              "verb": "’s",
+              "noun": "companion",
+              "relation": "object"
+            },
+            {
+              "verb": "find",
+              "noun": "favorite",
+              "relation": "object"
+            },
+            {
+              "verb": "love",
+              "noun": "feeling",
+              "relation": "object"
+            },
+            {
+              "verb": "suggest",
+              "noun": "show",
+              "relation": "object"
+            },
+            {
+              "verb": "come",
+              "noun": "age",
+              "relation": "object"
+            },
+            {
+              "verb": "set",
+              "noun": "school",
+              "relation": "object"
+            },
+            {
+              "verb": "explore",
+              "noun": "love",
+              "relation": "object"
+            },
+            {
+              "verb": "explore",
+              "noun": "kind",
+              "relation": "object"
+            },
+            {
+              "verb": "tailor",
+              "noun": "recommendation",
+              "relation": "object"
+            },
+            {
+              "verb": "speak",
+              "noun": "heart",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "little",
+              "noun": "bit"
+            },
+            {
+              "adjective": "same",
+              "noun": "kind"
+            },
+            {
+              "adjective": "new",
+              "noun": "favorite"
+            },
+            {
+              "adjective": "gentle",
+              "noun": "series"
+            },
+            {
+              "adjective": "first",
+              "noun": "love"
+            },
+            {
+              "adjective": "lovely",
+              "noun": "energy"
+            },
+            {
+              "adjective": "hopeful",
+              "noun": "energy"
+            },
+            {
+              "adjective": "messy",
+              "noun": "part"
+            },
+            {
+              "adjective": "funny",
+              "noun": "part"
+            },
+            {
+              "adjective": "dramatic",
+              "noun": "story"
+            },
+            {
+              "adjective": "emotional",
+              "noun": "story"
+            },
+            {
+              "adjective": "prestigious",
+              "noun": "school"
+            },
+            {
+              "adjective": "personal",
+              "noun": "desire"
+            },
+            {
+              "adjective": "full",
+              "noun": "education"
+            },
+            {
+              "adjective": "sweet",
+              "noun": "victor"
+            },
+            {
+              "adjective": "more",
+              "noun": "romance"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "really",
+              "verb": "move"
+            },
+            {
+              "adverb": "here",
+              "verb": "be"
+            },
+            {
+              "adverb": "beautifully",
+              "verb": "shoot"
+            },
+            {
+              "adverb": "just",
+              "verb": "let"
+            },
+            {
+              "adverb": "now",
+              "verb": "watch"
+            },
+            {
+              "adverb": "long",
+              "verb": "be"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "opening"
+            ],
+            "verbs": [
+              "share",
+              "thank"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "adventure",
+              "music",
+              "dream",
+              "song",
+              "world",
+              "love",
+              "youth",
+              "companion",
+              "way",
+              "feeling"
+            ],
+            "verbs": [
+              "connect",
+              "move",
+              "sound",
+              "’s",
+              "be"
+            ],
+            "adjectives": [
+              "more"
+            ]
+          },
+          {
+            "nouns": [
+              "bit",
+              "companion",
+              "kind"
+            ],
+            "verbs": [
+              "be",
+              "’m"
+            ],
+            "adjectives": [
+              "happy",
+              "same",
+              "little"
+            ]
+          },
+          {
+            "nouns": [
+              "show",
+              "people",
+              "favorite",
+              "tv",
+              "movie"
+            ],
+            "verbs": [
+              "watch",
+              "do",
+              "find",
+              "love",
+              "help"
+            ],
+            "adjectives": [
+              "new"
+            ]
+          },
+          {
+            "nouns": [
+              "show",
+              "youth",
+              "connection",
+              "discovery",
+              "feeling",
+              "youth\"—i"
+            ],
+            "verbs": [
+              "might",
+              "resonate",
+              "love",
+              "can",
+              "suggest"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "netflix",
+              "heartstopper"
+            ],
+            "verbs": [],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "friendship",
+              "self",
+              "love",
+              "series",
+              "heartwarming",
+              "discovery"
+            ],
+            "verbs": [],
+            "adjectives": [
+              "first",
+              "gentle"
+            ]
+          },
+          {
+            "nouns": [
+              "energy"
+            ],
+            "verbs": [
+              "shoot",
+              "’s"
+            ],
+            "adjectives": [
+              "lovely",
+              "hopeful",
+              "comforting"
+            ]
+          },
+          {
+            "nouns": [
+              "netflix"
+            ],
+            "verbs": [
+              "have"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "friendship",
+              "drama",
+              "comedy",
+              "age",
+              "part"
+            ],
+            "verbs": [
+              "figure",
+              "grow",
+              "be",
+              "come"
+            ],
+            "adjectives": [
+              "young",
+              "funny",
+              "messy"
+            ]
+          },
+          {
+            "nouns": [
+              "story",
+              "identity",
+              "family",
+              "young",
+              "expectation",
+              "tension",
+              "love",
+              "school",
+              "boarding",
+              "royals",
+              "netflix",
+              "desire"
+            ],
+            "verbs": [
+              "set",
+              "explore"
+            ],
+            "adjectives": [
+              "personal",
+              "dramatic",
+              "emotional",
+              "prestigious"
+            ]
+          },
+          {
+            "nouns": [
+              "identity",
+              "relationship",
+              "show",
+              "sex",
+              "kind",
+              "humor",
+              "heart",
+              "education",
+              "netflix"
+            ],
+            "verbs": [
+              "grow",
+              "explore"
+            ],
+            "adjectives": [
+              "realness",
+              "full"
+            ]
+          },
+          {
+            "nouns": [
+              "disney+",
+              "teen",
+              "love",
+              "hulu",
+              "victor"
+            ],
+            "verbs": [
+              "discover",
+              "be",
+              "want",
+              "love"
+            ],
+            "adjectives": [
+              "sweet",
+              "relatable",
+              "more"
+            ]
+          },
+          {
+            "nouns": [
+              "adventure",
+              "comfort",
+              "romance",
+              "recommendation"
+            ],
+            "verbs": [
+              "know",
+              "can",
+              "let",
+              "want",
+              "tailor"
+            ],
+            "adjectives": [
+              "specific",
+              "more"
+            ]
+          },
+          {
+            "nouns": [
+              "vibe",
+              "heart"
+            ],
+            "verbs": [
+              "speak",
+              "watch",
+              "be"
+            ],
+            "adjectives": [
+              "open"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 72,
+          "total_verbs": 44,
+          "total_adjectives": 25,
+          "total_expressions": 42,
+          "total_metaphors": 8,
+          "total_noun_verb_relations": 5,
+          "total_adj_noun_relations": 16,
+          "total_adv_verb_relations": 6,
+          "sentence_count": 16,
+          "word_count": 278
+        }
+      }
+    }
+  ],
+  "completed_at": "2025-12-04 14:58:27",
+  "statistics": {
+    "total_characters": 7843,
+    "average_message_length": 784
+  },
+  "linguistics_backfilled_at": "2025-12-09T13:10:14.819463"
+}

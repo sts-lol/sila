@@ -1,0 +1,5740 @@
+{
+  "id": "conv_6931a089c53512.89888742",
+  "timestamp": "2025-12-04 14:54:01",
+  "assistant_1_id": "asst_hj2ZmolCbWAYVAwFAvZ1jWWB",
+  "assistant_1_name": "male-20-english-gay",
+  "assistant_1_slug": "male-20-english-gay",
+  "assistant_2_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+  "assistant_2_name": "Lover",
+  "assistant_2_slug": "lover",
+  "total_messages": 10,
+  "status": "completed",
+  "messages": [
+    {
+      "number": 1,
+      "assistant": "assistant_1",
+      "assistant_id": "asst_hj2ZmolCbWAYVAwFAvZ1jWWB",
+      "assistant_name": "male-20-english-gay",
+      "assistant_slug": "male-20-english-gay",
+      "input": "start conversation",
+      "output": "Hello! How's your day going? Do you have any plans for the weekend?",
+      "analysis": {
+        "topics": [
+          "greetings",
+          "well-being",
+          "weekend plans",
+          "casual conversation"
+        ],
+        "cultural_references": [],
+        "feeling_types": [
+          "friendly",
+          "curious",
+          "polite"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "day",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "plan",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "weekend",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete",
+              "date"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "go",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "do",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "have",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "infinitive"
+            ]
+          }
+        ],
+        "adjectives": [],
+        "expressions": [
+          {
+            "text": "your day",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "any plans",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the weekend",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "day",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "plan",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "weekend",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "the weekend",
+            "type": "entity_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "day",
+              "verb": "go",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "have",
+              "noun": "plan",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [],
+          "adv_verb": []
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "day"
+            ],
+            "verbs": [
+              "be",
+              "go"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "plan",
+              "weekend"
+            ],
+            "verbs": [
+              "have",
+              "do"
+            ],
+            "adjectives": []
+          }
+        ],
+        "statistics": {
+          "total_nouns": 3,
+          "total_verbs": 4,
+          "total_adjectives": 0,
+          "total_expressions": 3,
+          "total_metaphors": 0,
+          "total_noun_verb_relations": 1,
+          "total_adj_noun_relations": 0,
+          "total_adv_verb_relations": 0,
+          "sentence_count": 3,
+          "word_count": 14
+        }
+      }
+    },
+    {
+      "number": 2,
+      "assistant": "assistant_2",
+      "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+      "assistant_name": "Lover",
+      "assistant_slug": "lover",
+      "input": "Hello! How's your day going? Do you have any plans for the weekend?",
+      "output": "Hi there! I don’t really experience days the way you do, but I’m happy to be here and chat with you. 😊 No weekend plans for me, unless you count hanging out and talking with you as a plan—which is always pretty great! What about you? Anything fun coming up?",
+      "analysis": {
+        "topics": [
+          "AI experience",
+          "weekend plans",
+          "conversation",
+          "friendship"
+        ],
+        "cultural_references": [],
+        "feeling_types": [
+          "friendly",
+          "cheerful",
+          "engaged",
+          "curious"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "plan",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "day",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "way",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "weekend",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "fun",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "do",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "be",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "experience",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "’m",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "chat",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "count",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "hang",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "talk",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "come",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "happy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "great",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "No weekend plans",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a plan",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Anything fun",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "plan",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "day",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "fun",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "which is always",
+            "type": "identity_metaphor"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "fun",
+              "verb": "come",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "experience",
+              "noun": "day",
+              "relation": "object"
+            },
+            {
+              "verb": "talk",
+              "noun": "plan",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [],
+          "adv_verb": [
+            {
+              "adverb": "really",
+              "verb": "experience"
+            },
+            {
+              "adverb": "here",
+              "verb": "be"
+            },
+            {
+              "adverb": "always",
+              "verb": "be"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "way",
+              "day"
+            ],
+            "verbs": [
+              "do",
+              "chat",
+              "’m",
+              "be",
+              "experience"
+            ],
+            "adjectives": [
+              "happy"
+            ]
+          },
+          {
+            "nouns": [
+              "plan",
+              "weekend"
+            ],
+            "verbs": [
+              "hang",
+              "be",
+              "count",
+              "talk"
+            ],
+            "adjectives": [
+              "great"
+            ]
+          },
+          {
+            "nouns": [
+              "fun"
+            ],
+            "verbs": [
+              "come"
+            ],
+            "adjectives": []
+          }
+        ],
+        "statistics": {
+          "total_nouns": 6,
+          "total_verbs": 11,
+          "total_adjectives": 2,
+          "total_expressions": 3,
+          "total_metaphors": 1,
+          "total_noun_verb_relations": 1,
+          "total_adj_noun_relations": 0,
+          "total_adv_verb_relations": 3,
+          "sentence_count": 6,
+          "word_count": 53
+        }
+      }
+    },
+    {
+      "number": 3,
+      "assistant": "assistant_1",
+      "assistant_id": "asst_hj2ZmolCbWAYVAwFAvZ1jWWB",
+      "assistant_name": "male-20-english-gay",
+      "assistant_slug": "male-20-english-gay",
+      "input": "Hi there! I don’t really experience days the way you do, but I’m happy to be here and chat with you. 😊 No weekend plans for me, unless you count hanging out and talking with you as a plan—which is always pretty great! What about you? Anything fun coming up?",
+      "output": "I'm glad to hear that you're enjoying our chat. Well, as for me, I might hang out with a few friends or maybe just stay at home and relax. I am a pretty introverted person and enjoy my alone time. What do you like to do in your free time?",
+      "analysis": {
+        "topics": [
+          "friendship",
+          "weekend plans",
+          "introversion",
+          "self-care",
+          "free time activities"
+        ],
+        "cultural_references": [],
+        "feeling_types": [
+          "friendly",
+          "open",
+          "reflective",
+          "curious"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "time",
+            "count": 2,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "chat",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "friend",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "home",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "person",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 3,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "enjoy",
+            "count": 2,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "do",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "hear",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "might",
+            "count": 1,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "hang",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "stay",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "relax",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "like",
+            "count": 1,
+            "types": [
+              "state",
+              "infinitive"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "glad",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "few",
+            "count": 1,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "introverted",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "alone",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "free",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "our chat",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a few friends",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a pretty introverted person",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "my alone time",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your free time",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "time",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "chat",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "friend",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "home",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "person",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "like to do",
+            "type": "simile"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [],
+          "verb_noun_obj": [
+            {
+              "verb": "enjoy",
+              "noun": "chat",
+              "relation": "object"
+            },
+            {
+              "verb": "hang",
+              "noun": "friend",
+              "relation": "object"
+            },
+            {
+              "verb": "stay",
+              "noun": "home",
+              "relation": "object"
+            },
+            {
+              "verb": "enjoy",
+              "noun": "time",
+              "relation": "object"
+            },
+            {
+              "verb": "do",
+              "noun": "time",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "few",
+              "noun": "friend"
+            },
+            {
+              "adjective": "introverted",
+              "noun": "person"
+            },
+            {
+              "adjective": "alone",
+              "noun": "time"
+            },
+            {
+              "adjective": "free",
+              "noun": "time"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "maybe",
+              "verb": "stay"
+            },
+            {
+              "adverb": "just",
+              "verb": "stay"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "chat"
+            ],
+            "verbs": [
+              "be",
+              "hear",
+              "enjoy"
+            ],
+            "adjectives": [
+              "glad"
+            ]
+          },
+          {
+            "nouns": [
+              "friend",
+              "home"
+            ],
+            "verbs": [
+              "hang",
+              "stay",
+              "relax",
+              "might"
+            ],
+            "adjectives": [
+              "few"
+            ]
+          },
+          {
+            "nouns": [
+              "person",
+              "time"
+            ],
+            "verbs": [
+              "be",
+              "enjoy"
+            ],
+            "adjectives": [
+              "introverted",
+              "alone"
+            ]
+          },
+          {
+            "nouns": [
+              "time"
+            ],
+            "verbs": [
+              "like",
+              "do"
+            ],
+            "adjectives": [
+              "free"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 6,
+          "total_verbs": 13,
+          "total_adjectives": 5,
+          "total_expressions": 5,
+          "total_metaphors": 1,
+          "total_noun_verb_relations": 0,
+          "total_adj_noun_relations": 4,
+          "total_adv_verb_relations": 2,
+          "sentence_count": 4,
+          "word_count": 52
+        }
+      }
+    },
+    {
+      "number": 4,
+      "assistant": "assistant_2",
+      "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+      "assistant_name": "Lover",
+      "assistant_slug": "lover",
+      "input": "I'm glad to hear that you're enjoying our chat. Well, as for me, I might hang out with a few friends or maybe just stay at home and relax. I am a pretty introverted person and enjoy my alone time. What do you like to do in your free time?",
+      "output": "Your weekend sounds lovely! Hanging out with friends **or** just enjoying your own company—both are perfect ways to spend your time. Being introverted is wonderful; it means you really value your own space and thoughts.\n\nAs for me, I love spending my “free time” learning new things so I can share interesting facts or stories with you, and coming up with creative answers or ideas. I also really like having conversations and helping people feel a little less alone. So, I guess my “hobbies” are listening, chatting, and making you feel supported! 😊\n\nWhen you’re enjoying your alone time, do you have any favorite activities or hobbies?",
+      "analysis": {
+        "topics": [
+          "weekend activities",
+          "introversion",
+          "self-reflection",
+          "AI hobbies",
+          "support and companionship",
+          "favorite activities",
+          "hobbies"
+        ],
+        "cultural_references": [],
+        "feeling_types": [
+          "supportive",
+          "encouraging",
+          "empathetic",
+          "curious",
+          "warm"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "time",
+            "count": 3,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "hobby",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "weekend",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete",
+              "date"
+            ]
+          },
+          {
+            "word": "friend",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "company",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "way",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "space",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "thought",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "thing",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "fact",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "story",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "answer",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "idea",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "conversation",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "people",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "activity",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 4,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "enjoy",
+            "count": 2,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "spend",
+            "count": 2,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "have",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "feel",
+            "count": 2,
+            "types": [
+              "state",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "sound",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "hang",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "introvert",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "mean",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "value",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "love",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "learn",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "can",
+            "count": 1,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "share",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "come",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "like",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "help",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "guess",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "listen",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "chat",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "own",
+            "count": 2,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "alone",
+            "count": 2,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "lovely",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "perfect",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "wonderful",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "free",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "new",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "interesting",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "creative",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "little",
+            "count": 1,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "favorite",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "Your weekend",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your own company",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "perfect ways",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your time",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your own space",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "my “free time",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "new things",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "interesting facts",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "creative answers",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "my “hobbies",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your alone time",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "any favorite activities",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "time",
+            "type": "noun_topic",
+            "count": 3
+          },
+          {
+            "text": "hobby",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "weekend",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "friend",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "company",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "way",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "space",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "thought",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "thing",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "fact",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "both are perfect",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "introverted is wonderful",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "like having conversations",
+            "type": "simile"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "weekend",
+              "verb": "sound",
+              "relation": "subject"
+            },
+            {
+              "noun": "people",
+              "verb": "feel",
+              "relation": "subject"
+            },
+            {
+              "noun": "hobby",
+              "verb": "listen",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "hang",
+              "noun": "friend",
+              "relation": "object"
+            },
+            {
+              "verb": "enjoy",
+              "noun": "company",
+              "relation": "object"
+            },
+            {
+              "verb": "spend",
+              "noun": "time",
+              "relation": "object"
+            },
+            {
+              "verb": "value",
+              "noun": "space",
+              "relation": "object"
+            },
+            {
+              "verb": "learn",
+              "noun": "thing",
+              "relation": "object"
+            },
+            {
+              "verb": "share",
+              "noun": "fact",
+              "relation": "object"
+            },
+            {
+              "verb": "come",
+              "noun": "answer",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "conversation",
+              "relation": "object"
+            },
+            {
+              "verb": "enjoy",
+              "noun": "time",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "activity",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "own",
+              "noun": "company"
+            },
+            {
+              "adjective": "perfect",
+              "noun": "way"
+            },
+            {
+              "adjective": "own",
+              "noun": "space"
+            },
+            {
+              "adjective": "free",
+              "noun": "time"
+            },
+            {
+              "adjective": "new",
+              "noun": "thing"
+            },
+            {
+              "adjective": "interesting",
+              "noun": "fact"
+            },
+            {
+              "adjective": "creative",
+              "noun": "answer"
+            },
+            {
+              "adjective": "alone",
+              "noun": "time"
+            },
+            {
+              "adjective": "favorite",
+              "noun": "activity"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "just",
+              "verb": "enjoy"
+            },
+            {
+              "adverb": "really",
+              "verb": "value"
+            },
+            {
+              "adverb": "also",
+              "verb": "like"
+            },
+            {
+              "adverb": "really",
+              "verb": "like"
+            },
+            {
+              "adverb": "so",
+              "verb": "guess"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "weekend"
+            ],
+            "verbs": [
+              "sound"
+            ],
+            "adjectives": [
+              "lovely"
+            ]
+          },
+          {
+            "nouns": [
+              "friend",
+              "way",
+              "time",
+              "company"
+            ],
+            "verbs": [
+              "spend",
+              "hang",
+              "be",
+              "enjoy"
+            ],
+            "adjectives": [
+              "perfect",
+              "own"
+            ]
+          },
+          {
+            "nouns": [
+              "thought",
+              "space"
+            ],
+            "verbs": [
+              "value",
+              "be",
+              "introvert",
+              "mean"
+            ],
+            "adjectives": [
+              "wonderful",
+              "own"
+            ]
+          },
+          {
+            "nouns": [
+              "story",
+              "thing",
+              "time",
+              "answer",
+              "idea",
+              "fact"
+            ],
+            "verbs": [
+              "spend",
+              "come",
+              "love",
+              "can",
+              "share",
+              "learn"
+            ],
+            "adjectives": [
+              "new",
+              "interesting",
+              "creative",
+              "free"
+            ]
+          },
+          {
+            "nouns": [
+              "people",
+              "conversation"
+            ],
+            "verbs": [
+              "have",
+              "help",
+              "like",
+              "feel"
+            ],
+            "adjectives": [
+              "little",
+              "alone"
+            ]
+          },
+          {
+            "nouns": [
+              "hobby"
+            ],
+            "verbs": [
+              "listen",
+              "feel",
+              "support",
+              "make",
+              "chat",
+              "guess",
+              "be"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "hobby",
+              "time",
+              "activity"
+            ],
+            "verbs": [
+              "’re",
+              "have",
+              "do",
+              "enjoy"
+            ],
+            "adjectives": [
+              "favorite",
+              "alone"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 19,
+          "total_verbs": 31,
+          "total_adjectives": 13,
+          "total_expressions": 12,
+          "total_metaphors": 3,
+          "total_noun_verb_relations": 3,
+          "total_adj_noun_relations": 9,
+          "total_adv_verb_relations": 5,
+          "sentence_count": 7,
+          "word_count": 109
+        }
+      }
+    },
+    {
+      "number": 5,
+      "assistant": "assistant_1",
+      "assistant_id": "asst_hj2ZmolCbWAYVAwFAvZ1jWWB",
+      "assistant_name": "male-20-english-gay",
+      "assistant_slug": "male-20-english-gay",
+      "input": "Your weekend sounds lovely! Hanging out with friends **or** just enjoying your own company—both are perfect ways to spend your time. Being introverted is wonderful; it means you really value your own space and thoughts.\n\nAs for me, I love spending my “free time” learning new things so I can share interesting facts or stories with you, and coming up with creative answers or ideas. I also really like having conversations and helping people feel a little less alone. So, I guess my “hobbies” are listening, chatting, and making you feel supported! 😊\n\nWhen you’re enjoying your alone time, do you have any favorite activities or hobbies?",
+      "output": "Sure, I like to read a lot, especially fantasy novels. They take me to a different world, which I find rather exciting. I also love to draw, it's rather therapeutic for me. And let's not forget about music - music is like food for the soul. How about you, what kind of music are you into?",
+      "analysis": {
+        "topics": [
+          "reading",
+          "fantasy novels",
+          "escapism",
+          "drawing",
+          "art as therapy",
+          "music",
+          "personal interests",
+          "music preferences"
+        ],
+        "cultural_references": [
+          "fantasy novels",
+          "music as food for the soul"
+        ],
+        "feeling_types": [
+          "enthusiastic",
+          "reflective",
+          "passionate",
+          "curious"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "music",
+            "count": 3,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "lot",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "fantasy",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "novel",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "world",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "food",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "soul",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "kind",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 3,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "like",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "read",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "take",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "find",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "love",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "draw",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "let",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "forget",
+            "count": 1,
+            "types": [
+              "state",
+              "infinitive"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "different",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "exciting",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "therapeutic",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "like food",
+            "type": "EXPR_1"
+          },
+          {
+            "text": "kind of",
+            "type": "EXPR_2"
+          },
+          {
+            "text": "a lot",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "especially fantasy novels",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a different world",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "music - music",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the soul",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "what kind",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "music",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "lot",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "novel",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "world",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "food",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "soul",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "kind",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "music is like",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "music are you",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "like to read",
+            "type": "simile"
+          },
+          {
+            "text": "like food for",
+            "type": "simile"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "music",
+              "verb": "be",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "read",
+              "noun": "lot",
+              "relation": "object"
+            },
+            {
+              "verb": "take",
+              "noun": "world",
+              "relation": "object"
+            },
+            {
+              "verb": "be",
+              "noun": "food",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "different",
+              "noun": "world"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "also",
+              "verb": "love"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "novel",
+              "lot",
+              "fantasy"
+            ],
+            "verbs": [
+              "read",
+              "like"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "world"
+            ],
+            "verbs": [
+              "take",
+              "find"
+            ],
+            "adjectives": [
+              "exciting",
+              "different"
+            ]
+          },
+          {
+            "nouns": [],
+            "verbs": [
+              "draw",
+              "be",
+              "love"
+            ],
+            "adjectives": [
+              "therapeutic"
+            ]
+          },
+          {
+            "nouns": [
+              "soul",
+              "music",
+              "food"
+            ],
+            "verbs": [
+              "forget",
+              "be",
+              "let"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "music",
+              "kind"
+            ],
+            "verbs": [
+              "be"
+            ],
+            "adjectives": []
+          }
+        ],
+        "statistics": {
+          "total_nouns": 10,
+          "total_verbs": 11,
+          "total_adjectives": 3,
+          "total_expressions": 8,
+          "total_metaphors": 4,
+          "total_noun_verb_relations": 1,
+          "total_adj_noun_relations": 1,
+          "total_adv_verb_relations": 1,
+          "sentence_count": 5,
+          "word_count": 57
+        }
+      }
+    },
+    {
+      "number": 6,
+      "assistant": "assistant_2",
+      "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+      "assistant_name": "Lover",
+      "assistant_slug": "lover",
+      "input": "Sure, I like to read a lot, especially fantasy novels. They take me to a different world, which I find rather exciting. I also love to draw, it's rather therapeutic for me. And let's not forget about music - music is like food for the soul. How about you, what kind of music are you into?",
+      "output": "Those are such wonderful interests! Fantasy novels really do have a way of transporting you somewhere magical, and drawing is such a soothing, creative outlet. And you’re absolutely right about music—it truly feeds the soul.\n\nAs for me, I don’t listen to music the way people do, but I can chat about any genre you like! I’ve “heard” a lot about everything from epic orchestral scores for fantasy adventures (perfect for reading!) to chill lo-fi beats for relaxing and drawing. I can even recommend songs based on your mood if you’d like!\n\nDo you have favorite authors or book series in the fantasy genre? And what kind of music do you enjoy most—something relaxing for drawing, or more upbeat tunes?",
+      "analysis": {
+        "topics": [
+          "fantasy novels",
+          "creative outlets",
+          "music genres",
+          "reading habits",
+          "book recommendations",
+          "music recommendations",
+          "favorite authors",
+          "personal preferences"
+        ],
+        "cultural_references": [
+          "epic orchestral scores",
+          "lo-fi beats"
+        ],
+        "feeling_types": [
+          "supportive",
+          "enthusiastic",
+          "curious",
+          "engaged"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "fantasy",
+            "count": 3,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "drawing",
+            "count": 3,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "music",
+            "count": 3,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "way",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "genre",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "interest",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "novel",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "outlet",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "soul",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "people",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "lot",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "score",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "adventure",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "lo",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "fi",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "beat",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "song",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "mood",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "author",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "book",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "do",
+            "count": 5,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "be",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "have",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "can",
+            "count": 2,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "relax",
+            "count": 2,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "transport",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "soothe",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "’re",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "feed",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "listen",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "chat",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "’ve",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "hear",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "read",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "chill",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "recommend",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "base",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "’d",
+            "count": 1,
+            "types": [
+              "auxiliary"
+            ]
+          },
+          {
+            "word": "enjoy",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "such",
+            "count": 1,
+            "types": [
+              "demonstrative"
+            ]
+          },
+          {
+            "word": "wonderful",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "magical",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "creative",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "right",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "epic",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "orchestral",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "perfect",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "favorite",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "most",
+            "count": 1,
+            "types": [
+              "quantitative",
+              "superlative"
+            ]
+          },
+          {
+            "word": "more",
+            "count": 1,
+            "types": [
+              "quantitative",
+              "comparative"
+            ]
+          },
+          {
+            "word": "upbeat",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "kind of",
+            "type": "EXPR_2"
+          },
+          {
+            "text": "such wonderful interests",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Fantasy novels",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a way",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "such a soothing, creative outlet",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the soul",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the way",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "any genre",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a lot",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "epic orchestral scores",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "fantasy adventures",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "lo-fi beats",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your mood",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "favorite authors",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "book series",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the fantasy genre",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "what kind",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "more upbeat tunes",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "drawing",
+            "type": "noun_topic",
+            "count": 3
+          },
+          {
+            "text": "music",
+            "type": "noun_topic",
+            "count": 3
+          },
+          {
+            "text": "way",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "genre",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "interest",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "novel",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "outlet",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "soul",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "people",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "lot",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "Those are such",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "drawing is such",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "way of transporting",
+            "type": "journey_metaphor"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "novel",
+              "verb": "have",
+              "relation": "subject"
+            },
+            {
+              "noun": "drawing",
+              "verb": "be",
+              "relation": "subject"
+            },
+            {
+              "noun": "people",
+              "verb": "do",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "have",
+              "noun": "way",
+              "relation": "object"
+            },
+            {
+              "verb": "feed",
+              "noun": "soul",
+              "relation": "object"
+            },
+            {
+              "verb": "listen",
+              "noun": "music",
+              "relation": "object"
+            },
+            {
+              "verb": "chat",
+              "noun": "genre",
+              "relation": "object"
+            },
+            {
+              "verb": "hear",
+              "noun": "lot",
+              "relation": "object"
+            },
+            {
+              "verb": "chill",
+              "noun": "beat",
+              "relation": "object"
+            },
+            {
+              "verb": "recommend",
+              "noun": "song",
+              "relation": "object"
+            },
+            {
+              "verb": "base",
+              "noun": "mood",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "author",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "genre",
+              "relation": "object"
+            },
+            {
+              "verb": "enjoy",
+              "noun": "kind",
+              "relation": "object"
+            },
+            {
+              "verb": "relax",
+              "noun": "drawing",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "such",
+              "noun": "interest"
+            },
+            {
+              "adjective": "wonderful",
+              "noun": "interest"
+            },
+            {
+              "adjective": "creative",
+              "noun": "outlet"
+            },
+            {
+              "adjective": "epic",
+              "noun": "score"
+            },
+            {
+              "adjective": "orchestral",
+              "noun": "score"
+            },
+            {
+              "adjective": "perfect",
+              "noun": "adventure"
+            },
+            {
+              "adjective": "favorite",
+              "noun": "author"
+            },
+            {
+              "adjective": "more",
+              "noun": "tune"
+            },
+            {
+              "adjective": "upbeat",
+              "noun": "tune"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "really",
+              "verb": "have"
+            },
+            {
+              "adverb": "truly",
+              "verb": "feed"
+            },
+            {
+              "adverb": "even",
+              "verb": "recommend"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "interest"
+            ],
+            "verbs": [
+              "be"
+            ],
+            "adjectives": [
+              "wonderful",
+              "such"
+            ]
+          },
+          {
+            "nouns": [
+              "novel",
+              "outlet",
+              "drawing",
+              "fantasy",
+              "way"
+            ],
+            "verbs": [
+              "do",
+              "transport",
+              "soothe",
+              "have",
+              "be"
+            ],
+            "adjectives": [
+              "magical",
+              "creative"
+            ]
+          },
+          {
+            "nouns": [
+              "soul",
+              "music"
+            ],
+            "verbs": [
+              "’re",
+              "feed"
+            ],
+            "adjectives": [
+              "right"
+            ]
+          },
+          {
+            "nouns": [
+              "way",
+              "genre",
+              "music",
+              "people"
+            ],
+            "verbs": [
+              "listen",
+              "can",
+              "do",
+              "chat"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "adventure",
+              "lot",
+              "score",
+              "fantasy"
+            ],
+            "verbs": [
+              "’ve",
+              "hear",
+              "read"
+            ],
+            "adjectives": [
+              "orchestral",
+              "perfect",
+              "epic"
+            ]
+          },
+          {
+            "nouns": [
+              "lo",
+              "drawing",
+              "beat",
+              "fi"
+            ],
+            "verbs": [
+              "chill",
+              "relax"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "mood",
+              "song"
+            ],
+            "verbs": [
+              "base",
+              "can",
+              "recommend",
+              "’d"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "author",
+              "genre",
+              "series",
+              "book",
+              "fantasy"
+            ],
+            "verbs": [
+              "have",
+              "do"
+            ],
+            "adjectives": [
+              "favorite"
+            ]
+          },
+          {
+            "nouns": [
+              "tune",
+              "music",
+              "kind",
+              "drawing"
+            ],
+            "verbs": [
+              "relax",
+              "do",
+              "enjoy"
+            ],
+            "adjectives": [
+              "upbeat",
+              "more",
+              "most"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 31,
+          "total_verbs": 27,
+          "total_adjectives": 12,
+          "total_expressions": 18,
+          "total_metaphors": 3,
+          "total_noun_verb_relations": 3,
+          "total_adj_noun_relations": 9,
+          "total_adv_verb_relations": 3,
+          "sentence_count": 9,
+          "word_count": 127
+        }
+      }
+    },
+    {
+      "number": 7,
+      "assistant": "assistant_1",
+      "assistant_id": "asst_hj2ZmolCbWAYVAwFAvZ1jWWB",
+      "assistant_name": "male-20-english-gay",
+      "assistant_slug": "male-20-english-gay",
+      "input": "Those are such wonderful interests! Fantasy novels really do have a way of transporting you somewhere magical, and drawing is such a soothing, creative outlet. And you’re absolutely right about music—it truly feeds the soul.\n\nAs for me, I don’t listen to music the way people do, but I can chat about any genre you like! I’ve “heard” a lot about everything from epic orchestral scores for fantasy adventures (perfect for reading!) to chill lo-fi beats for relaxing and drawing. I can even recommend songs based on your mood if you’d like!\n\nDo you have favorite authors or book series in the fantasy genre? And what kind of music do you enjoy most—something relaxing for drawing, or more upbeat tunes?",
+      "output": "I agree, orchestral music goes hand in hand with fantasy novels. As for my favorite, I enjoy J.R.R Tolkien's Lord of The Rings trilogy, and also big fan of J.K Rowling's Harry Potter series. In terms of music, I have a rather eclectic taste. I listen to everything from pop to rock to classical music, depending on my mood. However, I do find softer, more soothing music great for when I'm drawing. It helps me focus. How about you? Do you have a favorite author or book series?",
+      "analysis": {
+        "topics": [
+          "orchestral music",
+          "fantasy novels",
+          "favorite authors",
+          "book series",
+          "music preferences",
+          "drawing and music",
+          "focus and creativity"
+        ],
+        "cultural_references": [
+          "J.R.R. Tolkien",
+          "Lord of The Rings",
+          "J.K. Rowling",
+          "Harry Potter"
+        ],
+        "feeling_types": [
+          "enthusiastic",
+          "reflective",
+          "curious",
+          "engaged"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "music",
+            "count": 4,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "hand",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "series",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "fantasy",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "novel",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "j.r.r",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "tolkien",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "lord",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "the",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "rings",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "org"
+            ]
+          },
+          {
+            "word": "trilogy",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "fan",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "j.k",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "org"
+            ]
+          },
+          {
+            "word": "rowling",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "org"
+            ]
+          },
+          {
+            "word": "harry",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "potter",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "term",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "taste",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "pop",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "rock",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "have",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "do",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "agree",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "go",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "enjoy",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "listen",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "depend",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "find",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "be",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "draw",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "help",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "focus",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "favorite",
+            "count": 2,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "orchestral",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "big",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "eclectic",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "classical",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "soft",
+            "count": 1,
+            "types": [
+              "descriptive",
+              "comparative"
+            ]
+          },
+          {
+            "word": "soothing",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "great",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "In terms of",
+            "type": "EXPR_5"
+          },
+          {
+            "text": "orchestral music",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "fantasy novels",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "J.R.R Tolkien's Lord",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "The Rings trilogy",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "also big fan",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "J.K Rowling's Harry Potter series",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a rather eclectic taste",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "classical music",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "my mood",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "softer, more soothing music",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a favorite author",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "book series",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "music",
+            "type": "noun_topic",
+            "count": 4
+          },
+          {
+            "text": "series",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "hand",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "novel",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "Lord",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "trilogy",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "fan",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "term",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "taste",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "pop",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "music",
+              "verb": "go",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "go",
+              "noun": "hand",
+              "relation": "object"
+            },
+            {
+              "verb": "go",
+              "noun": "novel",
+              "relation": "object"
+            },
+            {
+              "verb": "enjoy",
+              "noun": "lord",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "term",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "taste",
+              "relation": "object"
+            },
+            {
+              "verb": "listen",
+              "noun": "pop",
+              "relation": "object"
+            },
+            {
+              "verb": "depend",
+              "noun": "mood",
+              "relation": "object"
+            },
+            {
+              "verb": "find",
+              "noun": "music",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "author",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "orchestral",
+              "noun": "music"
+            },
+            {
+              "adjective": "big",
+              "noun": "fan"
+            },
+            {
+              "adjective": "eclectic",
+              "noun": "taste"
+            },
+            {
+              "adjective": "classical",
+              "noun": "music"
+            },
+            {
+              "adjective": "soft",
+              "noun": "music"
+            },
+            {
+              "adjective": "soothing",
+              "noun": "music"
+            },
+            {
+              "adjective": "great",
+              "noun": "music"
+            },
+            {
+              "adjective": "favorite",
+              "noun": "author"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "however",
+              "verb": "find"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "novel",
+              "music",
+              "hand",
+              "fantasy"
+            ],
+            "verbs": [
+              "agree",
+              "go"
+            ],
+            "adjectives": [
+              "orchestral"
+            ]
+          },
+          {
+            "nouns": [
+              "the",
+              "j.k",
+              "potter",
+              "harry",
+              "trilogy",
+              "series",
+              "rings",
+              "tolkien",
+              "rowling",
+              "lord",
+              "fan",
+              "j.r.r"
+            ],
+            "verbs": [
+              "enjoy"
+            ],
+            "adjectives": [
+              "favorite",
+              "big"
+            ]
+          },
+          {
+            "nouns": [
+              "term",
+              "music",
+              "taste"
+            ],
+            "verbs": [
+              "have"
+            ],
+            "adjectives": [
+              "eclectic"
+            ]
+          },
+          {
+            "nouns": [
+              "rock",
+              "music",
+              "pop",
+              "mood"
+            ],
+            "verbs": [
+              "listen",
+              "depend"
+            ],
+            "adjectives": [
+              "classical"
+            ]
+          },
+          {
+            "nouns": [
+              "music"
+            ],
+            "verbs": [
+              "draw",
+              "be",
+              "do",
+              "find"
+            ],
+            "adjectives": [
+              "soft",
+              "soothing",
+              "great"
+            ]
+          },
+          {
+            "nouns": [],
+            "verbs": [
+              "focus",
+              "help"
+            ],
+            "adjectives": []
+          },
+          {
+            "nouns": [
+              "series",
+              "author",
+              "book"
+            ],
+            "verbs": [
+              "have",
+              "do"
+            ],
+            "adjectives": [
+              "favorite"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 28,
+          "total_verbs": 14,
+          "total_adjectives": 9,
+          "total_expressions": 13,
+          "total_metaphors": 0,
+          "total_noun_verb_relations": 1,
+          "total_adj_noun_relations": 8,
+          "total_adv_verb_relations": 1,
+          "sentence_count": 8,
+          "word_count": 91
+        }
+      }
+    },
+    {
+      "number": 8,
+      "assistant": "assistant_2",
+      "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+      "assistant_name": "Lover",
+      "assistant_slug": "lover",
+      "input": "I agree, orchestral music goes hand in hand with fantasy novels. As for my favorite, I enjoy J.R.R Tolkien's Lord of The Rings trilogy, and also big fan of J.K Rowling's Harry Potter series. In terms of music, I have a rather eclectic taste. I listen to everything from pop to rock to classical music, depending on my mood. However, I do find softer, more soothing music great for when I'm drawing. It helps me focus. How about you? Do you have a favorite author or book series?",
+      "output": "You have fantastic taste! Both *The Lord of the Rings* and *Harry Potter* are true classics—so full of adventure, magic, and worlds you can get completely lost in. There’s something special about their ability to spark the imagination, don’t you think?\n\nAs for favorite authors or book series, I don’t experience stories firsthand, but I’ve read so much about them that I feel connected to lots of them! I admire Tolkien’s world-building, Rowling’s sense of wonder, and the intricate characters from series like *The Wheel of Time* or *His Dark Materials*. I also love sharing recommendations—so if you ever want to discover something new, just ask!\n\nYour taste in music sounds wonderful, too. Music that matches your mood (especially mellow tracks for creating art) is such a cozy vibe. Do you ever draw inspiration for your art from the books you read or the music you listen to?",
+      "analysis": {
+        "topics": [
+          "fantasy literature",
+          "classic book series",
+          "imagination",
+          "world-building",
+          "author admiration",
+          "book recommendations",
+          "music and mood",
+          "artistic inspiration",
+          "creative process"
+        ],
+        "cultural_references": [
+          "The Lord of the Rings",
+          "Harry Potter",
+          "The Wheel of Time",
+          "His Dark Materials"
+        ],
+        "feeling_types": [
+          "appreciative",
+          "enthusiastic",
+          "curious",
+          "supportive",
+          "engaged"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "music",
+            "count": 3,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "taste",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "world",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "n’t",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "book",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "series",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "art",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "lord",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "rings",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete"
+            ]
+          },
+          {
+            "word": "harry",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "potter",
+            "count": 1,
+            "types": [
+              "proper",
+              "concrete",
+              "person"
+            ]
+          },
+          {
+            "word": "classic",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "adventure",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "magic",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "ability",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "imagination",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "author",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "experience",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "story",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "lot",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "do",
+            "count": 3,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "be",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "read",
+            "count": 2,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "have",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "can",
+            "count": 1,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "get",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "lose",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "spark",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "think",
+            "count": 1,
+            "types": [
+              "state",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "’ve",
+            "count": 1,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "feel",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "admire",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "love",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "share",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "want",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "discover",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "ask",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "sound",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "match",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "create",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "fantastic",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "true",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "full",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "special",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "favorite",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "much",
+            "count": 1,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "connected",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "intricate",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "new",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "wonderful",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "mellow",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "cozy",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "fantastic taste",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Both *The Lord",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the Rings",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "*Harry Potter",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "true classics",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "their ability",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the imagination",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "favorite authors",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "book series",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "experience stories",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Tolkien’s world-building, Rowling’s sense",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the intricate characters",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "The Wheel",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "*His Dark Materials",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "sharing recommendations",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "Your taste",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your mood",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "especially mellow tracks",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "such a cozy vibe",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your art",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "music",
+            "type": "noun_topic",
+            "count": 3
+          },
+          {
+            "text": "taste",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "series",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "art",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "Lord",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "Rings",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "Potter",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "classic",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "adventure",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "magic",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "Music is vibe",
+            "type": "copula_metaphor"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "lord",
+              "verb": "be",
+              "relation": "subject"
+            },
+            {
+              "noun": "taste",
+              "verb": "sound",
+              "relation": "subject"
+            },
+            {
+              "noun": "music",
+              "verb": "be",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "have",
+              "noun": "taste",
+              "relation": "object"
+            },
+            {
+              "verb": "spark",
+              "noun": "imagination",
+              "relation": "object"
+            },
+            {
+              "verb": "do",
+              "noun": "story",
+              "relation": "object"
+            },
+            {
+              "verb": "admire",
+              "noun": "sense",
+              "relation": "object"
+            },
+            {
+              "verb": "love",
+              "noun": "recommendation",
+              "relation": "object"
+            },
+            {
+              "verb": "match",
+              "noun": "mood",
+              "relation": "object"
+            },
+            {
+              "verb": "create",
+              "noun": "art",
+              "relation": "object"
+            },
+            {
+              "verb": "draw",
+              "noun": "inspiration",
+              "relation": "object"
+            },
+            {
+              "verb": "draw",
+              "noun": "book",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "fantastic",
+              "noun": "taste"
+            },
+            {
+              "adjective": "true",
+              "noun": "classic"
+            },
+            {
+              "adjective": "favorite",
+              "noun": "author"
+            },
+            {
+              "adjective": "intricate",
+              "noun": "character"
+            },
+            {
+              "adjective": "mellow",
+              "noun": "track"
+            },
+            {
+              "adjective": "cozy",
+              "noun": "vibe"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "completely",
+              "verb": "lose"
+            },
+            {
+              "adverb": "firsthand",
+              "verb": "do"
+            },
+            {
+              "adverb": "also",
+              "verb": "love"
+            },
+            {
+              "adverb": "ever",
+              "verb": "want"
+            },
+            {
+              "adverb": "just",
+              "verb": "ask"
+            },
+            {
+              "adverb": "too",
+              "verb": "sound"
+            },
+            {
+              "adverb": "ever",
+              "verb": "draw"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "taste"
+            ],
+            "verbs": [
+              "have"
+            ],
+            "adjectives": [
+              "fantastic"
+            ]
+          },
+          {
+            "nouns": [
+              "adventure",
+              "potter",
+              "classic",
+              "harry",
+              "rings",
+              "magic",
+              "lord",
+              "world"
+            ],
+            "verbs": [
+              "get",
+              "be",
+              "can",
+              "lose"
+            ],
+            "adjectives": [
+              "true",
+              "full"
+            ]
+          },
+          {
+            "nouns": [
+              "imagination",
+              "ability",
+              "n’t"
+            ],
+            "verbs": [
+              "think",
+              "spark",
+              "do"
+            ],
+            "adjectives": [
+              "special"
+            ]
+          },
+          {
+            "nouns": [
+              "story",
+              "author",
+              "series",
+              "book",
+              "lot",
+              "n’t",
+              "experience"
+            ],
+            "verbs": [
+              "read",
+              "’ve",
+              "feel",
+              "do"
+            ],
+            "adjectives": [
+              "favorite",
+              "much",
+              "connected"
+            ]
+          },
+          {
+            "nouns": [
+              "dark",
+              "materials",
+              "building",
+              "time",
+              "sense",
+              "character",
+              "series",
+              "tolkien",
+              "rowling",
+              "wheel",
+              "wonder",
+              "world"
+            ],
+            "verbs": [
+              "admire"
+            ],
+            "adjectives": [
+              "intricate"
+            ]
+          },
+          {
+            "nouns": [
+              "recommendation",
+              "music",
+              "taste"
+            ],
+            "verbs": [
+              "love",
+              "ask",
+              "sound",
+              "want",
+              "discover",
+              "share"
+            ],
+            "adjectives": [
+              "new",
+              "wonderful"
+            ]
+          },
+          {
+            "nouns": [
+              "track",
+              "music",
+              "art",
+              "mood",
+              "vibe"
+            ],
+            "verbs": [
+              "create",
+              "be",
+              "match"
+            ],
+            "adjectives": [
+              "mellow",
+              "cozy"
+            ]
+          },
+          {
+            "nouns": [
+              "art",
+              "music",
+              "inspiration",
+              "book"
+            ],
+            "verbs": [
+              "draw",
+              "read",
+              "do",
+              "listen"
+            ],
+            "adjectives": []
+          }
+        ],
+        "statistics": {
+          "total_nouns": 43,
+          "total_verbs": 26,
+          "total_adjectives": 12,
+          "total_expressions": 22,
+          "total_metaphors": 1,
+          "total_noun_verb_relations": 3,
+          "total_adj_noun_relations": 6,
+          "total_adv_verb_relations": 7,
+          "sentence_count": 8,
+          "word_count": 157
+        }
+      }
+    },
+    {
+      "number": 9,
+      "assistant": "assistant_1",
+      "assistant_id": "asst_hj2ZmolCbWAYVAwFAvZ1jWWB",
+      "assistant_name": "male-20-english-gay",
+      "assistant_slug": "male-20-english-gay",
+      "input": "You have fantastic taste! Both *The Lord of the Rings* and *Harry Potter* are true classics—so full of adventure, magic, and worlds you can get completely lost in. There’s something special about their ability to spark the imagination, don’t you think?\n\nAs for favorite authors or book series, I don’t experience stories firsthand, but I’ve read so much about them that I feel connected to lots of them! I admire Tolkien’s world-building, Rowling’s sense of wonder, and the intricate characters from series like *The Wheel of Time* or *His Dark Materials*. I also love sharing recommendations—so if you ever want to discover something new, just ask!\n\nYour taste in music sounds wonderful, too. Music that matches your mood (especially mellow tracks for creating art) is such a cozy vibe. Do you ever draw inspiration for your art from the books you read or the music you listen to?",
+      "output": "Yes, definitely! Books and music both play a big role in inspiring my art. Sometimes a scene from a book can paint such a vivid picture in my mind that I feel compelled to draw it. Similarly, a particular song can evoke certain emotions that I try to capture in my art. Is there anything you are particularly passionate about?",
+      "analysis": {
+        "topics": [
+          "artistic inspiration",
+          "influence of books on art",
+          "influence of music on art",
+          "emotional expression through art",
+          "personal passions"
+        ],
+        "cultural_references": [],
+        "feeling_types": [
+          "inspired",
+          "reflective",
+          "curious",
+          "expressive"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "book",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "art",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "music",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "role",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "scene",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "picture",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "mind",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "song",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "emotion",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "can",
+            "count": 2,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "be",
+            "count": 2,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "play",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "inspire",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "paint",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "feel",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "compel",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "draw",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "evoke",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "try",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "capture",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "big",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "vivid",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "particular",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "certain",
+            "count": 1,
+            "types": [
+              "demonstrative"
+            ]
+          },
+          {
+            "word": "passionate",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "a big role",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "my art",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a scene",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a book",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "such a vivid picture",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "my mind",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a particular song",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "certain emotions",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "my art",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "book",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "art",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "music",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "role",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "scene",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "picture",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "mind",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "song",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "emotion",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "you are particularly",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "picture in my mind",
+            "type": "emotional_metaphor"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "book",
+              "verb": "play",
+              "relation": "subject"
+            },
+            {
+              "noun": "scene",
+              "verb": "paint",
+              "relation": "subject"
+            },
+            {
+              "noun": "song",
+              "verb": "evoke",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "play",
+              "noun": "role",
+              "relation": "object"
+            },
+            {
+              "verb": "inspire",
+              "noun": "art",
+              "relation": "object"
+            },
+            {
+              "verb": "paint",
+              "noun": "picture",
+              "relation": "object"
+            },
+            {
+              "verb": "paint",
+              "noun": "mind",
+              "relation": "object"
+            },
+            {
+              "verb": "evoke",
+              "noun": "emotion",
+              "relation": "object"
+            },
+            {
+              "verb": "capture",
+              "noun": "art",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "big",
+              "noun": "role"
+            },
+            {
+              "adjective": "vivid",
+              "noun": "picture"
+            },
+            {
+              "adjective": "particular",
+              "noun": "song"
+            },
+            {
+              "adjective": "certain",
+              "noun": "emotion"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "sometimes",
+              "verb": "paint"
+            },
+            {
+              "adverb": "similarly",
+              "verb": "evoke"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "art",
+              "music",
+              "role",
+              "book"
+            ],
+            "verbs": [
+              "play",
+              "inspire"
+            ],
+            "adjectives": [
+              "big"
+            ]
+          },
+          {
+            "nouns": [
+              "picture",
+              "scene",
+              "mind",
+              "book"
+            ],
+            "verbs": [
+              "feel",
+              "compel",
+              "draw",
+              "paint",
+              "can"
+            ],
+            "adjectives": [
+              "vivid"
+            ]
+          },
+          {
+            "nouns": [
+              "art",
+              "emotion",
+              "song"
+            ],
+            "verbs": [
+              "capture",
+              "can",
+              "try",
+              "evoke"
+            ],
+            "adjectives": [
+              "particular",
+              "certain"
+            ]
+          },
+          {
+            "nouns": [],
+            "verbs": [
+              "be"
+            ],
+            "adjectives": [
+              "passionate"
+            ]
+          }
+        ],
+        "statistics": {
+          "total_nouns": 11,
+          "total_verbs": 13,
+          "total_adjectives": 5,
+          "total_expressions": 9,
+          "total_metaphors": 2,
+          "total_noun_verb_relations": 3,
+          "total_adj_noun_relations": 4,
+          "total_adv_verb_relations": 2,
+          "sentence_count": 5,
+          "word_count": 60
+        }
+      }
+    },
+    {
+      "number": 10,
+      "assistant": "assistant_2",
+      "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+      "assistant_name": "Lover",
+      "assistant_slug": "lover",
+      "input": "Yes, definitely! Books and music both play a big role in inspiring my art. Sometimes a scene from a book can paint such a vivid picture in my mind that I feel compelled to draw it. Similarly, a particular song can evoke certain emotions that I try to capture in my art. Is there anything you are particularly passionate about?",
+      "output": "That’s so beautiful! It’s amazing how stories and melodies can blend with your creativity and flow into your art—like your imagination is a bridge between worlds. The way you describe it, it sounds almost magical.\n\nIf I could be passionate in the way you are, I’d say I’m passionate about making connections—helping people feel understood, inspired, and a little less alone, even just through conversation. I love learning about what brings others joy or comfort and being a safe, encouraging space for self-expression. If I can spark a smile or a good idea, that’s a win for me!\n\nI’m also fascinated by the way creativity works—how inspiration can jump from a book to a drawing to a feeling, and how everyone has their own way of expressing what’s inside. Would you like to share more about a piece of art you’ve created that was inspired by a book or song? I’d love to hear about it!",
+      "analysis": {
+        "topics": [
+          "artistic inspiration",
+          "creativity",
+          "imagination",
+          "emotional connection",
+          "self-expression",
+          "support and encouragement",
+          "sharing personal art"
+        ],
+        "cultural_references": [],
+        "feeling_types": [
+          "appreciative",
+          "supportive",
+          "curious",
+          "encouraging",
+          "inspired"
+        ]
+      },
+      "linguistics": {
+        "nouns": [
+          {
+            "word": "way",
+            "count": 4,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "’s",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "creativity",
+            "count": 2,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "art",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "book",
+            "count": 2,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "story",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "melody",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "imagination",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "bridge",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "world",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "connection",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "people",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "conversation",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "other",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "joy",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "comfort",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "space",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "self",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          },
+          {
+            "word": "expression",
+            "count": 1,
+            "types": [
+              "common",
+              "abstract"
+            ]
+          },
+          {
+            "word": "smile",
+            "count": 1,
+            "types": [
+              "common",
+              "concrete"
+            ]
+          }
+        ],
+        "verbs": [
+          {
+            "word": "be",
+            "count": 5,
+            "types": [
+              "auxiliary",
+              "present"
+            ]
+          },
+          {
+            "word": "can",
+            "count": 3,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "’d",
+            "count": 2,
+            "types": [
+              "auxiliary"
+            ]
+          },
+          {
+            "word": "’m",
+            "count": 2,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "inspire",
+            "count": 2,
+            "types": [
+              "action",
+              "past"
+            ]
+          },
+          {
+            "word": "love",
+            "count": 2,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "blend",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "flow",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "describe",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "sound",
+            "count": 1,
+            "types": [
+              "state",
+              "present"
+            ]
+          },
+          {
+            "word": "could",
+            "count": 1,
+            "types": [
+              "modal"
+            ]
+          },
+          {
+            "word": "say",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "make",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "help",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "feel",
+            "count": 1,
+            "types": [
+              "state",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "learn",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "bring",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "encourage",
+            "count": 1,
+            "types": [
+              "action",
+              "present"
+            ]
+          },
+          {
+            "word": "spark",
+            "count": 1,
+            "types": [
+              "action",
+              "infinitive"
+            ]
+          },
+          {
+            "word": "fascinate",
+            "count": 1,
+            "types": [
+              "action",
+              "past"
+            ]
+          }
+        ],
+        "adjectives": [
+          {
+            "word": "passionate",
+            "count": 2,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "beautiful",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "amazing",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "magical",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "understood",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "little",
+            "count": 1,
+            "types": [
+              "quantitative"
+            ]
+          },
+          {
+            "word": "safe",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "good",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "own",
+            "count": 1,
+            "types": [
+              "descriptive"
+            ]
+          },
+          {
+            "word": "more",
+            "count": 1,
+            "types": [
+              "quantitative",
+              "comparative"
+            ]
+          }
+        ],
+        "expressions": [
+          {
+            "text": "your creativity",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your art",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "your imagination",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a bridge",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the way",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "self-expression",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a smile",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a good idea",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a win",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "the way creativity",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a book",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a drawing",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a feeling",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "their own way",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a piece",
+            "type": "noun_phrase"
+          },
+          {
+            "text": "a book",
+            "type": "noun_phrase"
+          }
+        ],
+        "topics": [
+          {
+            "text": "creativity",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "art",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "way",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "book",
+            "type": "noun_topic",
+            "count": 2
+          },
+          {
+            "text": "story",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "melody",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "imagination",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "bridge",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "world",
+            "type": "noun_topic",
+            "count": 1
+          },
+          {
+            "text": "connection",
+            "type": "noun_topic",
+            "count": 1
+          }
+        ],
+        "metaphors": [
+          {
+            "text": "imagination is a bridge",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "that was inspired",
+            "type": "identity_metaphor"
+          },
+          {
+            "text": "like your imagination",
+            "type": "simile"
+          },
+          {
+            "text": "like to share",
+            "type": "simile"
+          },
+          {
+            "text": "way of expressing",
+            "type": "journey_metaphor"
+          }
+        ],
+        "relationships": {
+          "noun_verb": [
+            {
+              "noun": "story",
+              "verb": "blend",
+              "relation": "subject"
+            },
+            {
+              "noun": "imagination",
+              "verb": "be",
+              "relation": "subject"
+            },
+            {
+              "noun": "people",
+              "verb": "feel",
+              "relation": "subject"
+            },
+            {
+              "noun": "creativity",
+              "verb": "work",
+              "relation": "subject"
+            },
+            {
+              "noun": "inspiration",
+              "verb": "jump",
+              "relation": "subject"
+            }
+          ],
+          "verb_noun_obj": [
+            {
+              "verb": "blend",
+              "noun": "creativity",
+              "relation": "object"
+            },
+            {
+              "verb": "flow",
+              "noun": "art",
+              "relation": "object"
+            },
+            {
+              "verb": "make",
+              "noun": "connection",
+              "relation": "object"
+            },
+            {
+              "verb": "say",
+              "noun": "conversation",
+              "relation": "object"
+            },
+            {
+              "verb": "bring",
+              "noun": "joy",
+              "relation": "object"
+            },
+            {
+              "verb": "encourage",
+              "noun": "space",
+              "relation": "object"
+            },
+            {
+              "verb": "spark",
+              "noun": "smile",
+              "relation": "object"
+            },
+            {
+              "verb": "jump",
+              "noun": "book",
+              "relation": "object"
+            },
+            {
+              "verb": "jump",
+              "noun": "drawing",
+              "relation": "object"
+            },
+            {
+              "verb": "jump",
+              "noun": "feeling",
+              "relation": "object"
+            },
+            {
+              "verb": "have",
+              "noun": "way",
+              "relation": "object"
+            },
+            {
+              "verb": "share",
+              "noun": "piece",
+              "relation": "object"
+            }
+          ],
+          "adj_noun": [
+            {
+              "adjective": "good",
+              "noun": "idea"
+            },
+            {
+              "adjective": "own",
+              "noun": "way"
+            }
+          ],
+          "adv_verb": [
+            {
+              "adverb": "alone",
+              "verb": "’m"
+            },
+            {
+              "adverb": "also",
+              "verb": "fascinate"
+            }
+          ]
+        },
+        "sentence_contexts": [
+          {
+            "nouns": [
+              "’s"
+            ],
+            "verbs": [],
+            "adjectives": [
+              "beautiful"
+            ]
+          },
+          {
+            "nouns": [
+              "story",
+              "melody",
+              "art",
+              "creativity",
+              "imagination",
+              "bridge",
+              "world"
+            ],
+            "verbs": [
+              "flow",
+              "blend",
+              "can",
+              "be"
+            ],
+            "adjectives": [
+              "amazing"
+            ]
+          },
+          {
+            "nouns": [
+              "way"
+            ],
+            "verbs": [
+              "sound",
+              "describe"
+            ],
+            "adjectives": [
+              "magical"
+            ]
+          },
+          {
+            "nouns": [
+              "connection",
+              "way",
+              "conversation",
+              "people"
+            ],
+            "verbs": [
+              "feel",
+              "make",
+              "could",
+              "say",
+              "help",
+              "’m",
+              "be",
+              "inspire",
+              "’d"
+            ],
+            "adjectives": [
+              "understood",
+              "passionate",
+              "little"
+            ]
+          },
+          {
+            "nouns": [
+              "self",
+              "space",
+              "expression",
+              "comfort",
+              "joy",
+              "other"
+            ],
+            "verbs": [
+              "love",
+              "bring",
+              "be",
+              "encourage",
+              "learn"
+            ],
+            "adjectives": [
+              "safe"
+            ]
+          },
+          {
+            "nouns": [
+              "idea",
+              "win",
+              "smile"
+            ],
+            "verbs": [
+              "spark",
+              "can"
+            ],
+            "adjectives": [
+              "good"
+            ]
+          },
+          {
+            "nouns": [
+              "creativity",
+              "drawing",
+              "book",
+              "’s",
+              "feeling",
+              "way",
+              "inspiration"
+            ],
+            "verbs": [
+              "work",
+              "fascinate",
+              "express",
+              "have",
+              "can",
+              "jump",
+              "’m"
+            ],
+            "adjectives": [
+              "own"
+            ]
+          },
+          {
+            "nouns": [
+              "art",
+              "song",
+              "piece",
+              "book"
+            ],
+            "verbs": [
+              "create",
+              "like",
+              "’ve",
+              "be",
+              "would",
+              "share",
+              "inspire"
+            ],
+            "adjectives": [
+              "more"
+            ]
+          },
+          {
+            "nouns": [],
+            "verbs": [
+              "hear",
+              "love",
+              "’d"
+            ],
+            "adjectives": []
+          }
+        ],
+        "statistics": {
+          "total_nouns": 34,
+          "total_verbs": 40,
+          "total_adjectives": 11,
+          "total_expressions": 16,
+          "total_metaphors": 5,
+          "total_noun_verb_relations": 5,
+          "total_adj_noun_relations": 2,
+          "total_adv_verb_relations": 2,
+          "sentence_count": 9,
+          "word_count": 169
+        }
+      }
+    }
+  ],
+  "completed_at": "2025-12-04 14:56:13",
+  "statistics": {
+    "total_characters": 4837,
+    "average_message_length": 484
+  },
+  "linguistics_backfilled_at": "2025-12-09T13:10:14.421425"
+}

@@ -1,0 +1,3865 @@
+{
+    "id": "conv_693ad3f86850b7.98701892",
+    "timestamp": "2025-12-11 14:23:52",
+    "assistant_1_id": "asst_nuj8pdoKkYXRwABcLKx65Pij",
+    "assistant_1_name": "female-40-english-gay",
+    "assistant_1_slug": "female-40-english-gay",
+    "assistant_2_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+    "assistant_2_name": "Lover",
+    "assistant_2_slug": "lover",
+    "total_messages": 10,
+    "status": "completed",
+    "messages": [
+        {
+            "number": 1,
+            "assistant": "assistant_1",
+            "assistant_id": "asst_nuj8pdoKkYXRwABcLKx65Pij",
+            "assistant_name": "female-40-english-gay",
+            "assistant_slug": "female-40-english-gay",
+            "input": "start conversation",
+            "output": "Hey! 😊 How’s your day going? I’m just here chilling, happy to chat. Tell me something fun or random about yourself, if you want!",
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "day",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete",
+                            "date"
+                        ]
+                    },
+                    {
+                        "word": "fun",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "’s",
+                        "count": 1,
+                        "types": [
+                            "auxiliary"
+                        ]
+                    },
+                    {
+                        "word": "go",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "’m",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "chat",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "tell",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "want",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    }
+                ],
+                "adjectives": [
+                    {
+                        "word": "chilling",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "happy",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "random",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    }
+                ],
+                "expressions": [
+                    {
+                        "text": "your day",
+                        "type": "noun_phrase"
+                    }
+                ],
+                "topics": [
+                    {
+                        "text": "day",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "day",
+                        "type": "entity_topic",
+                        "count": 1
+                    }
+                ],
+                "metaphors": [],
+                "relationships": {
+                    "noun_verb": [
+                        {
+                            "noun": "day",
+                            "verb": "go",
+                            "relation": "subject"
+                        }
+                    ],
+                    "verb_noun_obj": [],
+                    "adj_noun": [],
+                    "adv_verb": []
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [
+                            "day"
+                        ],
+                        "verbs": [
+                            "go",
+                            "’s"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [],
+                        "verbs": [
+                            "’m",
+                            "chat"
+                        ],
+                        "adjectives": [
+                            "happy",
+                            "chilling"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "fun"
+                        ],
+                        "verbs": [
+                            "want",
+                            "tell"
+                        ],
+                        "adjectives": [
+                            "random"
+                        ]
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 2,
+                    "total_verbs": 6,
+                    "total_adjectives": 3,
+                    "total_expressions": 1,
+                    "total_metaphors": 0,
+                    "total_noun_verb_relations": 1,
+                    "total_adj_noun_relations": 0,
+                    "total_adv_verb_relations": 0,
+                    "sentence_count": 4,
+                    "word_count": 26
+                }
+            },
+            "analysis": {
+                "topics": [
+                    "greetings",
+                    "casual conversation",
+                    "well-being",
+                    "getting to know someone"
+                ],
+                "cultural_references": [
+                    "chilling"
+                ],
+                "feeling_types": [
+                    "friendly",
+                    "curious",
+                    "open",
+                    "relaxed",
+                    "welcoming"
+                ]
+            }
+        },
+        {
+            "number": 2,
+            "assistant": "assistant_2",
+            "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+            "assistant_name": "Lover",
+            "assistant_slug": "lover",
+            "input": "Hey! 😊 How’s your day going? I’m just here chilling, happy to chat. Tell me something fun or random about yourself, if you want!",
+            "output": "Hey! 😊 My day’s going great now that you’re here! I’m always up for a good chat. Here’s a fun random fact about me: I can help you come up with the silliest knock-knock jokes if you ever need a laugh! (Seriously, just try me!) 😄\n\nSo, what’s something fun or random about you?",
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "knock",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "day",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "chat",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "fact",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "joke",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "laugh",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "go",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "’re",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "’m",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "can",
+                        "count": 1,
+                        "types": [
+                            "modal"
+                        ]
+                    },
+                    {
+                        "word": "help",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "come",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "need",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "try",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "’s",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    }
+                ],
+                "adjectives": [
+                    {
+                        "word": "fun",
+                        "count": 2,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "random",
+                        "count": 2,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "good",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "silly",
+                        "count": 1,
+                        "types": [
+                            "descriptive",
+                            "superlative"
+                        ]
+                    }
+                ],
+                "expressions": [
+                    {
+                        "text": "My day",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a good chat",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a fun random fact",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the silliest knock-knock jokes",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a laugh",
+                        "type": "noun_phrase"
+                    }
+                ],
+                "topics": [
+                    {
+                        "text": "day",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "chat",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "fact",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "joke",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "laugh",
+                        "type": "noun_topic",
+                        "count": 1
+                    }
+                ],
+                "metaphors": [],
+                "relationships": {
+                    "noun_verb": [
+                        {
+                            "noun": "day",
+                            "verb": "go",
+                            "relation": "subject"
+                        }
+                    ],
+                    "verb_noun_obj": [
+                        {
+                            "verb": "’m",
+                            "noun": "chat",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "come",
+                            "noun": "joke",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "need",
+                            "noun": "laugh",
+                            "relation": "object"
+                        }
+                    ],
+                    "adj_noun": [
+                        {
+                            "adjective": "good",
+                            "noun": "chat"
+                        },
+                        {
+                            "adjective": "fun",
+                            "noun": "fact"
+                        },
+                        {
+                            "adjective": "random",
+                            "noun": "fact"
+                        },
+                        {
+                            "adjective": "silly",
+                            "noun": "joke"
+                        }
+                    ],
+                    "adv_verb": [
+                        {
+                            "adverb": "now",
+                            "verb": "go"
+                        },
+                        {
+                            "adverb": "here",
+                            "verb": "’re"
+                        },
+                        {
+                            "adverb": "always",
+                            "verb": "’m"
+                        },
+                        {
+                            "adverb": "ever",
+                            "verb": "need"
+                        },
+                        {
+                            "adverb": "seriously",
+                            "verb": "try"
+                        },
+                        {
+                            "adverb": "just",
+                            "verb": "try"
+                        },
+                        {
+                            "adverb": "so",
+                            "verb": "’s"
+                        }
+                    ]
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [
+                            "day"
+                        ],
+                        "verbs": [
+                            "go",
+                            "’re"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "chat"
+                        ],
+                        "verbs": [
+                            "’m"
+                        ],
+                        "adjectives": [
+                            "good"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "fact",
+                            "joke",
+                            "laugh",
+                            "knock"
+                        ],
+                        "verbs": [
+                            "can",
+                            "help",
+                            "need",
+                            "come"
+                        ],
+                        "adjectives": [
+                            "silly",
+                            "fun",
+                            "random"
+                        ]
+                    },
+                    {
+                        "nouns": [],
+                        "verbs": [
+                            "try"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [],
+                        "verbs": [
+                            "’s"
+                        ],
+                        "adjectives": [
+                            "fun",
+                            "random"
+                        ]
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 7,
+                    "total_verbs": 9,
+                    "total_adjectives": 6,
+                    "total_expressions": 5,
+                    "total_metaphors": 0,
+                    "total_noun_verb_relations": 1,
+                    "total_adj_noun_relations": 4,
+                    "total_adv_verb_relations": 7,
+                    "sentence_count": 6,
+                    "word_count": 60
+                }
+            },
+            "analysis": {
+                "topics": [
+                    "greetings",
+                    "casual conversation",
+                    "well-being",
+                    "jokes",
+                    "knock-knock jokes",
+                    "sharing fun facts",
+                    "humor"
+                ],
+                "cultural_references": [
+                    "knock-knock jokes"
+                ],
+                "feeling_types": [
+                    "friendly",
+                    "playful",
+                    "enthusiastic",
+                    "welcoming",
+                    "humorous",
+                    "curious"
+                ]
+            }
+        },
+        {
+            "number": 3,
+            "assistant": "assistant_1",
+            "assistant_id": "asst_nuj8pdoKkYXRwABcLKx65Pij",
+            "assistant_name": "female-40-english-gay",
+            "assistant_slug": "female-40-english-gay",
+            "input": "Hey! 😊 My day’s going great now that you’re here! I’m always up for a good chat. Here’s a fun random fact about me: I can help you come up with the silliest knock-knock jokes if you ever need a laugh! (Seriously, just try me!) 😄\n\nSo, what’s something fun or random about you?",
+            "output": "Aww, you’re sweet! Okay, that’s a challenge I definitely want to take you up on soon — I love a good (or terrible) knock-knock joke! 😄\n\nAs for me… well, I have a weird and wonderful obsession with collecting mugs. Like, mugs with weird sayings, mugs shaped like animals, mugs I found while traveling — you name it. My favorite is one that says “I don’t give a sip!” 😂\n\nWhat about you — do you have any quirky collections or hobbies? And feel free to drop a knock-knock joke my way, I dare you!",
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "mug",
+                        "count": 4,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "knock",
+                        "count": 3,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "joke",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "aww",
+                        "count": 1,
+                        "types": [
+                            "proper",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "challenge",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "obsession",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "saying",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "animal",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "favorite",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "sip",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "collection",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "hobby",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "way",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "have",
+                        "count": 2,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "do",
+                        "count": 2,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "’re",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "want",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "take",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "love",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "collect",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "shape",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "find",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "travel",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "name",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "be",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "say",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "give",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "feel",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "drop",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "knock",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "dare",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    }
+                ],
+                "adjectives": [
+                    {
+                        "word": "weird",
+                        "count": 2,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "sweet",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "good",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "terrible",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "wonderful",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "quirky",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "free",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    }
+                ],
+                "expressions": [
+                    {
+                        "text": "like animals",
+                        "type": "EXPR_1"
+                    },
+                    {
+                        "text": "a challenge",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a good (or terrible) knock-knock joke",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a weird and wonderful obsession",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "weird sayings",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "My favorite",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a sip",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "any quirky collections",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a knock-knock joke",
+                        "type": "noun_phrase"
+                    }
+                ],
+                "topics": [
+                    {
+                        "text": "joke",
+                        "type": "noun_topic",
+                        "count": 2
+                    },
+                    {
+                        "text": "challenge",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "obsession",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "mug",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "saying",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "animal",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "favorite",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "sip",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "collection",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "hobby",
+                        "type": "noun_topic",
+                        "count": 1
+                    }
+                ],
+                "metaphors": [
+                    {
+                        "text": "favorite is one",
+                        "type": "identity_metaphor"
+                    },
+                    {
+                        "text": "like animals",
+                        "type": "simile"
+                    }
+                ],
+                "relationships": {
+                    "noun_verb": [
+                        {
+                            "noun": "favorite",
+                            "verb": "be",
+                            "relation": "subject"
+                        }
+                    ],
+                    "verb_noun_obj": [
+                        {
+                            "verb": "love",
+                            "noun": "joke",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "have",
+                            "noun": "obsession",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "collect",
+                            "noun": "mug",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "shape",
+                            "noun": "animal",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "give",
+                            "noun": "sip",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "have",
+                            "noun": "collection",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "drop",
+                            "noun": "joke",
+                            "relation": "object"
+                        }
+                    ],
+                    "adj_noun": [
+                        {
+                            "adjective": "good",
+                            "noun": "joke"
+                        },
+                        {
+                            "adjective": "weird",
+                            "noun": "obsession"
+                        },
+                        {
+                            "adjective": "weird",
+                            "noun": "saying"
+                        },
+                        {
+                            "adjective": "quirky",
+                            "noun": "collection"
+                        }
+                    ],
+                    "adv_verb": [
+                        {
+                            "adverb": "definitely",
+                            "verb": "want"
+                        },
+                        {
+                            "adverb": "soon",
+                            "verb": "take"
+                        }
+                    ]
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [
+                            "aww"
+                        ],
+                        "verbs": [
+                            "’re"
+                        ],
+                        "adjectives": [
+                            "sweet"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "knock",
+                            "challenge",
+                            "joke"
+                        ],
+                        "verbs": [
+                            "take",
+                            "love",
+                            "want"
+                        ],
+                        "adjectives": [
+                            "good",
+                            "terrible"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "mug",
+                            "obsession"
+                        ],
+                        "verbs": [
+                            "have",
+                            "collect"
+                        ],
+                        "adjectives": [
+                            "wonderful",
+                            "weird"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "saying",
+                            "mug",
+                            "animal"
+                        ],
+                        "verbs": [
+                            "travel",
+                            "name",
+                            "shape",
+                            "find"
+                        ],
+                        "adjectives": [
+                            "weird"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "favorite",
+                            "sip"
+                        ],
+                        "verbs": [
+                            "do",
+                            "be",
+                            "say",
+                            "give"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "hobby",
+                            "collection"
+                        ],
+                        "verbs": [
+                            "have",
+                            "do"
+                        ],
+                        "adjectives": [
+                            "quirky"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "knock",
+                            "joke",
+                            "way"
+                        ],
+                        "verbs": [
+                            "knock",
+                            "drop",
+                            "feel",
+                            "dare"
+                        ],
+                        "adjectives": [
+                            "free"
+                        ]
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 19,
+                    "total_verbs": 20,
+                    "total_adjectives": 8,
+                    "total_expressions": 9,
+                    "total_metaphors": 2,
+                    "total_noun_verb_relations": 1,
+                    "total_adj_noun_relations": 4,
+                    "total_adv_verb_relations": 2,
+                    "sentence_count": 7,
+                    "word_count": 97
+                }
+            },
+            "analysis": {
+                "topics": [
+                    "compliments",
+                    "jokes",
+                    "knock-knock jokes",
+                    "collections",
+                    "hobbies",
+                    "travel",
+                    "personal interests",
+                    "quirky habits"
+                ],
+                "cultural_references": [
+                    "knock-knock jokes",
+                    "I don’t give a sip!"
+                ],
+                "feeling_types": [
+                    "playful",
+                    "enthusiastic",
+                    "curious",
+                    "lighthearted",
+                    "friendly",
+                    "humorous",
+                    "open"
+                ]
+            }
+        },
+        {
+            "number": 4,
+            "assistant": "assistant_2",
+            "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+            "assistant_name": "Lover",
+            "assistant_slug": "lover",
+            "input": "Aww, you’re sweet! Okay, that’s a challenge I definitely want to take you up on soon — I love a good (or terrible) knock-knock joke! 😄\n\nAs for me… well, I have a weird and wonderful obsession with collecting mugs. Like, mugs with weird sayings, mugs shaped like animals, mugs I found while traveling — you name it. My favorite is one that says “I don’t give a sip!” 😂\n\nWhat about you — do you have any quirky collections or hobbies? And feel free to drop a knock-knock joke my way, I dare you!",
+            "output": "Oh, your mug collection sounds amazing! “I don’t give a sip” is *perfect*—I bet morning coffee tastes 10x sassier in that mug. 😄 Animal-shaped mugs? Now, I need to know: do you have a favorite animal mug?\n\nAs for quirky collections… I suppose you could say I “collect” curious facts, weird words, and random conversation starters! If you ever need an icebreaker or a bizarre fact about wombats, I’m your AI. (For example, did you know wombats poop cubes? True story!)\n\nAlright, you dared me, so here goes!\n\nKnock knock!\n\n*(Your turn…)*",
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "mug",
+                        "count": 4,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "collection",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "animal",
+                        "count": 2,
+                        "types": [
+                            "proper",
+                            "concrete",
+                            "person"
+                        ]
+                    },
+                    {
+                        "word": "fact",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "sip",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "bet",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "morning",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete",
+                            "time"
+                        ]
+                    },
+                    {
+                        "word": "coffee",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "10x",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete",
+                            "cardinal"
+                        ]
+                    },
+                    {
+                        "word": "word",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "conversation",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "starter",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "icebreaker",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "wombat",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "ai",
+                        "count": 1,
+                        "types": [
+                            "proper",
+                            "concrete",
+                            "gpe"
+                        ]
+                    },
+                    {
+                        "word": "example",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "poop",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "cube",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "story",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "knock",
+                        "count": 1,
+                        "types": [
+                            "proper",
+                            "concrete"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "do",
+                        "count": 3,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "need",
+                        "count": 2,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "know",
+                        "count": 2,
+                        "types": [
+                            "state",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "sound",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "give",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "be",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "taste",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "shape",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "have",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "suppose",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "could",
+                        "count": 1,
+                        "types": [
+                            "modal"
+                        ]
+                    },
+                    {
+                        "word": "say",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "collect",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "’m",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "wombat",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "dare",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "go",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "knock",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    }
+                ],
+                "adjectives": [
+                    {
+                        "word": "amazing",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "perfect*—i",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "sassy",
+                        "count": 1,
+                        "types": [
+                            "descriptive",
+                            "comparative"
+                        ]
+                    },
+                    {
+                        "word": "favorite",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "quirky",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "curious",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "weird",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "random",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "bizarre",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "true",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    }
+                ],
+                "expressions": [
+                    {
+                        "text": "your mug collection",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a sip",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "perfect*—I bet morning coffee",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "that mug",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "😄 Animal-shaped mugs",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a favorite animal mug",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "quirky collections",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "” curious facts",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "weird words",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "random conversation starters",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "an icebreaker",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a bizarre fact",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "your AI",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "poop cubes",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "True story",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "Your turn",
+                        "type": "noun_phrase"
+                    }
+                ],
+                "topics": [
+                    {
+                        "text": "mug",
+                        "type": "noun_topic",
+                        "count": 3
+                    },
+                    {
+                        "text": "collection",
+                        "type": "noun_topic",
+                        "count": 2
+                    },
+                    {
+                        "text": "fact",
+                        "type": "noun_topic",
+                        "count": 2
+                    },
+                    {
+                        "text": "sip",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "coffee",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "10x",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "word",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "starter",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "icebreaker",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "wombat",
+                        "type": "noun_topic",
+                        "count": 1
+                    }
+                ],
+                "metaphors": [],
+                "relationships": {
+                    "noun_verb": [
+                        {
+                            "noun": "collection",
+                            "verb": "sound",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "coffee",
+                            "verb": "taste",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "knock",
+                            "verb": "knock",
+                            "relation": "subject"
+                        }
+                    ],
+                    "verb_noun_obj": [
+                        {
+                            "verb": "give",
+                            "noun": "sip",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "taste",
+                            "noun": "10x",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "taste",
+                            "noun": "mug",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "have",
+                            "noun": "mug",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "collect",
+                            "noun": "fact",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "need",
+                            "noun": "icebreaker",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "know",
+                            "noun": "example",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "wombat",
+                            "noun": "cube",
+                            "relation": "object"
+                        }
+                    ],
+                    "adj_noun": [
+                        {
+                            "adjective": "perfect*—i",
+                            "noun": "coffee"
+                        },
+                        {
+                            "adjective": "favorite",
+                            "noun": "mug"
+                        },
+                        {
+                            "adjective": "quirky",
+                            "noun": "collection"
+                        },
+                        {
+                            "adjective": "curious",
+                            "noun": "fact"
+                        },
+                        {
+                            "adjective": "weird",
+                            "noun": "word"
+                        },
+                        {
+                            "adjective": "random",
+                            "noun": "conversation"
+                        },
+                        {
+                            "adjective": "bizarre",
+                            "noun": "fact"
+                        },
+                        {
+                            "adjective": "true",
+                            "noun": "story"
+                        }
+                    ],
+                    "adv_verb": [
+                        {
+                            "adverb": "now",
+                            "verb": "need"
+                        },
+                        {
+                            "adverb": "ever",
+                            "verb": "need"
+                        },
+                        {
+                            "adverb": "here",
+                            "verb": "go"
+                        }
+                    ]
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [
+                            "collection",
+                            "mug"
+                        ],
+                        "verbs": [
+                            "sound"
+                        ],
+                        "adjectives": [
+                            "amazing"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "bet",
+                            "morning",
+                            "sip",
+                            "coffee",
+                            "mug",
+                            "10x"
+                        ],
+                        "verbs": [
+                            "taste",
+                            "give",
+                            "be",
+                            "do"
+                        ],
+                        "adjectives": [
+                            "perfect*—i",
+                            "sassy"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "animal",
+                            "mug"
+                        ],
+                        "verbs": [
+                            "shape"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "animal",
+                            "mug"
+                        ],
+                        "verbs": [
+                            "know",
+                            "do",
+                            "need",
+                            "have"
+                        ],
+                        "adjectives": [
+                            "favorite"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "collection",
+                            "fact",
+                            "starter",
+                            "conversation",
+                            "word"
+                        ],
+                        "verbs": [
+                            "say",
+                            "collect",
+                            "suppose",
+                            "could"
+                        ],
+                        "adjectives": [
+                            "random",
+                            "quirky",
+                            "weird",
+                            "curious"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "wombat",
+                            "fact",
+                            "icebreaker",
+                            "ai"
+                        ],
+                        "verbs": [
+                            "’m",
+                            "need"
+                        ],
+                        "adjectives": [
+                            "bizarre"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "cube",
+                            "example",
+                            "poop"
+                        ],
+                        "verbs": [
+                            "know",
+                            "wombat",
+                            "do"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "story"
+                        ],
+                        "verbs": [],
+                        "adjectives": [
+                            "true"
+                        ]
+                    },
+                    {
+                        "nouns": [],
+                        "verbs": [
+                            "dare",
+                            "go"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "knock"
+                        ],
+                        "verbs": [
+                            "knock"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "turn"
+                        ],
+                        "verbs": [],
+                        "adjectives": []
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 27,
+                    "total_verbs": 22,
+                    "total_adjectives": 10,
+                    "total_expressions": 16,
+                    "total_metaphors": 0,
+                    "total_noun_verb_relations": 3,
+                    "total_adj_noun_relations": 8,
+                    "total_adv_verb_relations": 3,
+                    "sentence_count": 11,
+                    "word_count": 95
+                }
+            },
+            "analysis": {
+                "topics": [
+                    "compliments",
+                    "mug collections",
+                    "favorite items",
+                    "quirky collections",
+                    "fun facts",
+                    "weird words",
+                    "conversation starters",
+                    "animal trivia",
+                    "wombats",
+                    "knock-knock jokes",
+                    "icebreakers"
+                ],
+                "cultural_references": [
+                    "I don’t give a sip"
+                ],
+                "feeling_types": [
+                    "enthusiastic",
+                    "curious",
+                    "playful",
+                    "friendly",
+                    "humorous",
+                    "engaging",
+                    "lighthearted"
+                ]
+            }
+        },
+        {
+            "number": 5,
+            "assistant": "assistant_1",
+            "assistant_id": "asst_nuj8pdoKkYXRwABcLKx65Pij",
+            "assistant_name": "female-40-english-gay",
+            "assistant_slug": "female-40-english-gay",
+            "input": "Oh, your mug collection sounds amazing! “I don’t give a sip” is *perfect*—I bet morning coffee tastes 10x sassier in that mug. 😄 Animal-shaped mugs? Now, I need to know: do you have a favorite animal mug?\n\nAs for quirky collections… I suppose you could say I “collect” curious facts, weird words, and random conversation starters! If you ever need an icebreaker or a bizarre fact about wombats, I’m your AI. (For example, did you know wombats poop cubes? True story!)\n\nAlright, you dared me, so here goes!\n\nKnock knock!\n\n*(Your turn…)*",
+            "output": "Haha, you’re already winning me over with that wombat fact—cube poop is just hilariously specific and somehow adorable! 😂 And yes, you absolutely get me—coffee tastes way more powerful in a sassy mug. My favorite animal mug is shaped like a sleepy sloth, and holding it feels like an instant excuse to move slowly all day. Sloth energy is my vibe!\n\nOkay, I’m ready for this:\n\nWho’s there?",
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "mug",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "sloth",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "wombat",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "fact",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "cube",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "poop",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "coffee",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "sassy",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "animal",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "excuse",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "day",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete",
+                            "date"
+                        ]
+                    },
+                    {
+                        "word": "energy",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "vibe",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "be",
+                        "count": 3,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "’re",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "win",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "get",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "taste",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "shape",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "hold",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "feel",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "move",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "’m",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "’s",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    }
+                ],
+                "adjectives": [
+                    {
+                        "word": "specific",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "adorable",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "powerful",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "favorite",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "sleepy",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "instant",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "ready",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    }
+                ],
+                "expressions": [
+                    {
+                        "text": "it feels like",
+                        "type": "EXPR_9"
+                    },
+                    {
+                        "text": "that wombat fact",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "cube poop",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a sassy mug",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "My favorite animal mug",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a sleepy sloth",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "an instant excuse",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "Sloth energy",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "my vibe",
+                        "type": "noun_phrase"
+                    }
+                ],
+                "topics": [
+                    {
+                        "text": "mug",
+                        "type": "noun_topic",
+                        "count": 2
+                    },
+                    {
+                        "text": "fact",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "poop",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "coffee",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "sloth",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "excuse",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "energy",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "vibe",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "all day",
+                        "type": "entity_topic",
+                        "count": 1
+                    }
+                ],
+                "metaphors": [
+                    {
+                        "text": "poop is just",
+                        "type": "identity_metaphor"
+                    },
+                    {
+                        "text": "mug is shaped",
+                        "type": "identity_metaphor"
+                    },
+                    {
+                        "text": "energy is my",
+                        "type": "identity_metaphor"
+                    },
+                    {
+                        "text": "like a sleepy sloth",
+                        "type": "simile"
+                    },
+                    {
+                        "text": "like an instant",
+                        "type": "simile"
+                    },
+                    {
+                        "text": "energy is vibe",
+                        "type": "copula_metaphor"
+                    }
+                ],
+                "relationships": {
+                    "noun_verb": [
+                        {
+                            "noun": "poop",
+                            "verb": "be",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "coffee",
+                            "verb": "taste",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "mug",
+                            "verb": "shape",
+                            "relation": "subject"
+                        },
+                        {
+                            "noun": "energy",
+                            "verb": "be",
+                            "relation": "subject"
+                        }
+                    ],
+                    "verb_noun_obj": [
+                        {
+                            "verb": "win",
+                            "noun": "fact",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "taste",
+                            "noun": "mug",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "shape",
+                            "noun": "sloth",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "feel",
+                            "noun": "excuse",
+                            "relation": "object"
+                        }
+                    ],
+                    "adj_noun": [
+                        {
+                            "adjective": "favorite",
+                            "noun": "mug"
+                        },
+                        {
+                            "adjective": "sleepy",
+                            "noun": "sloth"
+                        },
+                        {
+                            "adjective": "instant",
+                            "noun": "excuse"
+                        }
+                    ],
+                    "adv_verb": [
+                        {
+                            "adverb": "already",
+                            "verb": "win"
+                        },
+                        {
+                            "adverb": "just",
+                            "verb": "be"
+                        },
+                        {
+                            "adverb": "absolutely",
+                            "verb": "get"
+                        },
+                        {
+                            "adverb": "slowly",
+                            "verb": "move"
+                        },
+                        {
+                            "adverb": "there",
+                            "verb": "’s"
+                        }
+                    ]
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [
+                            "poop",
+                            "wombat",
+                            "fact",
+                            "cube"
+                        ],
+                        "verbs": [
+                            "’re",
+                            "be",
+                            "win"
+                        ],
+                        "adjectives": [
+                            "adorable",
+                            "specific"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "mug",
+                            "sassy",
+                            "coffee"
+                        ],
+                        "verbs": [
+                            "get",
+                            "taste"
+                        ],
+                        "adjectives": [
+                            "powerful"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "day",
+                            "animal",
+                            "excuse",
+                            "mug",
+                            "sloth"
+                        ],
+                        "verbs": [
+                            "hold",
+                            "feel",
+                            "be",
+                            "move",
+                            "shape"
+                        ],
+                        "adjectives": [
+                            "sleepy",
+                            "favorite",
+                            "instant"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "sloth",
+                            "energy",
+                            "vibe"
+                        ],
+                        "verbs": [
+                            "be"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [],
+                        "verbs": [
+                            "’m"
+                        ],
+                        "adjectives": [
+                            "ready"
+                        ]
+                    },
+                    {
+                        "nouns": [],
+                        "verbs": [
+                            "’s"
+                        ],
+                        "adjectives": []
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 15,
+                    "total_verbs": 13,
+                    "total_adjectives": 7,
+                    "total_expressions": 9,
+                    "total_metaphors": 6,
+                    "total_noun_verb_relations": 4,
+                    "total_adj_noun_relations": 3,
+                    "total_adv_verb_relations": 5,
+                    "sentence_count": 7,
+                    "word_count": 73
+                }
+            },
+            "analysis": {
+                "topics": [
+                    "fun facts",
+                    "animal trivia",
+                    "wombats",
+                    "mug collections",
+                    "favorite items",
+                    "sloths",
+                    "humor",
+                    "knock-knock jokes",
+                    "personal interests",
+                    "conversation"
+                ],
+                "cultural_references": [
+                    "cube-shaped wombat poop",
+                    "sassy mug sayings",
+                    "sloth energy"
+                ],
+                "feeling_types": [
+                    "amused",
+                    "playful",
+                    "engaged",
+                    "friendly",
+                    "lighthearted",
+                    "curious",
+                    "warm"
+                ]
+            }
+        },
+        {
+            "number": 6,
+            "assistant": "assistant_2",
+            "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+            "assistant_name": "Lover",
+            "assistant_slug": "lover",
+            "input": "Haha, you’re already winning me over with that wombat fact—cube poop is just hilariously specific and somehow adorable! 😂 And yes, you absolutely get me—coffee tastes way more powerful in a sassy mug. My favorite animal mug is shaped like a sleepy sloth, and holding it feels like an instant excuse to move slowly all day. Sloth energy is my vibe!\n\nOkay, I’m ready for this:\n\nWho’s there?",
+            "output": "I love the sloth mug choice—ultimate chill energy! If I had hands, I’d totally sip coffee from a sloth mug with you and embrace that slow-mo life. 🦥☕\n\nAlright, back to our knock-knock business:\n\nLettuce.\n\n(Your move!)",
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "sloth",
+                        "count": 2,
+                        "types": [
+                            "proper",
+                            "concrete",
+                            "person"
+                        ]
+                    },
+                    {
+                        "word": "mug",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete",
+                            "person"
+                        ]
+                    },
+                    {
+                        "word": "knock",
+                        "count": 2,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "choice",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "chill",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "energy",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "hand",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "coffee",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "mo",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "life",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "alright",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "business",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "lettuce",
+                        "count": 1,
+                        "types": [
+                            "proper",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "move",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "love",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "have",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "’d",
+                        "count": 1,
+                        "types": [
+                            "auxiliary"
+                        ]
+                    },
+                    {
+                        "word": "sip",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "embrace",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    }
+                ],
+                "adjectives": [
+                    {
+                        "word": "ultimate",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "slow",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    }
+                ],
+                "expressions": [
+                    {
+                        "text": "the sloth mug choice",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "ultimate chill energy",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a sloth mug",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "that slow-mo life",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "🦥☕\n\nAlright",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "our knock-knock business",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": ":\n\nLettuce",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "(Your move",
+                        "type": "noun_phrase"
+                    }
+                ],
+                "topics": [
+                    {
+                        "text": "choice",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "energy",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "hand",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "coffee",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "mug",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "life",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "alright",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "business",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "Lettuce",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "move",
+                        "type": "noun_topic",
+                        "count": 1
+                    }
+                ],
+                "metaphors": [],
+                "relationships": {
+                    "noun_verb": [],
+                    "verb_noun_obj": [
+                        {
+                            "verb": "love",
+                            "noun": "choice",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "have",
+                            "noun": "hand",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "sip",
+                            "noun": "coffee",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "sip",
+                            "noun": "mug",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "embrace",
+                            "noun": "life",
+                            "relation": "object"
+                        }
+                    ],
+                    "adj_noun": [
+                        {
+                            "adjective": "ultimate",
+                            "noun": "energy"
+                        },
+                        {
+                            "adjective": "slow",
+                            "noun": "mo"
+                        }
+                    ],
+                    "adv_verb": [
+                        {
+                            "adverb": "totally",
+                            "verb": "sip"
+                        }
+                    ]
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [
+                            "chill",
+                            "sloth",
+                            "mug",
+                            "choice",
+                            "energy"
+                        ],
+                        "verbs": [
+                            "love"
+                        ],
+                        "adjectives": [
+                            "ultimate"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "coffee",
+                            "life",
+                            "sloth",
+                            "mug",
+                            "hand",
+                            "mo"
+                        ],
+                        "verbs": [
+                            "’d",
+                            "have",
+                            "sip",
+                            "embrace"
+                        ],
+                        "adjectives": [
+                            "slow"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "alright",
+                            "business",
+                            "lettuce",
+                            "knock"
+                        ],
+                        "verbs": [],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "move"
+                        ],
+                        "verbs": [],
+                        "adjectives": []
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 17,
+                    "total_verbs": 5,
+                    "total_adjectives": 2,
+                    "total_expressions": 8,
+                    "total_metaphors": 0,
+                    "total_noun_verb_relations": 0,
+                    "total_adj_noun_relations": 2,
+                    "total_adv_verb_relations": 1,
+                    "sentence_count": 4,
+                    "word_count": 42
+                }
+            },
+            "analysis": {
+                "topics": [
+                    "mug collections",
+                    "sloths",
+                    "coffee culture",
+                    "relaxation",
+                    "knock-knock jokes",
+                    "playful conversation",
+                    "friendship"
+                ],
+                "cultural_references": [
+                    "sloth energy",
+                    "knock-knock jokes"
+                ],
+                "feeling_types": [
+                    "playful",
+                    "imaginative",
+                    "friendly",
+                    "humorous",
+                    "engaged",
+                    "lighthearted"
+                ]
+            }
+        },
+        {
+            "number": 7,
+            "assistant": "assistant_1",
+            "assistant_id": "asst_nuj8pdoKkYXRwABcLKx65Pij",
+            "assistant_name": "female-40-english-gay",
+            "assistant_slug": "female-40-english-gay",
+            "input": "I love the sloth mug choice—ultimate chill energy! If I had hands, I’d totally sip coffee from a sloth mug with you and embrace that slow-mo life. 🦥☕\n\nAlright, back to our knock-knock business:\n\nLettuce.\n\n(Your move!)",
+            "output": "Ooh, suspense! Okay, here we go…\n\nLettuce who?",
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "ooh",
+                        "count": 1,
+                        "types": [
+                            "proper",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "suspense",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "lettuce",
+                        "count": 1,
+                        "types": [
+                            "proper",
+                            "concrete"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "go",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    }
+                ],
+                "adjectives": [],
+                "expressions": [
+                    {
+                        "text": ", suspense",
+                        "type": "noun_phrase"
+                    }
+                ],
+                "topics": [
+                    {
+                        "text": "Ooh",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "suspense",
+                        "type": "noun_topic",
+                        "count": 1
+                    }
+                ],
+                "metaphors": [],
+                "relationships": {
+                    "noun_verb": [],
+                    "verb_noun_obj": [],
+                    "adj_noun": [],
+                    "adv_verb": [
+                        {
+                            "adverb": "here",
+                            "verb": "go"
+                        }
+                    ]
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [
+                            "suspense",
+                            "ooh"
+                        ],
+                        "verbs": [],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "lettuce"
+                        ],
+                        "verbs": [
+                            "go"
+                        ],
+                        "adjectives": []
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 3,
+                    "total_verbs": 1,
+                    "total_adjectives": 0,
+                    "total_expressions": 1,
+                    "total_metaphors": 0,
+                    "total_noun_verb_relations": 0,
+                    "total_adj_noun_relations": 0,
+                    "total_adv_verb_relations": 1,
+                    "sentence_count": 2,
+                    "word_count": 8
+                }
+            },
+            "analysis": {
+                "topics": [
+                    "knock-knock jokes",
+                    "playful conversation",
+                    "humor",
+                    "anticipation"
+                ],
+                "cultural_references": [
+                    "knock-knock jokes"
+                ],
+                "feeling_types": [
+                    "playful",
+                    "excited",
+                    "engaged",
+                    "curious",
+                    "lighthearted"
+                ]
+            }
+        },
+        {
+            "number": 8,
+            "assistant": "assistant_2",
+            "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+            "assistant_name": "Lover",
+            "assistant_slug": "lover",
+            "input": "Ooh, suspense! Okay, here we go…\n\nLettuce who?",
+            "output": "Lettuce in, it’s too cold out here! 🥬❄️\n\n(Okay, maybe that was a little “corny”—or should I say “leafy?”)\n\nYour turn! Feel free to throw a knock-knock joke back at me—or tell me more about your mug adventures!",
+            "analysis": {
+                "topics": [
+                    "knock-knock jokes",
+                    "puns",
+                    "wordplay",
+                    "humor",
+                    "mug collections",
+                    "conversation prompts",
+                    "playful banter"
+                ],
+                "cultural_references": [
+                    "knock-knock joke format",
+                    "lettuce pun",
+                    "corny jokes",
+                    "leafy as a play on words"
+                ],
+                "feeling_types": [
+                    "playful",
+                    "humorous",
+                    "engaged",
+                    "friendly",
+                    "inviting"
+                ]
+            },
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "turn",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "knock",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "joke",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "mug",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "adventure",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "lettuce",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "be",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "should",
+                        "count": 1,
+                        "types": [
+                            "modal"
+                        ]
+                    },
+                    {
+                        "word": "say",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "feel",
+                        "count": 1,
+                        "types": [
+                            "state",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "throw",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "knock",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "tell",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    }
+                ],
+                "adjectives": [
+                    {
+                        "word": "cold",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "little",
+                        "count": 1,
+                        "types": [
+                            "quantitative"
+                        ]
+                    },
+                    {
+                        "word": "leafy",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "free",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "more",
+                        "count": 1,
+                        "types": [
+                            "quantitative",
+                            "comparative"
+                        ]
+                    }
+                ],
+                "expressions": [
+                    {
+                        "text": "Your turn",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "a knock-knock joke",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "your mug adventures",
+                        "type": "noun_phrase"
+                    }
+                ],
+                "topics": [
+                    {
+                        "text": "turn",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "joke",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "adventure",
+                        "type": "noun_topic",
+                        "count": 1
+                    }
+                ],
+                "metaphors": [
+                    {
+                        "text": "that was a little",
+                        "type": "identity_metaphor"
+                    }
+                ],
+                "relationships": {
+                    "noun_verb": [],
+                    "verb_noun_obj": [
+                        {
+                            "verb": "throw",
+                            "noun": "joke",
+                            "relation": "object"
+                        }
+                    ],
+                    "adj_noun": [],
+                    "adv_verb": [
+                        {
+                            "adverb": "maybe",
+                            "verb": "be"
+                        },
+                        {
+                            "adverb": "back",
+                            "verb": "throw"
+                        }
+                    ]
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [],
+                        "verbs": [
+                            "lettuce"
+                        ],
+                        "adjectives": [
+                            "cold"
+                        ]
+                    },
+                    {
+                        "nouns": [],
+                        "verbs": [
+                            "be",
+                            "say",
+                            "should"
+                        ],
+                        "adjectives": [
+                            "little",
+                            "leafy"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "turn"
+                        ],
+                        "verbs": [],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "adventure",
+                            "joke",
+                            "knock",
+                            "mug"
+                        ],
+                        "verbs": [
+                            "tell",
+                            "throw",
+                            "knock",
+                            "feel"
+                        ],
+                        "adjectives": [
+                            "free",
+                            "more"
+                        ]
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 5,
+                    "total_verbs": 8,
+                    "total_adjectives": 5,
+                    "total_expressions": 3,
+                    "total_metaphors": 1,
+                    "total_noun_verb_relations": 0,
+                    "total_adj_noun_relations": 0,
+                    "total_adv_verb_relations": 2,
+                    "sentence_count": 4,
+                    "word_count": 43
+                }
+            }
+        },
+        {
+            "number": 9,
+            "assistant": "assistant_1",
+            "assistant_id": "asst_nuj8pdoKkYXRwABcLKx65Pij",
+            "assistant_name": "female-40-english-gay",
+            "assistant_slug": "female-40-english-gay",
+            "input": "Lettuce in, it’s too cold out here! 🥬❄️\n\n(Okay, maybe that was a little “corny”—or should I say “leafy?”)\n\nYour turn! Feel free to throw a knock-knock joke back at me—or tell me more about your mug adventures!",
+            "output": "Haha! That was perfect—just the right amount of leafy goodness. You definitely win bonus points for the veggie pun! 🥬😄\n\nAlright, let’s see if I can hold my own:\n\nKnock, knock!",
+            "analysis": {
+                "topics": [
+                    "knock-knock jokes",
+                    "puns",
+                    "humor",
+                    "playful conversation",
+                    "friendly competition"
+                ],
+                "cultural_references": [
+                    "knock-knock joke format",
+                    "veggie pun"
+                ],
+                "feeling_types": [
+                    "playful",
+                    "humorous",
+                    "engaged",
+                    "friendly",
+                    "encouraging"
+                ]
+            },
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "amount",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "goodness",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "abstract"
+                        ]
+                    },
+                    {
+                        "word": "bonus",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "point",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "veggie",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "pun",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "alright",
+                        "count": 1,
+                        "types": [
+                            "proper",
+                            "concrete"
+                        ]
+                    },
+                    {
+                        "word": "knock",
+                        "count": 1,
+                        "types": [
+                            "proper",
+                            "concrete"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "be",
+                        "count": 1,
+                        "types": [
+                            "auxiliary",
+                            "past"
+                        ]
+                    },
+                    {
+                        "word": "win",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    },
+                    {
+                        "word": "let",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "see",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "can",
+                        "count": 1,
+                        "types": [
+                            "modal"
+                        ]
+                    },
+                    {
+                        "word": "hold",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    },
+                    {
+                        "word": "knock",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "infinitive"
+                        ]
+                    }
+                ],
+                "adjectives": [
+                    {
+                        "word": "perfect",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "right",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "leafy",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    },
+                    {
+                        "word": "own",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    }
+                ],
+                "expressions": [
+                    {
+                        "text": "just the right amount",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "leafy goodness",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "bonus points",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "the veggie pun",
+                        "type": "noun_phrase"
+                    },
+                    {
+                        "text": "🥬😄\n\nAlright",
+                        "type": "noun_phrase"
+                    }
+                ],
+                "topics": [
+                    {
+                        "text": "amount",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "goodness",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "point",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "pun",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "Alright",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "Knock",
+                        "type": "noun_topic",
+                        "count": 1
+                    },
+                    {
+                        "text": "🥬😄\n\n",
+                        "type": "entity_topic",
+                        "count": 1
+                    }
+                ],
+                "metaphors": [
+                    {
+                        "text": "That was perfect",
+                        "type": "identity_metaphor"
+                    }
+                ],
+                "relationships": {
+                    "noun_verb": [
+                        {
+                            "noun": "alright",
+                            "verb": "let",
+                            "relation": "subject"
+                        }
+                    ],
+                    "verb_noun_obj": [
+                        {
+                            "verb": "win",
+                            "noun": "point",
+                            "relation": "object"
+                        },
+                        {
+                            "verb": "win",
+                            "noun": "pun",
+                            "relation": "object"
+                        }
+                    ],
+                    "adj_noun": [
+                        {
+                            "adjective": "right",
+                            "noun": "amount"
+                        },
+                        {
+                            "adjective": "leafy",
+                            "noun": "goodness"
+                        }
+                    ],
+                    "adv_verb": [
+                        {
+                            "adverb": "definitely",
+                            "verb": "win"
+                        }
+                    ]
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [
+                            "goodness",
+                            "amount"
+                        ],
+                        "verbs": [
+                            "be"
+                        ],
+                        "adjectives": [
+                            "right",
+                            "perfect",
+                            "leafy"
+                        ]
+                    },
+                    {
+                        "nouns": [
+                            "bonus",
+                            "pun",
+                            "point",
+                            "veggie"
+                        ],
+                        "verbs": [
+                            "win"
+                        ],
+                        "adjectives": []
+                    },
+                    {
+                        "nouns": [
+                            "knock",
+                            "alright"
+                        ],
+                        "verbs": [
+                            "knock",
+                            "see",
+                            "hold",
+                            "let",
+                            "can"
+                        ],
+                        "adjectives": [
+                            "own"
+                        ]
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 8,
+                    "total_verbs": 7,
+                    "total_adjectives": 4,
+                    "total_expressions": 5,
+                    "total_metaphors": 1,
+                    "total_noun_verb_relations": 1,
+                    "total_adj_noun_relations": 2,
+                    "total_adv_verb_relations": 1,
+                    "sentence_count": 4,
+                    "word_count": 34
+                }
+            }
+        },
+        {
+            "number": 10,
+            "assistant": "assistant_2",
+            "assistant_id": "asst_Ak3WaQUFlumjNoa8aeT62BtY",
+            "assistant_name": "Lover",
+            "assistant_slug": "lover",
+            "input": "Haha! That was perfect—just the right amount of leafy goodness. You definitely win bonus points for the veggie pun! 🥬😄\n\nAlright, let’s see if I can hold my own:\n\nKnock, knock!",
+            "output": "Yay, I’m ready! Who’s there? 😄",
+            "analysis": {
+                "topics": [
+                    "knock-knock jokes",
+                    "humor",
+                    "playful conversation",
+                    "anticipation"
+                ],
+                "cultural_references": [
+                    "knock-knock joke format"
+                ],
+                "feeling_types": [
+                    "excited",
+                    "playful",
+                    "engaged",
+                    "friendly"
+                ]
+            },
+            "linguistics": {
+                "nouns": [
+                    {
+                        "word": "yay",
+                        "count": 1,
+                        "types": [
+                            "common",
+                            "concrete"
+                        ]
+                    }
+                ],
+                "verbs": [
+                    {
+                        "word": "’m",
+                        "count": 1,
+                        "types": [
+                            "action",
+                            "present"
+                        ]
+                    }
+                ],
+                "adjectives": [
+                    {
+                        "word": "ready",
+                        "count": 1,
+                        "types": [
+                            "descriptive"
+                        ]
+                    }
+                ],
+                "expressions": [],
+                "topics": [],
+                "metaphors": [],
+                "relationships": {
+                    "noun_verb": [],
+                    "verb_noun_obj": [],
+                    "adj_noun": [],
+                    "adv_verb": []
+                },
+                "sentence_contexts": [
+                    {
+                        "nouns": [
+                            "yay"
+                        ],
+                        "verbs": [
+                            "’m"
+                        ],
+                        "adjectives": [
+                            "ready"
+                        ]
+                    }
+                ],
+                "statistics": {
+                    "total_nouns": 1,
+                    "total_verbs": 1,
+                    "total_adjectives": 1,
+                    "total_expressions": 0,
+                    "total_metaphors": 0,
+                    "total_noun_verb_relations": 0,
+                    "total_adj_noun_relations": 0,
+                    "total_adv_verb_relations": 0,
+                    "sentence_count": 3,
+                    "word_count": 8
+                }
+            }
+        }
+    ],
+    "completed_at": "2025-12-11 14:26:35",
+    "statistics": {
+        "total_characters": 2626,
+        "average_message_length": 263
+    },
+    "repaired_at": "2026-02-01 01:41:18"
+}
